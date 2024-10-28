@@ -1,0 +1,52 @@
+                precision    recall  f1-score   support
+
+           0       0.87      0.98      0.92       380
+           1       0.46      0.10      0.16        61
+
+    accuracy                           0.86       441
+   macro avg       0.67      0.54      0.54       441
+weighted avg       0.81      0.86      0.82       441
+
+
+Class Breakdown (0 and 1)
+Class 0: This represents employees not leaving (staying with the company).
+Class 1: This represents employees leaving (attrition).
+Metrics:
+Precision: The proportion of true positive predictions to the total predicted positives (i.e., how many predicted "leaving" employees were actually leaving).
+
+For class 0 (employees staying), precision = 0.87, meaning 87% of employees predicted to stay were actually staying.
+For class 1 (employees leaving), precision = 0.46, meaning only 46% of employees predicted to leave were truly leaving.
+Recall: The proportion of true positive predictions to the total actual positives (i.e., how many actual leaving employees were predicted as leaving).
+
+For class 0, recall = 0.98, meaning the model correctly identified 98% of employees who were truly staying.
+For class 1, recall = 0.10, meaning the model correctly identified only 10% of employees who were actually leaving. This is very low, meaning the model misses a lot of employees who leave.
+F1-Score: The harmonic mean of precision and recall, providing a balance between the two. It ranges from 0 to 1, with 1 being the best.
+
+For class 0, the f1-score = 0.92, indicating very good performance for predicting employees who stay.
+For class 1, the f1-score = 0.16, which is poor and shows the model struggles to predict employees who will leave accurately.
+Support: The actual number of occurrences of each class in the dataset.
+
+There are 380 employees who stayed (class 0) and 61 employees who left (class 1).
+Overall Metrics:
+Accuracy: The proportion of total correct predictions (both staying and leaving) to the total number of samples. Here, accuracy = 0.86, meaning 86% of all employees were correctly classified as either staying or leaving. However, accuracy can be misleading, especially when there is class imbalance (which is the case here, as 380 employees stayed and only 61 left).
+
+Macro Average:
+
+Macro avg precision = 0.67: This is the average precision across both classes (0 and 1), treating both classes equally.
+Macro avg recall = 0.54: The average recall across both classes, again treating both equally.
+Macro avg f1-score = 0.54: Average f1-score across both classes.
+Weighted Average:
+
+Weighted avg precision = 0.81: The weighted average precision considers the support (number of actual occurrences) of each class, so it is dominated by class 0 since most employees stayed.
+Weighted avg recall = 0.86: Similarly, the weighted recall emphasizes the majority class (staying employees).
+Weighted avg f1-score = 0.82: The weighted f1-score reflects overall model performance, but it skews towards the class with more samples.
+Key Observations:
+Class Imbalance: The model performs well for the majority class (employees who stay), as seen by the high precision (0.87) and recall (0.98). However, it performs very poorly for predicting employees who leave (class 1), with a low recall (0.10) and f1-score (0.16). This is likely due to the imbalance between the number of samples in class 0 (380) and class 1 (61).
+
+High Accuracy but Low Attrition Prediction: The overall accuracy of 86% seems good, but the model is not reliable at predicting attrition. This is because accuracy is inflated by the large number of employees staying.
+
+Conclusion:
+The model is good at predicting employees who will stay but struggles significantly with identifying those who will leave. This is a common issue in models trained on imbalanced datasets. You could try techniques like:
+
+Oversampling the minority class (employees leaving) or undersampling the majority class (employees staying).
+Trying more sophisticated models like Random Forest, XGBoost, or adjusting thresholds to better capture attrition.

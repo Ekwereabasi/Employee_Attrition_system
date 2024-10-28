@@ -1,0 +1,270 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Attrition Prediction Result</title>
+    <style>
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background: 
+        linear-gradient(
+            rgba(0, 51, 102, 0.7), 
+            rgba(255, 153, 51, 0.7) 
+        ),
+        url("{% static 'employee_attrition/Assest/Pred_result.png' %}") no-repeat center center fixed;
+    background-size: cover;
+}
+
+.container {
+    max-width: 600px;
+    margin: 50px auto;
+    background: transparent;
+    border: 2px solid rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(50px);
+    padding: 30px 40px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+    color: white;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    margin-bottom: 20px;
+    color: rgb(5, 5, 5);
+}
+
+p {
+    font-size: 1.1em;
+    line-height: 1.5;
+}
+.result-box {
+    padding: 20px;
+    background: transparent;
+    border: 1px solid #ccc;
+    margin: 20px 0;
+    border-radius: 5px;
+}
+
+.alert-success {
+    color: green;
+    font-weight: bold;
+}
+.alert-danger {
+    color: red;
+    font-weight: bold;
+}
+
+input,
+select {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 2px solid rgba(255, 255, 255, 0.2);
+    border-radius: 40px;
+    background: transparent;
+    color: black;
+    font-size: 16px;
+}
+
+.custom-select {
+    width: 100%;
+    padding: 10px;
+    background-color: #5ec2a3;
+    border: none;
+    border-radius: 40px;
+    color: #fff;
+}
+.custom-select option {
+    background-color: #5ec2a3;
+    color: #fff;
+    padding: 20px;
+}
+
+button,
+.btn {
+    width: 40%;
+    padding: 10px;
+    background-color: #fff;
+    border: none;
+    color: #333;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 40px;
+    font-size: 16px;
+    font-weight: 700;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 1);
+}
+button:hover,
+.btn:hover {
+    background-color: #ccc;
+    transform: scale(1.05);
+}
+
+.error, .alert {
+    color: #fff;
+    font-size: 0.9em;
+    text-align: center;
+    display: none;
+}
+
+.employee-data-container {
+    background: transparent;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+    max-width: 800px;
+    margin: 20px auto;
+}
+
+.data-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    font-size: 1.1rem;
+}
+.data-list li {
+    display: flex;
+    justify-content: space-between;
+    padding: 12px 0;
+    border-bottom: 1px solid #ddd;
+    font-size: 1rem;
+    line-height: 1.5;
+}
+.data-list li span {
+    font-weight: bold;
+    color: #007BFF;
+    text-transform: capitalize;
+    flex-basis: 40%;
+    text-align: left;
+}
+.data-list li::after {
+    content: attr(data-value);
+    font-weight: normal;
+    color: #333;
+    flex-basis: 60%;
+    text-align: right;
+}
+.data-list li:last-child {
+    border-bottom: none;
+}
+.data-list li:hover {
+    background-color: #c2bfbf;
+    border-radius: 5px;
+}
+
+@media (max-width: 768px) {
+    .container {
+        max-width: 90%;
+        margin: 30px auto;
+        padding: 20px 30px;
+    }
+    h2 {
+        font-size: 1.5em;
+        margin-bottom: 15px;
+    }
+    button, .btn {
+        width: 100%;
+        padding: 15px;
+        font-size: 14px;
+    }
+    input,
+    select {
+        font-size: 14px;
+        padding: 8px;
+    }
+    .data-list li {
+        display: block;
+        padding: 10px 0;
+    }
+    .data-list li span {
+        display: block;
+        margin-bottom: 5px;
+    }
+    .data-list li::after {
+        display: block;
+        font-weight: normal;
+        margin-bottom: 10px;
+    }
+}
+
+@media (max-width: 480px) {
+    .container {
+        max-width: 90%;
+        margin: 20px auto;
+        padding: 15px 20px;
+        border: 1px solid rgba(255, 255, 255, 0.2);
+        box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+    }
+    h2 {
+        font-size: 1.3em;
+    }
+    input,
+    select {
+        font-size: 13px;
+        padding: 7px;
+    }
+    button, .btn {
+        font-size: 14px;
+    }
+}
+
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h2>Prediction Result</h2>
+
+        <div class="result-box">
+            {% if prediction == "Likely to leave" %}
+            <p class="alert-danger">The employee is likely to leave the company (High Attrition Risk).</p>
+            <p>We recommend focusing on the following areas to reduce attrition:</p>
+            <ul>
+                <li>Work-life balance improvements.</li>
+                <li>Review compensation and career growth opportunities.</li>
+                <li>Ensure job satisfaction is addressed.</li>
+            </ul>
+            {% else %}
+            <p class="alert-success">The employee is unlikely to leave the company (Low Attrition Risk).</p>
+            <p>Keep maintaining a healthy work environment to retain valuable talent.</p>
+            {% endif %}
+        </div>
+
+        <h3>Submitted Data</h3>
+        <div class="employee-data-container">
+            <ul class="data-list">
+                <li><span>Age:</span> {{ age }}</li>
+                <li><span>Daily Rate:</span> {{ daily_rate }}</li>
+                <li><span>Distance From Home:</span> {{ distance_from_home }}</li>
+                <li><span>Monthly Income:</span> {{ monthly_income }}</li>
+                <li><span>Business Travel:</span> {{ business_travel }}</li>
+                <li><span>Department:</span> {{ department }}</li>
+                <li><span>Education Field:</span> {{ education_field }}</li>
+                <li><span>Gender:</span> {{ gender }}</li>
+                <li><span>Job Role:</span> {{ job_role }}</li>
+                <li><span>Marital Status:</span> {{ marital_status }}</li>
+                <li><span>Job Satisfaction:</span> {{ job_satisfaction }}</li>
+                <li><span>Job Level:</span> {{ job_level }}</li>
+                <li><span>Work-Life Balance:</span> {{ work_life_balance }}</li>
+                <li><span>Years at Company:</span> {{ years_at_company }}</li>
+                <li><span>Years in Current Role:</span> {{ years_in_current_role }}</li>
+                <li><span>Overtime:</span> {{ overtime }}</li>
+                <li><span>Prediction:</span> {{ prediction }}</li>
+            </ul>
+        </div>
+
+
+        <a href="{% url 'predict_attrition' %}" class="btn">Make Another Prediction</a>
+    </div>
+</body>
+
+</html>

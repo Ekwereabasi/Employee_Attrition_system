@@ -1,0 +1,36 @@
+                precision    recall  f1-score   support
+
+           0       0.89      0.96      0.93       380
+           1       0.56      0.30      0.39        61
+
+    accuracy                           0.87       441
+   macro avg       0.73      0.63      0.66       441
+weighted avg       0.85      0.87      0.85       441
+
+
+Key Terms:
+Precision: The proportion of positive predictions that are actually correct.
+High precision means when the model predicts an employee will leave, it is correct most of the time.
+Recall: The proportion of actual positives that are correctly identified.
+High recall means the model catches most of the employees who will leave, even if it also makes some wrong predictions.
+F1-Score: The harmonic mean of precision and recall, balancing both metrics.
+Support: The number of true instances for each class in the test data.
+Interpretation of Results:
+Class 0 (Employees staying):
+Precision (0.89): Out of all the predictions made for employees who stayed, 89% were correct.
+Recall (0.96): The model correctly identified 96% of the employees who actually stayed.
+F1-Score (0.93): The model strikes a good balance between precision and recall for this class, giving an overall strong performance in identifying employees who stay.
+Support (380): There are 380 employees who actually stayed in the test data.
+Class 1 (Employees leaving):
+Precision (0.56): Out of the predictions for employees leaving, 56% were correct.
+Recall (0.30): The model only caught 30% of the employees who actually left. This is relatively low, indicating that many employees who left were misclassified as staying.
+F1-Score (0.39): This lower score reflects the poor balance between precision and recall for this class.
+Support (61): There are 61 employees who actually left in the test data.
+Overall Performance:
+Accuracy (0.87): The model is 87% accurate overall, meaning it correctly classified 87% of all employees (both those who stayed and those who left).
+Macro Avg (Precision: 0.73, Recall: 0.63, F1-Score: 0.66): These are the unweighted averages of precision, recall, and F1-score across both classes. They highlight the model’s performance on both classes but don’t account for the imbalance between them.
+Weighted Avg (Precision: 0.85, Recall: 0.87, F1-Score: 0.85): These are the averages weighted by the number of instances in each class. Since there are many more employees staying than leaving, this average heavily reflects the model’s performance on the majority class (employees staying).
+Insights:
+The model performs well in predicting employees who stay (class 0) with high precision and recall.
+The model struggles with predicting employees who will leave (class 1), with both low recall (0.30) and F1-score (0.39). It’s missing a large portion of employees who are at risk of leaving.
+This indicates an imbalance problem, where the model is biased towards predicting that employees will stay, potentially because the dataset has many more examples of employees staying than leaving.

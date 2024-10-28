@@ -1,0 +1,320 @@
+    {% load static %}
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Predict Attrition</title>
+    <style>
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background: 
+        linear-gradient(
+            rgba(0, 51, 102, 0.7), 
+            rgba(255, 153, 51, 0.7) 
+        ),
+        url("{% static 'employee_attrition/Assest/Pred_result.png' %}") no-repeat center center fixed;
+    background-size: cover;
+}
+
+
+.container {
+    max-width: 600px;
+    margin: 50px auto;
+    background: transparent;
+    border: 2px solid rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(50px);
+    padding: 30px 40px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+    color: white;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    margin-bottom: 20px;
+    color: rgb(5, 5, 5);
+}
+
+input,
+select {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 2px solid rgba(255, 255, 255, 0.2);
+    border-radius: 40px;
+    background: transparent;
+    color: black;
+    font-size: 16px;
+}
+
+button {
+    width: 40%;
+    padding: 10px;
+    background-color: #fff;
+    border: none;
+    color: #333;
+    cursor: pointer;
+    border-radius: 40px;
+    font-size: 16px;
+    font-weight: 700;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 1);
+}
+
+button:hover {
+    background-color: #ccc;
+    transform: scale(1.05);
+}
+
+.error, .alert {
+    color: #fff;
+    font-size: 0.9em;
+    text-align: center;
+    display: none;
+}
+
+.custom-select {
+    width: 100%;
+    padding: 10px;
+    background-color: #5ec2a3;
+    border: none;
+    border-radius: 40px;
+    color: #fff;
+}
+
+.custom-select option {
+    background-color: #5ec2a3;
+    color: #fff;
+    padding: 20px;
+}
+
+@media (max-width: 768px) {
+    .container {
+        max-width: 90%;
+        margin: 30px auto;
+        padding: 20px 30px;
+    }
+
+    h2 {
+        font-size: 1.5em;
+        margin-bottom: 15px;
+    }
+
+    button {
+        width: 100%;
+        padding: 15px;
+        font-size: 14px;
+    }
+
+    input,
+    select {
+        font-size: 14px;
+        padding: 8px;
+    }
+}
+
+@media (max-width: 480px) {
+    body {
+        background-size: cover; 
+    }
+
+    .container {
+        max-width: 90%;
+        margin: 20px auto;
+        padding: 15px 20px; 
+        border: 1px solid rgba(255, 255, 255, 0.2);
+        box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+    }
+
+    h2 {
+        font-size: 1.3em;
+    }
+
+    input,
+    select {
+        font-size: 13px;
+        padding: 7px;
+    }
+
+    button {
+        font-size: 14px;
+    }
+}
+
+
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Employee Attrition Prediction</h2>
+        <form id="attritionForm" action="{% url 'predict_attrition' %}" method="POST">
+            {% csrf_token %}
+
+            <label for="Age">Age</label>
+            <input type="number" id="age" name="Age" min="18" max="65" required>
+            <div id="ageError" class="error">Age must be between 18 and 65.</div>
+
+            <label for="DailyRate">Daily Rate</label>
+            <input type="number" id="dailyRate" name="DailyRate" min="1" required>
+
+            <label for="DistanceFromHome">Distance From Home</label>
+            <input type="number" id="distanceFromHome" name="DistanceFromHome" required>
+
+            <label for="Education">Education Level</label>
+            <select name="Education" required>
+                <option value="1">Below College</option>
+                <option value="2">College</option>
+                <option value="3">Bachelor</option>
+                <option value="4">Master</option>
+                <option value="5">Doctor</option>
+            </select>
+
+            <label for="JobLevel">Job Level</label>
+            <select name="JobLevel" required>
+                <option value="1">Entry Level</option>
+                <option value="2">Mid Level</option>
+                <option value="3">Senior Level</option>
+                <option value="4">Manager</option>
+                <option value="5">Executive</option>
+            </select>
+
+            <label for="JobSatisfaction">Job Satisfaction</label>
+            <select name="JobSatisfaction" required>
+                <option value="1">Low</option>
+                <option value="2">Medium</option>
+                <option value="3">High</option>
+                <option value="4">Very High</option>
+            </select>
+
+            <label for="MonthlyIncome">Monthly Income</label>
+            <input type="number" id="monthlyIncome" name="MonthlyIncome" required>
+            <div id="incomeFeedback" class="alert"></div>
+
+            <label for="WorkLifeBalance">Work-Life Balance</label>
+            <select name="WorkLifeBalance" required>
+                <option value="1">Bad</option>
+                <option value="2">Good</option>
+                <option value="3">Better</option>
+                <option value="4">Best</option>
+            </select>
+
+            <label for="YearsAtCompany">Years at Company</label>
+            <input type="number" name="YearsAtCompany" required>
+
+            <label for="YearsInCurrentRole">Years in Current Role</label>
+            <input type="number" name="YearsInCurrentRole" required>
+
+            <label for="BusinessTravel">Business Travel</label>
+            <select name="BusinessTravel" required>
+                <option value="Travel_Rarely">Travel Rarely</option>
+                <option value="Travel_Frequently">Travel Frequently</option>
+                <option value="Non-Travel">Non-Travel</option>
+            </select>
+
+            <label for="Department">Department</label>
+            <select name="Department" required>
+                <option value="Sales">Sales</option>
+                <option value="Research & Development">Research & Development</option>
+                <option value="Human Resources">Human Resources</option>
+            </select>
+
+            <label for="EducationField">Education Field</label>
+            <select name="EducationField" required>
+                <option value="Life Sciences">Life Sciences</option>
+                <option value="Medical">Medical</option>
+                <option value="Marketing">Marketing</option>
+                <option value="Technical Degree">Technical Degree</option>
+                <option value="Other">Other</option>
+            </select>
+
+            <label for="Gender">Gender</label>
+            <select name="Gender" required>
+                <option value="Male">Male</option>
+                <option value="Female">Female</option>
+            </select>
+
+            <label for="JobRole">Job Role</label>
+            <select name="JobRole" required>
+                <option value="Sales Executive">Sales Executive</option>
+                <option value="Research Scientist">Research Scientist</option>
+                <option value="Laboratory Technician">Laboratory Technician</option>
+                <option value="Manufacturing Director">Manufacturing Director</option>
+                <option value="Healthcare Representative">Healthcare Representative</option>
+                <option value="Manager">Manager</option>
+                <option value="Sales Representative">Sales Representative</option>
+                <option value="Research Director">Research Director</option>
+                <option value="Human Resources">Human Resources</option>
+            </select>
+
+
+            <label for="MaritalStatus">Marital Status</label>
+            <select name="MaritalStatus" required>
+                <option value="Single">Single</option>
+                <option value="Married">Married</option>
+                <option value="Divorced">Divorced</option>
+            </select>
+
+            <label for="OverTime">OverTime</label>
+            <select id="overtime" name="OverTime" required>
+                <option value="Yes">Yes</option>
+                <option value="No">No</option>
+            </select>
+            <div id="overtimeAlert" class="alert">Overtime could affect work-life balance!</div>
+
+            <button type="submit">Predict Attrition</button>
+        </form>
+    </div>
+
+    <script>
+        document.getElementById('age').addEventListener('input', function () {
+            var age = document.getElementById('age').value;
+            var ageError = document.getElementById('ageError');
+            if (age < 18 || age > 65) {
+                ageError.style.display = 'block';
+            } else {
+                ageError.style.display = 'none';
+            }
+        });
+
+        document.getElementById('monthlyIncome').addEventListener('input', function () {
+            var income = document.getElementById('monthlyIncome').value;
+            var feedback = document.getElementById('incomeFeedback');
+            if (income < 3000) {
+                feedback.innerText = "This is a lower income range. Could affect attrition!";
+                feedback.style.display = 'block';
+            } else {
+                feedback.style.display = 'none';
+            }
+        });
+
+        document.getElementById('overtime').addEventListener('change', function () {
+            var overtime = document.getElementById('overtime').value;
+            var overtimeAlert = document.getElementById('overtimeAlert');
+            if (overtime === 'Yes') {
+                overtimeAlert.style.display = 'block';
+            } else {
+                overtimeAlert.style.display = 'none';
+            }
+        });
+
+        document.getElementById('attritionForm').addEventListener('submit', function (event) {
+            var age = document.getElementById('age').value;
+            var ageError = document.getElementById('ageError');
+            if (age < 18 || age > 65) {
+                event.preventDefault();
+                ageError.style.display = 'block';
+            }
+        });
+    </script>
+
+</body>
+
+</html>

@@ -1,0 +1,1471 @@
+Age,DailyRate,DistanceFromHome,Education,JobLevel,JobSatisfaction,MonthlyIncome,WorkLifeBalance,YearsAtCompany,YearsInCurrentRole,BusinessTravel,Department,EducationField,Gender,JobRole,MaritalStatus,OverTime,Attrition
+41,1102,1,2,2,4,5993,1,6,4,Travel_Rarely,Sales,Life Sciences,Female,Sales Executive,Single,Yes,Yes
+49,279,8,1,2,2,5130,3,10,7,Travel_Frequently,Research & Development,Life Sciences,Male,Research Scientist,Married,No,No
+37,1373,2,2,1,3,2090,3,0,0,Travel_Rarely,Research & Development,Other,Male,Laboratory Technician,Single,Yes,Yes
+33,1392,3,4,1,3,2909,3,8,7,Travel_Frequently,Research & Development,Life Sciences,Female,Research Scientist,Married,Yes,No
+27,591,2,1,1,2,3468,3,2,2,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Married,No,No
+32,1005,2,2,1,4,3068,2,7,7,Travel_Frequently,Research & Development,Life Sciences,Male,Laboratory Technician,Single,No,No
+59,1324,3,3,1,1,2670,2,1,0,Travel_Rarely,Research & Development,Medical,Female,Laboratory Technician,Married,Yes,No
+30,1358,24,1,1,3,2693,3,1,0,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Divorced,No,No
+38,216,23,3,3,3,9526,3,9,7,Travel_Frequently,Research & Development,Life Sciences,Male,Manufacturing Director,Single,No,No
+36,1299,27,3,2,3,5237,2,7,7,Travel_Rarely,Research & Development,Medical,Male,Healthcare Representative,Married,No,No
+35,809,16,3,1,2,2426,3,5,4,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Married,No,No
+29,153,15,2,2,3,4193,3,9,5,Travel_Rarely,Research & Development,Life Sciences,Female,Laboratory Technician,Single,Yes,No
+31,670,26,1,1,3,2911,2,5,2,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Divorced,No,No
+34,1346,19,2,1,4,2661,3,2,2,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Divorced,No,No
+28,103,24,3,1,3,2028,3,4,2,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Single,Yes,Yes
+29,1389,21,4,3,1,9980,3,10,9,Travel_Rarely,Research & Development,Life Sciences,Female,Manufacturing Director,Divorced,No,No
+32,334,5,2,1,2,3298,2,6,2,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Divorced,Yes,No
+22,1123,16,2,1,4,2935,2,1,0,Non-Travel,Research & Development,Medical,Male,Laboratory Technician,Divorced,Yes,No
+53,1219,2,4,4,4,15427,3,25,8,Travel_Rarely,Sales,Life Sciences,Female,Manager,Married,No,No
+38,371,2,3,1,4,3944,3,3,2,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Single,Yes,No
+24,673,11,2,2,3,4011,2,4,2,Non-Travel,Research & Development,Other,Female,Manufacturing Director,Divorced,No,No
+36,1218,9,4,1,1,3407,3,5,3,Travel_Rarely,Sales,Life Sciences,Male,Sales Representative,Single,No,Yes
+34,419,7,4,3,2,11994,3,12,6,Travel_Rarely,Research & Development,Life Sciences,Female,Research Director,Single,No,No
+21,391,15,2,1,4,1232,3,0,0,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Single,No,No
+34,699,6,1,1,1,2960,3,4,2,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Single,No,Yes
+53,1282,5,3,5,3,19094,2,14,13,Travel_Rarely,Research & Development,Other,Female,Manager,Divorced,No,No
+32,1125,16,1,1,1,3919,3,10,2,Travel_Frequently,Research & Development,Life Sciences,Female,Research Scientist,Single,Yes,Yes
+42,691,8,4,2,2,6825,3,9,7,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Married,No,No
+44,477,7,4,3,4,10248,3,22,6,Travel_Rarely,Research & Development,Medical,Female,Healthcare Representative,Married,No,No
+46,705,2,4,5,1,18947,2,2,2,Travel_Rarely,Sales,Marketing,Female,Manager,Single,No,No
+33,924,2,3,1,4,2496,3,1,1,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Single,No,No
+44,1459,10,4,2,4,6465,4,4,2,Travel_Rarely,Research & Development,Other,Male,Healthcare Representative,Married,Yes,No
+30,125,9,2,1,3,2206,3,10,0,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Single,No,No
+39,895,5,3,2,4,2086,4,1,0,Travel_Rarely,Sales,Technical Degree,Male,Sales Representative,Married,No,Yes
+24,813,1,3,1,4,2293,2,2,0,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Married,Yes,Yes
+43,1273,2,2,1,3,2645,2,5,3,Travel_Rarely,Research & Development,Medical,Female,Research Scientist,Divorced,No,No
+50,869,3,2,1,3,2683,3,3,2,Travel_Rarely,Sales,Marketing,Male,Sales Representative,Married,Yes,Yes
+35,890,2,3,1,4,2014,3,2,2,Travel_Rarely,Sales,Marketing,Female,Sales Representative,Married,No,No
+36,852,5,4,1,1,3419,4,1,1,Travel_Rarely,Research & Development,Life Sciences,Female,Research Scientist,Married,Yes,No
+33,1141,1,3,2,1,5376,3,5,3,Travel_Frequently,Sales,Life Sciences,Female,Sales Executive,Married,No,No
+35,464,4,2,1,4,1951,3,1,0,Travel_Rarely,Research & Development,Other,Male,Laboratory Technician,Divorced,No,No
+27,1240,2,4,1,1,2341,3,1,0,Travel_Rarely,Research & Development,Life Sciences,Female,Laboratory Technician,Divorced,No,No
+26,1357,25,3,1,3,2293,2,1,0,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Single,No,Yes
+27,994,8,3,3,3,8726,3,9,8,Travel_Frequently,Sales,Life Sciences,Male,Sales Executive,Single,No,No
+30,721,1,2,2,4,4011,3,12,8,Travel_Frequently,Research & Development,Medical,Female,Laboratory Technician,Single,No,No
+41,1360,12,3,5,3,19545,3,22,15,Travel_Rarely,Research & Development,Technical Degree,Female,Research Director,Married,No,Yes
+34,1065,23,4,2,3,4568,3,9,5,Non-Travel,Sales,Marketing,Male,Sales Executive,Single,No,No
+37,408,19,2,1,2,3022,3,1,0,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Married,No,No
+46,1211,5,4,2,4,5772,3,9,6,Travel_Frequently,Sales,Marketing,Male,Sales Executive,Single,Yes,No
+35,1229,8,1,1,4,2269,3,1,0,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Married,No,No
+48,626,1,2,3,3,5381,3,1,0,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Single,Yes,Yes
+28,1434,5,4,1,3,3441,2,2,2,Travel_Rarely,Research & Development,Technical Degree,Male,Laboratory Technician,Single,Yes,Yes
+44,1488,1,5,2,1,5454,2,4,3,Travel_Rarely,Sales,Marketing,Female,Sales Executive,Divorced,Yes,No
+35,1097,11,2,3,1,9884,3,4,0,Non-Travel,Research & Development,Medical,Male,Healthcare Representative,Married,Yes,No
+26,1443,23,3,2,4,4157,2,2,2,Travel_Rarely,Sales,Marketing,Female,Sales Executive,Married,Yes,No
+33,515,1,2,3,4,13458,3,15,14,Travel_Frequently,Research & Development,Life Sciences,Female,Research Director,Single,Yes,No
+35,853,18,5,3,1,9069,2,9,8,Travel_Frequently,Sales,Life Sciences,Male,Sales Executive,Married,No,No
+35,1142,23,4,1,1,4014,3,2,2,Travel_Rarely,Research & Development,Medical,Female,Laboratory Technician,Married,Yes,No
+31,655,7,4,2,4,5915,2,7,7,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Divorced,No,No
+37,1115,1,4,2,3,5993,4,7,5,Travel_Rarely,Research & Development,Life Sciences,Male,Manufacturing Director,Divorced,No,No
+32,427,1,3,2,4,6162,3,9,8,Travel_Rarely,Research & Development,Medical,Male,Manufacturing Director,Married,Yes,No
+38,653,29,5,2,4,2406,3,10,3,Travel_Frequently,Research & Development,Life Sciences,Female,Laboratory Technician,Single,No,No
+50,989,7,2,5,3,18740,2,27,3,Travel_Rarely,Research & Development,Medical,Female,Research Director,Divorced,Yes,No
+59,1435,25,3,3,1,7637,2,21,16,Travel_Rarely,Sales,Life Sciences,Female,Sales Executive,Single,No,No
+36,1223,8,3,3,3,10096,3,17,14,Travel_Rarely,Research & Development,Technical Degree,Female,Healthcare Representative,Divorced,No,No
+55,836,8,3,4,3,14756,3,5,0,Travel_Rarely,Research & Development,Medical,Female,Manager,Divorced,Yes,No
+36,1195,11,3,2,2,6499,3,6,5,Travel_Frequently,Research & Development,Life Sciences,Male,Manufacturing Director,Single,No,No
+45,1339,7,3,3,1,9724,3,1,0,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Divorced,No,No
+35,664,1,3,1,1,2194,2,3,2,Travel_Frequently,Research & Development,Medical,Male,Research Scientist,Married,No,No
+36,318,9,3,1,3,3388,2,1,0,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Married,Yes,Yes
+59,1225,1,1,2,3,5473,2,4,3,Travel_Frequently,Sales,Life Sciences,Female,Sales Executive,Single,No,No
+29,1328,2,3,1,2,2703,3,5,4,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Married,No,No
+31,1082,1,4,1,2,2501,3,1,1,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Single,No,No
+32,548,1,3,2,2,6220,3,10,4,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Married,No,No
+36,132,6,3,1,4,3038,3,1,0,Travel_Rarely,Research & Development,Life Sciences,Female,Laboratory Technician,Married,No,No
+31,746,8,4,2,4,4424,3,11,7,Travel_Rarely,Research & Development,Life Sciences,Female,Manufacturing Director,Single,No,No
+35,776,1,4,2,1,4312,3,15,13,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Single,No,No
+45,193,6,4,3,1,13245,4,0,0,Travel_Rarely,Research & Development,Other,Male,Research Director,Married,Yes,No
+37,397,7,4,3,3,13664,4,5,2,Travel_Rarely,Research & Development,Medical,Male,Research Director,Single,No,No
+46,945,5,2,2,2,5021,3,4,2,Travel_Rarely,Human Resources,Medical,Male,Human Resources,Divorced,Yes,No
+30,852,1,1,2,4,5126,2,10,8,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Married,Yes,No
+35,1214,1,3,1,3,2859,3,6,4,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Single,No,No
+55,111,1,2,3,4,10239,3,1,0,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Married,No,No
+38,573,6,3,2,4,5329,3,13,11,Non-Travel,Research & Development,Medical,Female,Research Scientist,Divorced,Yes,No
+34,1153,1,2,2,2,4325,3,5,2,Travel_Rarely,Research & Development,Medical,Male,Manufacturing Director,Married,No,No
+56,1400,7,3,3,4,7260,2,6,4,Travel_Rarely,Research & Development,Life Sciences,Male,Manufacturing Director,Single,No,No
+23,541,2,1,1,1,2322,3,0,0,Travel_Rarely,Sales,Technical Degree,Male,Sales Representative,Divorced,No,No
+51,432,9,4,1,4,2075,3,4,2,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Married,No,No
+30,288,2,3,2,4,4152,3,11,10,Travel_Rarely,Research & Development,Life Sciences,Male,Healthcare Representative,Married,No,No
+46,669,9,2,3,4,9619,3,9,8,Travel_Rarely,Sales,Medical,Male,Sales Executive,Single,No,Yes
+40,530,1,4,4,2,13503,2,22,3,Travel_Frequently,Research & Development,Life Sciences,Male,Healthcare Representative,Married,No,No
+51,632,21,4,2,4,5441,1,10,7,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Single,Yes,No
+30,1334,4,2,2,2,5209,2,11,8,Travel_Rarely,Sales,Medical,Female,Sales Executive,Divorced,Yes,No
+46,638,1,3,3,1,10673,2,10,9,Travel_Frequently,Research & Development,Medical,Male,Healthcare Representative,Married,Yes,No
+32,1093,6,4,2,3,5010,3,11,8,Travel_Rarely,Sales,Medical,Male,Sales Executive,Single,No,No
+54,1217,2,4,3,3,13549,1,4,3,Travel_Rarely,Research & Development,Technical Degree,Female,Research Director,Married,No,No
+24,1353,3,2,2,3,4999,2,3,2,Travel_Rarely,Sales,Other,Female,Sales Executive,Married,No,No
+28,120,4,3,2,3,4221,4,5,4,Non-Travel,Sales,Medical,Male,Sales Executive,Married,No,No
+58,682,10,4,4,3,13872,2,37,10,Travel_Rarely,Sales,Medical,Male,Sales Executive,Single,No,No
+44,489,23,3,2,2,2042,4,3,2,Non-Travel,Research & Development,Medical,Male,Laboratory Technician,Married,No,No
+37,807,6,4,1,1,2073,3,3,2,Travel_Rarely,Human Resources,Human Resources,Male,Human Resources,Divorced,Yes,Yes
+32,827,1,1,1,1,2956,3,1,0,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Single,No,No
+20,871,6,3,1,4,2926,3,1,0,Travel_Frequently,Research & Development,Life Sciences,Female,Laboratory Technician,Single,Yes,Yes
+34,665,6,4,2,3,4809,3,16,13,Travel_Rarely,Research & Development,Other,Female,Research Scientist,Single,No,No
+37,1040,2,2,2,4,5163,4,1,0,Non-Travel,Research & Development,Life Sciences,Male,Healthcare Representative,Divorced,No,No
+59,1420,2,4,5,4,18844,3,3,2,Non-Travel,Human Resources,Human Resources,Female,Manager,Married,No,No
+50,1115,1,3,5,2,18172,2,8,3,Travel_Frequently,Research & Development,Life Sciences,Female,Research Director,Married,Yes,No
+25,240,5,3,2,3,5744,3,6,4,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Single,Yes,Yes
+25,1280,7,1,1,4,2889,3,2,2,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Married,No,No
+22,534,15,3,1,4,2871,3,0,0,Travel_Rarely,Research & Development,Medical,Female,Laboratory Technician,Single,No,No
+51,1456,1,4,3,1,7484,2,13,12,Travel_Frequently,Research & Development,Medical,Female,Healthcare Representative,Single,No,No
+34,658,7,3,2,3,6074,3,9,7,Travel_Frequently,Research & Development,Life Sciences,Male,Laboratory Technician,Single,Yes,Yes
+54,142,26,3,4,4,17328,3,5,3,Non-Travel,Human Resources,Human Resources,Female,Manager,Single,Yes,No
+24,1127,18,1,1,3,2774,3,5,3,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Married,No,No
+34,1031,6,4,2,2,4505,3,1,0,Travel_Rarely,Research & Development,Life Sciences,Female,Research Scientist,Divorced,No,No
+37,1189,3,3,3,4,7428,3,5,3,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Single,No,No
+34,1354,5,3,3,1,11631,3,11,10,Travel_Rarely,Research & Development,Medical,Female,Manager,Single,No,No
+36,1467,11,2,3,4,9738,3,9,7,Travel_Frequently,Sales,Technical Degree,Female,Sales Executive,Married,No,No
+36,922,3,2,1,4,2835,3,1,0,Travel_Rarely,Research & Development,Life Sciences,Female,Laboratory Technician,Divorced,No,No
+43,394,26,2,4,4,16959,4,25,12,Travel_Frequently,Sales,Life Sciences,Male,Manager,Married,Yes,No
+30,1312,23,3,1,3,2613,2,10,7,Travel_Frequently,Research & Development,Life Sciences,Male,Research Scientist,Divorced,No,No
+33,750,22,2,2,2,6146,4,7,7,Non-Travel,Sales,Marketing,Male,Sales Executive,Married,No,No
+56,441,14,4,1,2,4963,3,5,4,Travel_Rarely,Research & Development,Life Sciences,Female,Research Scientist,Married,Yes,Yes
+51,684,6,3,5,3,19537,3,20,18,Travel_Rarely,Research & Development,Life Sciences,Male,Research Director,Single,No,No
+31,249,6,4,2,3,6172,2,7,7,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Married,Yes,Yes
+26,841,6,3,1,2,2368,2,5,4,Travel_Rarely,Research & Development,Other,Female,Research Scientist,Married,No,No
+58,147,23,4,3,4,10312,2,40,10,Travel_Rarely,Research & Development,Medical,Female,Healthcare Representative,Married,No,Yes
+19,528,22,1,1,3,1675,2,0,0,Travel_Rarely,Sales,Marketing,Male,Sales Representative,Single,Yes,Yes
+22,594,2,1,1,4,2523,3,2,1,Travel_Rarely,Research & Development,Technical Degree,Male,Laboratory Technician,Married,No,No
+49,470,20,4,2,1,6567,2,15,11,Travel_Rarely,Research & Development,Medical,Female,Manufacturing Director,Married,No,No
+43,957,28,3,1,3,4739,3,3,2,Travel_Frequently,Research & Development,Medical,Female,Research Scientist,Single,No,No
+50,809,12,3,3,4,9208,3,2,2,Travel_Frequently,Sales,Marketing,Female,Sales Executive,Single,No,No
+31,542,20,3,2,3,4559,3,2,2,Travel_Rarely,Sales,Life Sciences,Female,Sales Executive,Married,Yes,Yes
+41,802,9,1,3,3,8189,3,9,7,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Divorced,Yes,No
+26,1355,25,1,1,3,2942,3,8,7,Travel_Rarely,Human Resources,Life Sciences,Female,Human Resources,Married,No,No
+36,216,6,2,2,2,4941,3,3,2,Travel_Rarely,Research & Development,Medical,Male,Manufacturing Director,Divorced,No,No
+51,1150,8,4,3,4,10650,3,4,2,Travel_Frequently,Research & Development,Life Sciences,Male,Manufacturing Director,Single,No,Yes
+39,1329,4,4,2,3,5902,4,15,11,Travel_Rarely,Sales,Life Sciences,Female,Sales Executive,Married,No,No
+25,959,28,3,2,3,8639,3,2,2,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Married,No,No
+30,1240,9,3,2,4,6347,1,11,9,Travel_Rarely,Human Resources,Human Resources,Male,Human Resources,Married,Yes,No
+32,1033,9,3,1,1,4200,4,5,4,Travel_Rarely,Research & Development,Medical,Female,Laboratory Technician,Single,No,Yes
+45,1316,29,3,1,4,3452,2,6,5,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Single,No,No
+38,364,3,5,2,3,4317,3,3,2,Travel_Rarely,Research & Development,Technical Degree,Female,Research Scientist,Single,Yes,No
+30,438,18,3,1,3,2632,2,5,4,Travel_Rarely,Research & Development,Life Sciences,Female,Research Scientist,Single,No,No
+32,689,9,2,2,4,4668,4,8,7,Travel_Frequently,Sales,Medical,Male,Sales Executive,Divorced,No,No
+30,201,5,3,1,1,3204,3,3,2,Travel_Rarely,Research & Development,Technical Degree,Female,Research Scientist,Divorced,No,No
+30,1427,2,1,1,4,2720,3,5,3,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Single,No,No
+41,857,10,3,4,1,17181,2,7,6,Travel_Frequently,Research & Development,Life Sciences,Male,Manager,Divorced,No,No
+41,933,9,4,1,1,2238,3,5,0,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Married,No,No
+19,1181,3,1,1,2,1483,3,1,0,Travel_Rarely,Research & Development,Medical,Female,Laboratory Technician,Single,No,No
+40,1395,26,3,2,2,5605,3,20,7,Travel_Frequently,Research & Development,Medical,Female,Research Scientist,Divorced,No,No
+35,662,1,5,3,2,7295,3,10,8,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Married,No,No
+53,1436,6,2,2,3,2306,1,7,7,Travel_Rarely,Sales,Marketing,Male,Sales Representative,Married,Yes,No
+45,194,9,3,2,2,2348,1,17,9,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Divorced,No,No
+32,967,8,3,3,4,8998,3,9,8,Travel_Frequently,Sales,Marketing,Female,Sales Executive,Single,No,No
+29,1496,1,1,2,3,4319,3,10,7,Non-Travel,Research & Development,Technical Degree,Male,Manufacturing Director,Married,No,No
+51,1169,7,4,2,3,6132,3,1,0,Travel_Rarely,Research & Development,Medical,Male,Manufacturing Director,Married,No,No
+58,1145,9,3,1,2,3346,2,1,0,Travel_Rarely,Research & Development,Medical,Female,Research Scientist,Married,Yes,No
+40,630,4,4,3,4,10855,2,12,11,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Married,No,No
+34,303,2,4,1,3,2231,3,4,3,Travel_Frequently,Sales,Marketing,Female,Sales Representative,Married,No,No
+22,1256,19,1,1,4,2323,3,2,2,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Married,No,No
+27,691,9,3,1,2,2024,1,2,2,Non-Travel,Research & Development,Medical,Male,Research Scientist,Divorced,No,No
+28,440,21,3,1,4,2713,1,5,2,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Married,No,No
+57,334,24,2,3,4,9439,1,5,3,Travel_Rarely,Research & Development,Life Sciences,Male,Healthcare Representative,Divorced,Yes,No
+27,1450,3,3,1,3,2566,2,1,1,Non-Travel,Research & Development,Medical,Male,Research Scientist,Divorced,Yes,No
+50,1452,11,3,5,2,19926,3,5,4,Travel_Rarely,Research & Development,Life Sciences,Female,Manager,Single,No,No
+41,465,14,3,1,3,2451,3,9,8,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Divorced,No,No
+30,1339,5,3,3,4,9419,3,10,9,Travel_Rarely,Sales,Life Sciences,Female,Sales Executive,Married,No,No
+38,702,1,4,2,4,8686,4,8,3,Travel_Rarely,Sales,Life Sciences,Female,Sales Executive,Single,No,No
+32,120,6,5,1,3,3038,3,5,4,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Single,No,No
+27,1157,17,3,1,2,3058,2,5,2,Travel_Rarely,Research & Development,Technical Degree,Male,Research Scientist,Married,Yes,No
+19,602,1,1,1,1,2325,4,0,0,Travel_Frequently,Sales,Technical Degree,Female,Sales Representative,Single,No,Yes
+36,1480,3,2,1,2,2088,2,8,7,Travel_Frequently,Research & Development,Medical,Male,Laboratory Technician,Single,No,No
+30,111,9,3,2,1,3072,3,12,9,Non-Travel,Research & Development,Medical,Male,Laboratory Technician,Divorced,No,No
+45,1268,4,2,2,1,5006,4,5,4,Travel_Rarely,Sales,Life Sciences,Female,Sales Executive,Divorced,Yes,No
+56,713,8,3,1,1,4257,3,2,2,Travel_Rarely,Research & Development,Life Sciences,Female,Research Scientist,Divorced,Yes,No
+33,134,2,3,1,4,2500,4,3,1,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Single,No,No
+19,303,2,3,1,4,1102,2,1,0,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Single,No,Yes
+46,526,1,2,3,1,10453,3,24,13,Travel_Rarely,Sales,Marketing,Female,Sales Executive,Divorced,No,No
+38,1380,9,2,1,4,2288,3,2,2,Travel_Rarely,Research & Development,Life Sciences,Female,Laboratory Technician,Single,No,No
+31,140,12,1,1,4,3929,3,4,2,Travel_Rarely,Research & Development,Medical,Female,Research Scientist,Married,Yes,No
+34,629,27,2,1,2,2311,3,3,2,Travel_Rarely,Research & Development,Medical,Female,Research Scientist,Single,No,No
+41,1356,20,2,1,2,3140,2,4,3,Travel_Rarely,Sales,Marketing,Female,Sales Representative,Single,Yes,Yes
+50,328,1,3,1,3,3690,2,3,2,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Married,No,No
+53,1084,13,2,2,1,4450,3,4,2,Travel_Rarely,Research & Development,Medical,Female,Manufacturing Director,Divorced,No,No
+33,931,14,3,1,2,2756,3,8,7,Travel_Rarely,Research & Development,Medical,Female,Research Scientist,Married,No,No
+40,989,4,1,5,3,19033,3,20,8,Travel_Rarely,Research & Development,Medical,Female,Manager,Married,No,No
+55,692,14,4,5,2,18722,3,24,15,Travel_Rarely,Research & Development,Medical,Male,Research Director,Single,No,No
+34,1069,2,1,2,3,9547,2,10,9,Travel_Frequently,Research & Development,Life Sciences,Male,Manufacturing Director,Married,No,No
+51,313,3,3,4,2,13734,3,7,7,Travel_Rarely,Research & Development,Medical,Female,Healthcare Representative,Single,No,No
+52,699,1,4,5,3,19999,3,33,18,Travel_Rarely,Research & Development,Life Sciences,Male,Manager,Married,No,No
+27,894,9,3,1,2,2279,2,7,7,Travel_Rarely,Research & Development,Medical,Female,Research Scientist,Single,No,No
+35,556,23,2,2,3,5916,3,1,0,Travel_Rarely,Research & Development,Life Sciences,Male,Manufacturing Director,Married,Yes,Yes
+43,1344,7,3,1,4,2089,4,5,4,Non-Travel,Research & Development,Medical,Male,Research Scientist,Divorced,No,No
+45,1195,2,2,4,4,16792,3,20,8,Non-Travel,Research & Development,Medical,Male,Manager,Married,No,No
+37,290,21,3,1,1,3564,2,8,7,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Married,Yes,No
+35,138,2,3,2,2,4425,3,6,2,Travel_Frequently,Research & Development,Medical,Female,Laboratory Technician,Single,No,No
+42,926,21,2,2,3,5265,3,5,3,Non-Travel,Research & Development,Medical,Female,Manufacturing Director,Divorced,No,No
+38,1261,2,4,2,3,6553,3,1,0,Travel_Rarely,Research & Development,Life Sciences,Male,Manufacturing Director,Married,No,No
+38,1084,29,3,2,4,6261,1,7,7,Travel_Rarely,Research & Development,Technical Degree,Male,Manufacturing Director,Married,No,No
+27,472,1,1,2,1,4298,3,2,2,Travel_Frequently,Research & Development,Technical Degree,Male,Manufacturing Director,Married,No,No
+49,1002,18,4,2,4,6804,3,7,7,Non-Travel,Research & Development,Life Sciences,Male,Manufacturing Director,Divorced,Yes,No
+34,878,10,4,1,3,3815,4,5,3,Travel_Frequently,Research & Development,Medical,Male,Research Scientist,Divorced,Yes,No
+40,905,19,2,2,4,2741,4,7,2,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Married,Yes,No
+38,1180,29,1,2,1,6673,3,1,0,Travel_Rarely,Research & Development,Medical,Male,Healthcare Representative,Married,Yes,Yes
+29,121,27,3,3,4,7639,2,10,4,Travel_Rarely,Sales,Marketing,Female,Sales Executive,Married,No,Yes
+22,1136,5,3,1,2,2328,2,4,2,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Divorced,Yes,No
+36,635,18,1,1,4,2153,3,8,1,Travel_Frequently,Research & Development,Medical,Female,Laboratory Technician,Single,No,No
+40,1151,9,5,2,4,4876,1,3,2,Non-Travel,Research & Development,Life Sciences,Male,Healthcare Representative,Married,No,No
+46,644,1,4,3,1,9396,3,4,2,Travel_Rarely,Research & Development,Medical,Male,Healthcare Representative,Divorced,No,No
+32,1045,4,4,3,4,10400,2,14,8,Travel_Rarely,Sales,Medical,Male,Sales Executive,Married,No,Yes
+30,829,1,1,3,3,8474,3,11,8,Non-Travel,Research & Development,Life Sciences,Male,Manufacturing Director,Single,No,No
+27,1242,20,3,2,3,9981,3,7,7,Travel_Frequently,Sales,Life Sciences,Female,Sales Executive,Single,No,No
+51,1469,8,4,3,2,12490,1,10,9,Travel_Rarely,Research & Development,Life Sciences,Male,Research Director,Married,No,No
+30,1005,3,3,1,1,2657,3,5,2,Travel_Rarely,Research & Development,Technical Degree,Female,Research Scientist,Single,Yes,Yes
+41,896,6,3,3,4,13591,3,1,0,Travel_Rarely,Sales,Life Sciences,Female,Manager,Single,Yes,No
+30,334,26,4,2,1,6696,2,6,3,Travel_Frequently,Sales,Marketing,Female,Sales Executive,Single,No,Yes
+29,992,1,3,1,3,2058,2,6,2,Travel_Rarely,Research & Development,Technical Degree,Male,Research Scientist,Single,No,Yes
+45,1052,6,3,3,4,8865,3,19,7,Non-Travel,Sales,Medical,Female,Sales Executive,Single,No,No
+54,1147,3,3,2,1,5940,3,6,2,Travel_Rarely,Sales,Marketing,Female,Sales Executive,Married,No,No
+36,1396,5,2,2,2,5914,4,13,11,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Single,No,No
+33,147,4,4,1,2,2622,3,3,2,Travel_Rarely,Research & Development,Medical,Female,Research Scientist,Married,No,No
+37,663,11,3,3,4,12185,3,10,8,Travel_Frequently,Research & Development,Other,Male,Research Director,Divorced,Yes,No
+38,119,3,3,3,3,10609,2,16,10,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Divorced,No,No
+31,979,1,4,2,3,4345,3,5,4,Non-Travel,Research & Development,Medical,Male,Manufacturing Director,Married,No,No
+59,142,3,3,1,4,2177,3,1,0,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Married,No,No
+37,319,4,4,1,4,2793,3,9,8,Travel_Frequently,Sales,Marketing,Male,Sales Representative,Divorced,No,No
+29,1413,1,1,3,4,7918,3,11,10,Travel_Frequently,Sales,Medical,Female,Sales Executive,Married,No,No
+35,944,1,3,3,3,8789,4,10,7,Travel_Frequently,Sales,Marketing,Female,Sales Executive,Single,No,No
+29,896,18,1,1,4,2389,2,4,3,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Single,Yes,Yes
+52,1323,2,3,1,4,3212,2,2,2,Travel_Rarely,Research & Development,Life Sciences,Female,Laboratory Technician,Single,No,No
+42,532,4,2,5,4,19232,3,22,17,Travel_Rarely,Research & Development,Technical Degree,Male,Manager,Married,No,No
+59,818,6,2,1,3,2267,2,2,2,Travel_Rarely,Human Resources,Medical,Male,Human Resources,Married,No,No
+50,854,1,4,5,4,19517,2,7,0,Travel_Rarely,Sales,Medical,Female,Manager,Divorced,No,No
+33,813,14,3,1,4,2436,1,5,4,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Married,Yes,Yes
+43,1034,16,3,4,4,16064,3,17,13,Travel_Rarely,Sales,Marketing,Female,Manager,Married,Yes,No
+33,465,2,2,1,1,2707,4,9,7,Travel_Rarely,Research & Development,Life Sciences,Female,Laboratory Technician,Married,No,Yes
+52,771,2,4,5,3,19068,4,33,7,Non-Travel,Sales,Life Sciences,Male,Manager,Single,Yes,No
+32,1401,4,2,1,2,3931,3,4,3,Travel_Rarely,Sales,Life Sciences,Female,Sales Representative,Married,No,No
+32,515,1,3,1,3,3730,1,3,2,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Single,Yes,Yes
+39,1431,1,4,1,3,2232,3,3,2,Travel_Rarely,Research & Development,Medical,Female,Laboratory Technician,Divorced,No,No
+32,976,26,4,2,4,4465,3,3,2,Non-Travel,Sales,Marketing,Male,Sales Executive,Married,No,No
+41,1411,19,2,2,1,3072,2,1,0,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Divorced,No,No
+40,1300,24,2,2,4,3319,3,9,8,Travel_Rarely,Research & Development,Technical Degree,Male,Research Scientist,Divorced,No,No
+45,252,1,3,5,4,19202,3,24,0,Travel_Rarely,Research & Development,Other,Male,Manager,Married,No,No
+31,1327,3,4,3,3,13675,3,2,2,Travel_Frequently,Research & Development,Medical,Male,Research Director,Divorced,No,No
+33,832,5,4,1,4,2911,2,2,2,Travel_Rarely,Research & Development,Life Sciences,Female,Research Scientist,Married,No,No
+34,470,2,4,2,1,5957,3,11,9,Travel_Rarely,Research & Development,Life Sciences,Male,Manufacturing Director,Married,No,No
+37,1017,1,2,1,1,3920,2,3,1,Travel_Rarely,Research & Development,Medical,Female,Research Scientist,Married,No,No
+45,1199,7,4,2,3,6434,3,3,2,Travel_Frequently,Research & Development,Life Sciences,Male,Manufacturing Director,Married,No,No
+37,504,10,3,3,3,10048,3,1,0,Travel_Frequently,Research & Development,Medical,Male,Manufacturing Director,Divorced,No,Yes
+39,505,2,4,3,3,10938,3,19,6,Travel_Frequently,Research & Development,Technical Degree,Female,Healthcare Representative,Single,No,No
+29,665,15,3,1,4,2340,3,6,5,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Single,No,No
+42,916,17,2,2,1,6545,3,3,2,Travel_Rarely,Research & Development,Life Sciences,Female,Research Scientist,Single,Yes,No
+29,1247,20,2,2,4,6931,3,3,2,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Divorced,No,No
+25,685,1,3,2,3,4898,3,4,2,Travel_Rarely,Research & Development,Life Sciences,Female,Manufacturing Director,Married,No,No
+42,269,2,3,1,1,2593,3,9,6,Travel_Rarely,Research & Development,Medical,Female,Laboratory Technician,Divorced,Yes,No
+40,1416,2,2,5,3,19436,3,21,7,Travel_Rarely,Research & Development,Medical,Male,Research Director,Divorced,No,No
+51,833,1,3,1,4,2723,2,1,0,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Married,No,No
+31,307,29,2,1,2,3479,4,5,4,Travel_Frequently,Research & Development,Medical,Male,Laboratory Technician,Single,No,Yes
+32,1311,7,3,1,2,2794,1,5,1,Travel_Frequently,Research & Development,Life Sciences,Male,Laboratory Technician,Married,No,No
+38,1327,2,2,2,4,5249,3,8,7,Non-Travel,Sales,Life Sciences,Male,Sales Executive,Married,No,No
+32,128,2,1,2,1,2176,3,6,2,Travel_Rarely,Research & Development,Technical Degree,Male,Laboratory Technician,Single,No,No
+46,488,2,3,4,2,16872,2,7,7,Travel_Rarely,Sales,Technical Degree,Female,Manager,Married,Yes,No
+28,529,2,4,1,3,3485,1,0,0,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Single,No,Yes
+29,1210,2,3,2,2,6644,3,0,0,Travel_Rarely,Sales,Medical,Male,Sales Executive,Married,No,No
+31,1463,23,3,2,4,5582,3,9,0,Travel_Rarely,Research & Development,Medical,Male,Healthcare Representative,Married,No,No
+25,675,5,2,2,1,4000,3,6,3,Non-Travel,Research & Development,Life Sciences,Male,Healthcare Representative,Divorced,No,No
+45,1385,20,2,4,4,13496,3,20,7,Travel_Rarely,Research & Development,Medical,Male,Healthcare Representative,Married,Yes,No
+36,1403,6,3,1,4,3210,3,15,13,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Married,No,No
+55,452,1,3,5,1,19045,3,36,10,Travel_Rarely,Research & Development,Medical,Male,Manager,Single,Yes,No
+47,666,29,4,3,2,11849,2,10,7,Non-Travel,Research & Development,Life Sciences,Male,Manager,Married,Yes,Yes
+28,1158,9,3,1,4,2070,2,5,2,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Married,No,No
+37,228,6,4,2,4,6502,4,5,4,Travel_Rarely,Sales,Medical,Male,Sales Executive,Married,No,No
+21,996,3,2,1,3,3230,4,3,2,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Single,No,No
+37,728,1,4,3,4,13603,3,5,2,Non-Travel,Research & Development,Medical,Female,Research Director,Divorced,Yes,No
+35,1315,22,3,3,2,11996,2,7,7,Travel_Rarely,Research & Development,Life Sciences,Female,Manager,Divorced,No,No
+38,322,7,2,2,1,5605,3,8,0,Travel_Rarely,Sales,Medical,Female,Sales Executive,Divorced,Yes,No
+26,1479,1,3,2,2,6397,1,6,5,Travel_Frequently,Research & Development,Life Sciences,Female,Manufacturing Director,Divorced,No,No
+50,797,4,1,5,2,19144,2,10,4,Travel_Rarely,Research & Development,Life Sciences,Male,Research Director,Divorced,No,No
+53,1070,3,4,4,3,17584,2,5,3,Travel_Rarely,Research & Development,Medical,Male,Research Director,Married,Yes,No
+42,635,1,1,2,3,4907,3,20,16,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Married,No,No
+29,442,2,2,2,4,4554,2,10,7,Travel_Frequently,Sales,Life Sciences,Male,Sales Executive,Single,No,No
+55,147,20,2,2,4,5415,3,10,7,Travel_Rarely,Research & Development,Technical Degree,Male,Laboratory Technician,Married,Yes,No
+26,496,11,2,2,1,4741,3,5,3,Travel_Frequently,Research & Development,Medical,Male,Healthcare Representative,Married,Yes,No
+37,1372,1,3,1,4,2115,3,17,12,Travel_Rarely,Research & Development,Life Sciences,Female,Research Scientist,Single,No,No
+44,920,24,3,1,3,3161,1,1,0,Travel_Frequently,Research & Development,Life Sciences,Male,Laboratory Technician,Divorced,Yes,Yes
+38,688,23,4,2,4,5745,3,2,2,Travel_Rarely,Research & Development,Life Sciences,Male,Healthcare Representative,Divorced,No,No
+26,1449,16,4,1,2,2373,3,3,2,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Divorced,Yes,Yes
+28,1117,8,2,1,4,3310,3,5,3,Travel_Rarely,Research & Development,Life Sciences,Female,Research Scientist,Single,No,No
+49,636,10,4,5,1,18665,3,3,2,Travel_Frequently,Research & Development,Life Sciences,Female,Research Director,Single,Yes,No
+36,506,3,3,2,2,4485,3,8,0,Travel_Rarely,Research & Development,Technical Degree,Male,Research Scientist,Single,No,No
+31,444,5,3,1,2,2789,2,2,2,Travel_Frequently,Sales,Marketing,Female,Sales Representative,Divorced,No,No
+26,950,4,4,2,4,5828,3,8,7,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Single,Yes,Yes
+37,889,9,3,1,4,2326,2,4,2,Travel_Frequently,Research & Development,Medical,Male,Research Scientist,Married,Yes,No
+42,555,26,3,4,2,13525,4,20,4,Travel_Frequently,Sales,Marketing,Female,Sales Executive,Married,No,No
+18,230,3,3,1,3,1420,3,0,0,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Single,No,Yes
+35,1232,16,3,3,2,8020,2,11,9,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Married,No,No
+36,566,18,4,1,4,3688,3,1,0,Travel_Frequently,Research & Development,Life Sciences,Male,Laboratory Technician,Married,No,No
+51,1302,2,3,2,2,5482,3,4,1,Travel_Rarely,Research & Development,Medical,Male,Manufacturing Director,Divorced,No,No
+41,334,2,4,4,2,16015,3,22,10,Travel_Rarely,Sales,Life Sciences,Male,Manager,Single,No,No
+18,812,10,3,1,3,1200,3,0,0,Travel_Rarely,Sales,Medical,Female,Sales Representative,Single,No,No
+28,1476,16,2,2,1,5661,3,8,3,Travel_Rarely,Research & Development,Medical,Male,Healthcare Representative,Single,No,No
+31,218,7,3,2,4,6929,2,8,7,Travel_Rarely,Sales,Technical Degree,Male,Sales Executive,Married,No,No
+39,1132,1,3,3,4,9613,2,18,10,Travel_Rarely,Research & Development,Medical,Male,Healthcare Representative,Divorced,No,No
+36,1105,24,4,2,2,5674,3,9,8,Non-Travel,Research & Development,Life Sciences,Female,Laboratory Technician,Married,No,No
+32,906,7,3,2,3,5484,2,13,8,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Married,No,No
+38,849,25,2,3,2,12061,3,10,8,Travel_Rarely,Research & Development,Life Sciences,Female,Research Director,Married,No,No
+58,390,1,4,2,3,5660,3,5,3,Non-Travel,Research & Development,Life Sciences,Male,Healthcare Representative,Divorced,Yes,No
+31,691,5,4,1,4,4821,3,5,2,Travel_Rarely,Research & Development,Technical Degree,Male,Research Scientist,Married,Yes,No
+31,106,2,3,2,1,6410,3,2,2,Travel_Rarely,Human Resources,Human Resources,Male,Human Resources,Married,No,No
+45,1249,7,3,3,1,5210,3,24,9,Travel_Frequently,Research & Development,Life Sciences,Male,Laboratory Technician,Divorced,No,No
+31,192,2,4,1,4,2695,1,2,2,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Divorced,Yes,No
+33,553,5,4,3,2,11878,3,10,6,Travel_Frequently,Research & Development,Life Sciences,Female,Manager,Married,No,No
+39,117,10,1,4,1,17068,3,21,9,Travel_Rarely,Research & Development,Medical,Male,Manager,Married,Yes,No
+43,185,10,4,1,4,2455,3,8,7,Travel_Frequently,Research & Development,Life Sciences,Female,Laboratory Technician,Single,No,No
+49,1091,1,2,4,3,13964,3,7,1,Travel_Rarely,Research & Development,Technical Degree,Female,Healthcare Representative,Single,Yes,No
+52,723,8,4,2,2,4941,2,8,2,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Married,No,Yes
+27,1220,5,3,1,2,2478,2,4,3,Travel_Rarely,Research & Development,Life Sciences,Female,Research Scientist,Single,Yes,No
+32,588,8,2,2,2,5228,3,13,12,Travel_Rarely,Sales,Technical Degree,Female,Sales Executive,Married,Yes,No
+27,1377,2,3,2,3,4478,3,5,4,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Single,Yes,No
+31,691,7,3,2,4,7547,3,7,7,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Divorced,No,No
+32,1018,2,4,2,4,5055,2,7,7,Travel_Rarely,Research & Development,Medical,Female,Research Scientist,Single,No,No
+28,1157,2,4,1,4,3464,2,3,2,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Married,Yes,Yes
+30,1275,28,2,2,4,5775,3,10,8,Travel_Rarely,Research & Development,Medical,Female,Research Scientist,Married,No,No
+31,798,7,2,3,3,8943,3,10,9,Travel_Frequently,Research & Development,Life Sciences,Female,Manufacturing Director,Married,No,No
+39,672,7,2,5,4,19272,3,21,9,Travel_Frequently,Research & Development,Medical,Male,Manager,Married,No,No
+39,1162,3,2,2,3,5238,2,1,0,Travel_Rarely,Sales,Medical,Female,Sales Executive,Married,Yes,Yes
+33,508,10,3,2,4,4682,2,7,7,Travel_Frequently,Sales,Marketing,Male,Sales Executive,Single,No,No
+47,1482,5,5,5,3,18300,3,3,2,Travel_Rarely,Research & Development,Life Sciences,Male,Research Director,Married,No,No
+43,559,10,4,2,3,5257,4,9,7,Travel_Frequently,Research & Development,Life Sciences,Female,Laboratory Technician,Divorced,No,No
+27,210,1,1,2,2,6349,3,5,4,Non-Travel,Sales,Marketing,Male,Sales Executive,Married,Yes,No
+54,928,20,4,2,3,4869,2,4,3,Travel_Frequently,Research & Development,Life Sciences,Female,Research Scientist,Single,No,No
+43,1001,7,3,3,1,9985,2,1,0,Travel_Rarely,Research & Development,Life Sciences,Female,Healthcare Representative,Married,No,No
+45,549,8,4,2,4,3697,3,10,9,Travel_Rarely,Research & Development,Other,Male,Research Scientist,Married,No,No
+40,1124,1,2,2,4,7457,2,4,3,Travel_Rarely,Sales,Medical,Male,Sales Executive,Married,Yes,No
+29,318,8,4,1,1,2119,2,7,7,Travel_Rarely,Research & Development,Other,Male,Laboratory Technician,Married,Yes,Yes
+29,738,9,5,1,4,3983,3,3,2,Travel_Rarely,Research & Development,Other,Male,Laboratory Technician,Single,No,No
+30,570,5,3,2,3,6118,3,10,9,Travel_Rarely,Sales,Marketing,Female,Sales Executive,Divorced,No,No
+27,1130,8,4,2,2,6214,3,8,7,Travel_Rarely,Sales,Marketing,Female,Sales Executive,Married,No,No
+37,1192,5,2,2,4,6347,2,6,2,Travel_Rarely,Research & Development,Medical,Male,Manufacturing Director,Divorced,No,No
+38,343,15,2,3,4,11510,3,11,10,Travel_Rarely,Research & Development,Life Sciences,Male,Research Director,Divorced,Yes,No
+31,1232,7,4,3,4,7143,2,11,9,Travel_Rarely,Research & Development,Medical,Female,Manufacturing Director,Single,Yes,No
+29,144,10,1,2,2,8268,3,7,7,Travel_Rarely,Sales,Marketing,Female,Sales Executive,Divorced,Yes,No
+35,1296,5,4,3,2,8095,3,16,6,Travel_Rarely,Research & Development,Technical Degree,Male,Manufacturing Director,Single,No,No
+23,1309,26,1,1,4,2904,2,4,2,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Divorced,No,No
+41,483,6,3,2,2,6032,3,5,4,Travel_Rarely,Research & Development,Medical,Male,Manufacturing Director,Single,Yes,No
+47,1309,4,1,2,3,2976,3,0,0,Travel_Frequently,Sales,Medical,Male,Sales Representative,Single,No,No
+42,810,23,5,4,4,15992,3,1,0,Travel_Rarely,Research & Development,Life Sciences,Female,Research Director,Single,No,No
+29,746,2,3,2,3,4649,2,4,3,Non-Travel,Sales,Life Sciences,Male,Sales Executive,Married,No,No
+42,544,2,1,1,3,2696,3,3,2,Travel_Rarely,Human Resources,Technical Degree,Male,Human Resources,Divorced,Yes,No
+32,1062,2,3,1,2,2370,3,8,0,Travel_Rarely,Research & Development,Medical,Female,Laboratory Technician,Married,No,No
+48,530,29,1,3,3,12504,1,0,0,Travel_Rarely,Sales,Medical,Female,Manager,Married,No,No
+37,1319,6,3,2,1,5974,3,7,7,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Divorced,Yes,No
+30,641,25,2,2,3,4736,4,2,2,Non-Travel,Sales,Technical Degree,Female,Sales Executive,Married,Yes,No
+26,933,1,3,2,3,5296,3,8,7,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Married,No,No
+42,1332,2,4,2,4,6781,3,1,0,Travel_Rarely,Research & Development,Other,Male,Healthcare Representative,Single,No,No
+21,756,1,1,1,2,2174,3,3,2,Travel_Frequently,Sales,Technical Degree,Female,Sales Representative,Single,Yes,Yes
+36,845,1,5,2,4,6653,3,1,0,Non-Travel,Sales,Medical,Female,Sales Executive,Single,No,No
+36,541,3,4,3,4,9699,3,13,9,Travel_Frequently,Sales,Medical,Male,Sales Executive,Married,No,No
+57,593,1,4,2,3,6755,3,3,2,Travel_Rarely,Research & Development,Medical,Male,Healthcare Representative,Married,No,No
+40,1171,10,4,1,3,2213,3,7,7,Travel_Rarely,Research & Development,Life Sciences,Female,Laboratory Technician,Married,Yes,No
+21,895,9,2,1,4,2610,2,3,2,Non-Travel,Sales,Medical,Male,Sales Representative,Single,No,No
+33,350,5,3,1,3,2851,3,1,0,Travel_Rarely,Sales,Marketing,Female,Sales Representative,Single,Yes,Yes
+37,921,10,3,1,1,3452,3,5,4,Travel_Rarely,Research & Development,Medical,Female,Laboratory Technician,Married,No,No
+46,1144,7,4,2,3,5258,4,1,0,Non-Travel,Research & Development,Medical,Female,Manufacturing Director,Married,No,No
+41,143,4,3,2,2,9355,3,8,7,Travel_Frequently,Sales,Marketing,Male,Sales Executive,Single,No,Yes
+50,1046,10,3,3,4,10496,3,4,3,Travel_Rarely,Research & Development,Technical Degree,Male,Healthcare Representative,Single,No,No
+40,575,22,2,2,3,6380,3,6,4,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Married,Yes,Yes
+31,408,9,4,1,2,2657,3,2,2,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Single,Yes,No
+21,156,12,3,1,2,2716,3,1,0,Travel_Rarely,Sales,Life Sciences,Female,Sales Representative,Single,No,Yes
+29,1283,23,3,1,4,2201,3,3,2,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Single,No,No
+35,755,9,4,2,2,6540,3,1,1,Travel_Rarely,Research & Development,Life Sciences,Male,Healthcare Representative,Single,No,No
+27,1469,1,2,1,2,3816,3,5,2,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Divorced,No,No
+28,304,9,4,2,4,5253,3,7,5,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Single,No,No
+49,1261,7,3,3,3,10965,3,5,2,Travel_Rarely,Research & Development,Other,Male,Healthcare Representative,Single,No,No
+51,1178,14,2,2,4,4936,2,7,7,Travel_Rarely,Sales,Life Sciences,Female,Sales Executive,Married,No,No
+36,329,2,3,1,3,2543,3,2,2,Travel_Rarely,Research & Development,Life Sciences,Female,Research Scientist,Married,No,No
+34,1362,19,3,2,4,5304,2,5,2,Non-Travel,Sales,Marketing,Male,Sales Executive,Single,Yes,Yes
+55,1311,2,3,4,4,16659,3,5,4,Travel_Rarely,Research & Development,Life Sciences,Female,Manager,Single,Yes,No
+24,1371,10,4,2,3,4260,4,5,2,Travel_Rarely,Sales,Marketing,Female,Sales Executive,Divorced,Yes,No
+30,202,2,1,1,2,2476,3,1,0,Travel_Rarely,Sales,Technical Degree,Male,Sales Representative,Married,No,No
+26,575,3,1,1,1,3102,3,6,4,Travel_Frequently,Research & Development,Technical Degree,Male,Research Scientist,Single,No,Yes
+22,253,11,3,1,2,2244,3,2,1,Travel_Rarely,Research & Development,Medical,Female,Research Scientist,Married,No,No
+36,164,2,2,3,3,7596,3,10,9,Travel_Rarely,Sales,Medical,Male,Sales Executive,Married,No,No
+30,464,4,3,1,4,2285,3,1,0,Travel_Frequently,Research & Development,Technical Degree,Male,Research Scientist,Single,Yes,Yes
+37,1107,14,3,1,1,3034,2,18,7,Travel_Rarely,Research & Development,Life Sciences,Female,Laboratory Technician,Divorced,No,No
+40,759,2,2,2,2,5715,3,5,4,Travel_Rarely,Sales,Marketing,Female,Sales Executive,Divorced,No,No
+42,201,1,4,1,1,2576,3,5,2,Travel_Rarely,Research & Development,Life Sciences,Female,Laboratory Technician,Divorced,No,No
+37,1305,10,4,2,2,4197,2,1,0,Travel_Rarely,Research & Development,Life Sciences,Male,Manufacturing Director,Single,Yes,No
+43,982,12,3,4,2,14336,3,25,10,Travel_Rarely,Research & Development,Life Sciences,Male,Research Director,Divorced,No,No
+40,555,2,3,2,3,3448,3,1,0,Travel_Rarely,Research & Development,Medical,Female,Laboratory Technician,Married,No,No
+54,821,5,2,5,1,19406,2,4,2,Travel_Rarely,Research & Development,Medical,Male,Research Director,Married,No,No
+34,1381,4,4,2,3,6538,3,3,2,Non-Travel,Sales,Marketing,Female,Sales Executive,Married,No,No
+31,480,7,2,2,1,4306,1,13,10,Travel_Rarely,Research & Development,Medical,Female,Manufacturing Director,Married,No,No
+43,313,21,3,1,4,2258,3,3,2,Travel_Frequently,Research & Development,Medical,Male,Laboratory Technician,Married,No,No
+43,1473,8,4,2,3,4522,3,5,2,Travel_Rarely,Research & Development,Other,Female,Healthcare Representative,Divorced,Yes,No
+25,891,4,2,2,4,4487,3,5,4,Travel_Rarely,Sales,Life Sciences,Female,Sales Executive,Single,Yes,No
+37,1063,25,5,2,3,4449,3,13,11,Non-Travel,Research & Development,Medical,Female,Research Scientist,Married,Yes,No
+31,329,1,2,1,1,2218,3,4,2,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Married,No,No
+39,1218,1,1,5,3,19197,3,21,8,Travel_Frequently,Research & Development,Life Sciences,Male,Manager,Divorced,Yes,No
+56,906,6,3,4,1,13212,2,7,7,Travel_Frequently,Sales,Life Sciences,Female,Sales Executive,Married,No,No
+30,1082,12,3,2,3,6577,3,5,4,Travel_Rarely,Sales,Technical Degree,Female,Sales Executive,Single,No,No
+41,645,1,3,3,1,8392,3,10,7,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Married,No,No
+28,1300,17,2,2,1,4558,3,10,0,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Divorced,No,No
+25,688,3,3,1,1,4031,3,2,2,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Married,No,Yes
+52,319,3,3,3,3,7969,3,5,4,Travel_Rarely,Research & Development,Medical,Male,Manufacturing Director,Married,Yes,No
+45,192,10,2,1,4,2654,2,2,2,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Married,No,No
+52,1490,4,2,4,4,16555,1,5,2,Travel_Rarely,Research & Development,Life Sciences,Female,Manager,Married,No,No
+42,532,29,2,2,3,4556,3,5,4,Travel_Frequently,Research & Development,Life Sciences,Female,Research Scientist,Divorced,No,No
+30,317,2,3,2,4,6091,3,5,4,Travel_Rarely,Research & Development,Life Sciences,Female,Manufacturing Director,Single,No,No
+60,422,7,3,5,1,19566,1,29,8,Travel_Rarely,Research & Development,Life Sciences,Female,Manager,Married,No,No
+46,1485,18,3,2,3,4810,2,10,7,Travel_Rarely,Research & Development,Medical,Female,Manufacturing Director,Divorced,No,No
+42,1368,28,4,2,4,4523,4,6,5,Travel_Frequently,Research & Development,Technical Degree,Female,Healthcare Representative,Married,No,No
+24,1448,1,1,1,2,3202,3,5,3,Travel_Rarely,Sales,Technical Degree,Female,Sales Representative,Single,Yes,Yes
+34,296,6,2,1,3,2351,2,2,2,Travel_Frequently,Sales,Marketing,Female,Sales Representative,Divorced,No,Yes
+38,1490,2,2,1,4,1702,3,1,0,Travel_Frequently,Research & Development,Life Sciences,Male,Laboratory Technician,Married,Yes,No
+40,1398,2,4,5,3,18041,3,20,15,Travel_Rarely,Sales,Life Sciences,Female,Manager,Married,No,No
+26,1349,23,3,1,4,2886,1,3,2,Travel_Rarely,Research & Development,Life Sciences,Female,Research Scientist,Divorced,No,No
+30,1400,3,3,1,4,2097,1,5,3,Non-Travel,Research & Development,Life Sciences,Male,Laboratory Technician,Married,No,No
+29,986,3,4,3,3,11935,3,10,2,Travel_Rarely,Research & Development,Medical,Male,Research Director,Married,No,No
+29,408,25,5,1,2,2546,4,2,2,Travel_Rarely,Research & Development,Technical Degree,Female,Research Scientist,Married,No,Yes
+19,489,2,2,1,4,2564,4,1,0,Travel_Rarely,Human Resources,Technical Degree,Male,Human Resources,Single,No,Yes
+30,1398,22,4,3,1,8412,3,9,8,Non-Travel,Sales,Other,Female,Sales Executive,Married,No,No
+57,210,29,3,4,4,14118,2,1,0,Travel_Rarely,Sales,Marketing,Male,Manager,Divorced,No,No
+50,1099,29,4,4,3,17046,3,27,10,Travel_Rarely,Research & Development,Life Sciences,Male,Manager,Married,No,No
+30,1116,2,3,1,4,2564,2,11,7,Non-Travel,Research & Development,Medical,Female,Laboratory Technician,Single,No,No
+60,1499,28,3,3,1,10266,4,18,13,Travel_Frequently,Sales,Marketing,Female,Sales Executive,Married,No,No
+47,983,2,2,2,4,5070,3,5,0,Travel_Rarely,Research & Development,Medical,Female,Manufacturing Director,Divorced,No,No
+46,1009,2,3,4,3,17861,1,3,2,Travel_Rarely,Research & Development,Life Sciences,Male,Research Director,Married,No,No
+35,144,22,3,1,3,4230,3,5,4,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Single,No,No
+54,548,8,4,2,3,3780,3,1,0,Travel_Rarely,Research & Development,Life Sciences,Female,Laboratory Technician,Single,No,No
+34,1303,2,4,1,3,2768,3,7,3,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Divorced,No,No
+46,1125,10,3,3,4,9071,3,3,2,Travel_Rarely,Sales,Marketing,Female,Sales Executive,Married,Yes,No
+31,1274,9,1,3,2,10648,4,13,8,Travel_Rarely,Research & Development,Life Sciences,Male,Manufacturing Director,Divorced,No,No
+33,1277,15,1,3,3,13610,4,7,6,Travel_Rarely,Research & Development,Medical,Male,Manager,Married,Yes,Yes
+33,587,10,1,1,4,3408,3,4,3,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Divorced,No,Yes
+30,413,7,1,1,2,2983,3,3,2,Travel_Rarely,Sales,Marketing,Male,Sales Representative,Single,No,No
+35,1276,16,3,3,3,7632,3,8,7,Travel_Rarely,Research & Development,Life Sciences,Male,Healthcare Representative,Married,Yes,No
+31,534,20,3,3,3,9824,3,1,0,Travel_Frequently,Research & Development,Life Sciences,Male,Healthcare Representative,Married,No,Yes
+34,988,23,3,3,1,9950,3,3,2,Travel_Frequently,Human Resources,Human Resources,Female,Human Resources,Divorced,Yes,Yes
+42,1474,5,2,1,3,2093,3,2,2,Travel_Frequently,Research & Development,Other,Male,Laboratory Technician,Married,No,No
+36,635,10,4,3,4,9980,2,10,3,Non-Travel,Sales,Medical,Male,Sales Executive,Single,No,No
+22,1368,4,1,1,3,3894,3,2,2,Travel_Frequently,Research & Development,Technical Degree,Male,Laboratory Technician,Single,No,Yes
+48,163,2,5,2,4,4051,3,9,7,Travel_Rarely,Sales,Marketing,Female,Sales Executive,Married,No,No
+55,1117,18,5,4,2,16835,3,10,9,Travel_Rarely,Sales,Life Sciences,Female,Manager,Single,No,No
+41,267,10,2,2,4,6230,3,14,3,Non-Travel,Sales,Life Sciences,Male,Sales Executive,Single,No,No
+35,619,1,3,2,3,4717,3,11,9,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Married,No,No
+40,302,6,3,4,3,13237,3,20,6,Travel_Rarely,Research & Development,Life Sciences,Female,Manufacturing Director,Single,No,No
+39,443,8,1,1,3,3755,3,8,3,Travel_Frequently,Research & Development,Life Sciences,Female,Laboratory Technician,Married,No,No
+31,828,2,1,2,4,6582,4,6,5,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Single,Yes,No
+42,319,24,3,3,1,7406,2,10,9,Travel_Rarely,Research & Development,Medical,Male,Manufacturing Director,Married,Yes,No
+45,561,2,3,2,2,4805,4,8,7,Travel_Rarely,Sales,Other,Male,Sales Executive,Married,No,No
+26,426,17,4,1,3,2741,2,7,7,Travel_Frequently,Human Resources,Life Sciences,Female,Human Resources,Divorced,Yes,Yes
+29,232,19,3,2,4,4262,4,3,2,Travel_Rarely,Research & Development,Technical Degree,Male,Manufacturing Director,Divorced,No,No
+33,922,1,5,4,3,16184,3,6,1,Travel_Rarely,Research & Development,Medical,Female,Research Director,Divorced,No,No
+31,688,7,3,3,4,11557,2,5,4,Travel_Rarely,Sales,Life Sciences,Male,Manager,Divorced,No,No
+18,1306,5,3,1,2,1878,3,0,0,Travel_Frequently,Sales,Marketing,Male,Sales Representative,Single,Yes,Yes
+40,1094,28,3,3,1,10932,3,1,0,Non-Travel,Sales,Other,Male,Sales Executive,Divorced,No,No
+41,509,2,4,2,3,6811,3,8,7,Non-Travel,Research & Development,Other,Female,Healthcare Representative,Single,Yes,No
+26,775,29,2,2,3,4306,3,0,0,Travel_Rarely,Sales,Medical,Male,Sales Executive,Divorced,No,No
+35,195,1,3,2,3,4859,3,5,4,Travel_Rarely,Sales,Medical,Female,Sales Executive,Single,No,No
+34,258,21,4,2,4,5337,3,10,7,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Single,No,No
+26,471,24,3,1,4,2340,1,1,0,Travel_Rarely,Research & Development,Technical Degree,Male,Laboratory Technician,Single,Yes,Yes
+37,799,1,3,3,4,7491,4,6,5,Travel_Rarely,Research & Development,Technical Degree,Female,Manufacturing Director,Single,No,No
+46,1034,18,1,3,3,10527,2,2,2,Travel_Frequently,Research & Development,Medical,Female,Healthcare Representative,Married,No,No
+41,1276,2,5,4,1,16595,3,18,16,Travel_Rarely,Sales,Life Sciences,Female,Manager,Married,No,No
+37,142,9,4,3,2,8834,3,9,5,Non-Travel,Sales,Medical,Male,Sales Executive,Divorced,No,No
+52,956,6,2,2,1,5577,3,10,9,Travel_Rarely,Research & Development,Technical Degree,Male,Research Scientist,Divorced,Yes,No
+32,1474,11,4,2,3,4707,3,4,2,Non-Travel,Sales,Other,Male,Sales Executive,Married,No,Yes
+24,535,24,3,1,4,2400,3,2,2,Travel_Frequently,Sales,Medical,Male,Sales Representative,Married,No,No
+38,1495,10,3,2,3,9824,3,1,0,Travel_Rarely,Research & Development,Medical,Female,Healthcare Representative,Married,No,No
+37,446,1,4,2,2,6447,2,6,5,Travel_Rarely,Research & Development,Life Sciences,Female,Manufacturing Director,Married,No,No
+49,1245,18,4,5,3,19502,3,31,9,Travel_Rarely,Research & Development,Life Sciences,Male,Research Director,Divorced,Yes,No
+24,691,23,3,1,4,2725,3,6,5,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Married,Yes,No
+26,703,28,2,2,2,6272,4,5,3,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Married,No,No
+24,823,17,2,1,2,2127,3,1,0,Travel_Rarely,Research & Development,Other,Male,Laboratory Technician,Married,No,No
+50,1246,3,3,5,2,18200,3,32,5,Travel_Frequently,Human Resources,Medical,Male,Manager,Married,No,No
+25,622,13,1,1,3,2096,3,7,4,Travel_Rarely,Sales,Medical,Male,Sales Representative,Married,No,No
+24,1287,7,3,1,3,2886,3,6,3,Travel_Frequently,Research & Development,Life Sciences,Female,Laboratory Technician,Married,Yes,Yes
+30,448,12,4,1,1,2033,4,1,0,Travel_Frequently,Sales,Life Sciences,Male,Sales Representative,Married,No,Yes
+34,254,1,2,1,4,3622,3,6,5,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Married,Yes,No
+31,1365,13,4,2,1,4233,1,3,1,Travel_Rarely,Sales,Medical,Male,Sales Executive,Divorced,No,Yes
+35,538,25,2,2,4,3681,3,3,2,Travel_Rarely,Research & Development,Other,Male,Laboratory Technician,Single,No,No
+31,525,6,4,2,4,5460,4,7,7,Travel_Rarely,Sales,Medical,Male,Sales Executive,Divorced,No,No
+27,798,6,4,1,3,2187,2,5,3,Travel_Rarely,Research & Development,Medical,Female,Research Scientist,Divorced,No,No
+37,558,2,3,2,3,9602,2,3,0,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Married,Yes,No
+20,959,1,3,1,2,2836,4,1,0,Travel_Rarely,Research & Development,Life Sciences,Female,Research Scientist,Single,No,No
+42,622,2,4,2,4,4089,3,10,2,Travel_Rarely,Research & Development,Life Sciences,Female,Healthcare Representative,Married,No,No
+43,782,6,4,4,4,16627,2,1,0,Travel_Rarely,Research & Development,Other,Male,Research Director,Divorced,Yes,No
+38,362,1,1,1,1,2619,2,0,0,Travel_Rarely,Research & Development,Life Sciences,Female,Research Scientist,Single,No,No
+43,1001,9,5,2,3,5679,3,8,7,Travel_Frequently,Research & Development,Medical,Male,Laboratory Technician,Divorced,Yes,No
+48,1236,1,4,4,1,15402,1,3,2,Travel_Rarely,Research & Development,Life Sciences,Female,Manager,Married,No,No
+44,1112,1,4,2,3,5985,4,2,2,Travel_Rarely,Human Resources,Life Sciences,Female,Human Resources,Single,No,No
+34,204,14,3,1,3,2579,3,8,2,Travel_Rarely,Sales,Technical Degree,Female,Sales Representative,Divorced,Yes,No
+27,1420,2,1,1,1,3041,3,4,3,Travel_Rarely,Sales,Marketing,Male,Sales Representative,Divorced,No,Yes
+21,1343,22,1,1,3,3447,3,3,2,Travel_Rarely,Sales,Technical Degree,Male,Sales Representative,Single,No,No
+44,1315,3,4,5,4,19513,4,2,2,Travel_Rarely,Research & Development,Other,Male,Manager,Married,Yes,No
+22,604,6,1,1,3,2773,3,2,2,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Married,No,No
+33,1216,8,4,2,3,7104,3,5,0,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Divorced,No,No
+32,646,9,4,2,4,6322,2,6,4,Travel_Rarely,Research & Development,Life Sciences,Female,Research Scientist,Married,Yes,No
+30,160,3,3,1,3,2083,3,1,0,Travel_Frequently,Research & Development,Medical,Female,Research Scientist,Divorced,No,No
+53,238,1,1,2,1,8381,4,14,7,Travel_Rarely,Sales,Medical,Female,Sales Executive,Single,No,No
+34,1397,1,5,1,4,2691,2,10,9,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Married,No,No
+45,306,26,4,2,1,4286,3,1,1,Travel_Frequently,Sales,Life Sciences,Female,Sales Executive,Married,No,Yes
+26,991,6,3,1,4,2659,3,3,2,Travel_Rarely,Research & Development,Life Sciences,Female,Laboratory Technician,Married,Yes,No
+37,482,3,3,3,3,9434,3,10,7,Travel_Rarely,Research & Development,Other,Male,Manufacturing Director,Married,No,No
+29,1176,3,2,2,3,5561,2,6,0,Travel_Rarely,Sales,Medical,Female,Sales Executive,Married,No,No
+35,1017,6,4,2,4,6646,3,17,11,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Single,No,No
+33,1296,6,3,2,4,7725,1,13,11,Travel_Frequently,Research & Development,Life Sciences,Male,Healthcare Representative,Divorced,No,No
+54,397,19,4,3,2,10725,4,9,7,Travel_Rarely,Human Resources,Medical,Male,Human Resources,Married,No,No
+36,913,9,2,2,2,8847,3,3,2,Travel_Rarely,Research & Development,Medical,Male,Manufacturing Director,Divorced,Yes,No
+27,1115,3,4,1,4,2045,3,4,2,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Single,No,No
+20,1362,10,1,1,3,1009,3,1,0,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Single,Yes,Yes
+33,1076,3,3,1,1,3348,3,10,8,Travel_Frequently,Research & Development,Life Sciences,Male,Research Scientist,Single,Yes,Yes
+35,727,3,3,1,3,1281,3,1,0,Non-Travel,Research & Development,Life Sciences,Male,Laboratory Technician,Married,No,No
+23,885,4,3,1,1,2819,4,3,2,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Married,No,No
+25,810,8,3,2,2,4851,3,3,2,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Married,No,No
+38,243,7,4,2,4,4028,3,7,7,Travel_Rarely,Sales,Marketing,Female,Sales Executive,Single,No,No
+29,806,1,4,1,4,2720,3,10,7,Travel_Frequently,Research & Development,Life Sciences,Male,Research Scientist,Divorced,No,No
+48,817,2,1,2,2,8120,3,2,2,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Married,No,No
+27,1410,3,1,2,4,4647,3,6,5,Travel_Frequently,Sales,Medical,Female,Sales Executive,Divorced,Yes,No
+37,1225,10,2,1,4,4680,3,1,0,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Single,No,No
+50,1207,28,1,1,3,3221,3,20,8,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Married,Yes,No
+34,1442,9,3,3,2,8621,4,8,7,Travel_Rarely,Research & Development,Medical,Female,Healthcare Representative,Single,No,No
+24,693,3,2,2,3,4577,3,2,2,Travel_Rarely,Sales,Life Sciences,Female,Sales Executive,Single,No,Yes
+39,408,2,4,2,3,4553,3,20,7,Travel_Rarely,Research & Development,Technical Degree,Female,Healthcare Representative,Single,No,No
+32,929,10,3,2,4,5396,2,10,7,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Single,No,No
+50,562,8,2,2,3,6796,3,4,3,Travel_Frequently,Sales,Technical Degree,Male,Sales Executive,Married,Yes,Yes
+38,827,1,4,2,4,7625,2,9,7,Travel_Rarely,Research & Development,Life Sciences,Female,Healthcare Representative,Single,No,No
+27,608,1,2,3,1,7412,3,9,7,Travel_Rarely,Research & Development,Life Sciences,Female,Manufacturing Director,Married,No,No
+32,1018,3,2,3,4,11159,3,7,7,Travel_Rarely,Research & Development,Life Sciences,Female,Research Director,Single,No,No
+47,703,14,4,2,1,4960,3,7,7,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Single,No,No
+40,580,5,4,3,1,10475,3,18,13,Travel_Frequently,Sales,Life Sciences,Male,Sales Executive,Married,Yes,No
+53,970,7,3,4,3,14814,3,5,1,Travel_Rarely,Research & Development,Life Sciences,Male,Research Director,Married,No,No
+41,427,10,4,5,4,19141,2,21,6,Travel_Rarely,Human Resources,Human Resources,Male,Manager,Divorced,No,No
+60,1179,16,4,2,1,5405,3,2,2,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Single,No,No
+27,294,10,2,3,1,8793,2,9,7,Travel_Frequently,Research & Development,Life Sciences,Male,Manufacturing Director,Divorced,No,No
+41,314,1,3,5,3,19189,3,22,7,Travel_Rarely,Human Resources,Human Resources,Male,Manager,Married,No,No
+50,316,8,4,1,2,3875,3,2,2,Travel_Rarely,Sales,Marketing,Male,Sales Representative,Married,No,No
+28,654,1,2,1,2,2216,3,7,7,Travel_Rarely,Research & Development,Life Sciences,Female,Research Scientist,Single,Yes,Yes
+36,427,8,3,3,1,11713,3,8,7,Non-Travel,Research & Development,Life Sciences,Female,Research Director,Married,No,No
+38,168,1,3,3,3,7861,4,1,0,Travel_Rarely,Research & Development,Life Sciences,Female,Manufacturing Director,Single,Yes,No
+44,381,24,3,1,3,3708,3,5,2,Non-Travel,Research & Development,Medical,Male,Laboratory Technician,Single,No,No
+47,217,3,3,4,3,13770,2,22,2,Travel_Frequently,Sales,Medical,Female,Sales Executive,Divorced,Yes,No
+30,501,27,5,2,4,5304,2,8,7,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Divorced,No,No
+29,1396,10,3,1,3,2642,3,1,0,Travel_Rarely,Sales,Life Sciences,Male,Sales Representative,Single,No,No
+42,933,19,3,1,3,2759,3,2,2,Travel_Frequently,Research & Development,Medical,Male,Research Scientist,Divorced,Yes,Yes
+43,775,15,3,2,4,6804,3,2,2,Travel_Frequently,Sales,Life Sciences,Male,Sales Executive,Married,No,No
+34,970,8,2,2,3,6142,3,5,1,Travel_Rarely,Research & Development,Medical,Female,Healthcare Representative,Single,No,No
+23,650,9,1,1,1,2500,4,4,3,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Married,No,No
+39,141,3,3,2,2,6389,1,8,3,Travel_Rarely,Human Resources,Human Resources,Female,Human Resources,Married,No,No
+56,832,9,3,4,4,11103,2,10,7,Travel_Rarely,Research & Development,Medical,Male,Healthcare Representative,Married,No,No
+40,804,2,1,1,4,2342,2,4,2,Travel_Rarely,Research & Development,Medical,Female,Research Scientist,Single,Yes,No
+27,975,7,3,2,1,6811,1,7,6,Travel_Rarely,Research & Development,Medical,Female,Healthcare Representative,Single,No,No
+29,1090,10,3,1,2,2297,3,2,2,Travel_Rarely,Sales,Marketing,Male,Sales Representative,Divorced,No,No
+53,346,6,3,2,4,2450,3,2,2,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Single,No,No
+35,1225,2,4,2,1,5093,4,1,0,Non-Travel,Research & Development,Life Sciences,Female,Healthcare Representative,Divorced,No,No
+32,430,24,4,2,4,5309,3,10,8,Travel_Frequently,Research & Development,Life Sciences,Male,Laboratory Technician,Married,No,No
+38,268,2,5,1,3,3057,1,1,0,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Married,Yes,No
+34,167,8,5,2,1,5121,3,0,0,Travel_Rarely,Research & Development,Life Sciences,Female,Manufacturing Director,Divorced,No,No
+52,621,3,4,4,1,16856,4,34,6,Travel_Rarely,Sales,Marketing,Male,Manager,Married,No,No
+33,527,1,4,1,4,2686,2,10,9,Travel_Rarely,Research & Development,Other,Male,Research Scientist,Single,Yes,Yes
+25,883,26,1,2,4,6180,2,6,5,Travel_Rarely,Sales,Medical,Female,Sales Executive,Single,No,No
+45,954,2,2,2,3,6632,3,8,7,Travel_Rarely,Sales,Technical Degree,Male,Sales Representative,Single,No,No
+23,310,10,1,1,3,3505,3,2,2,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Single,No,No
+47,719,27,2,2,3,6397,3,5,4,Travel_Frequently,Sales,Life Sciences,Female,Sales Executive,Single,Yes,Yes
+34,304,2,3,2,4,6274,3,6,5,Travel_Rarely,Sales,Other,Male,Sales Executive,Single,No,No
+55,725,2,3,5,1,19859,3,5,2,Travel_Rarely,Research & Development,Medical,Male,Manager,Married,Yes,Yes
+36,1434,8,4,3,1,7587,3,10,7,Non-Travel,Sales,Life Sciences,Male,Sales Executive,Single,No,No
+52,715,19,4,1,4,4258,3,4,3,Non-Travel,Research & Development,Medical,Male,Research Scientist,Married,No,No
+26,575,1,2,1,4,4364,3,2,2,Travel_Frequently,Research & Development,Life Sciences,Female,Laboratory Technician,Divorced,No,No
+29,657,27,3,2,3,4335,2,8,7,Travel_Rarely,Research & Development,Medical,Female,Healthcare Representative,Married,No,No
+26,1146,8,3,2,1,5326,2,4,3,Travel_Rarely,Sales,Technical Degree,Male,Sales Executive,Single,No,Yes
+34,182,1,4,1,4,3280,3,4,2,Travel_Rarely,Research & Development,Life Sciences,Female,Research Scientist,Single,No,No
+54,376,19,4,2,1,5485,3,5,3,Travel_Rarely,Research & Development,Medical,Female,Manufacturing Director,Divorced,Yes,No
+27,829,8,1,2,4,4342,3,4,2,Travel_Frequently,Sales,Marketing,Male,Sales Executive,Married,No,No
+37,571,10,1,1,1,2782,2,5,3,Travel_Rarely,Research & Development,Life Sciences,Female,Research Scientist,Divorced,Yes,No
+38,240,2,4,2,1,5980,3,15,7,Travel_Frequently,Research & Development,Life Sciences,Female,Manufacturing Director,Single,Yes,No
+34,121,2,4,1,1,4381,3,6,5,Travel_Rarely,Research & Development,Medical,Female,Research Scientist,Single,No,No
+35,384,8,4,1,4,2572,2,3,2,Travel_Rarely,Sales,Life Sciences,Female,Sales Representative,Married,No,No
+30,921,1,3,1,3,3833,3,2,2,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Married,No,No
+40,791,2,2,2,2,4244,3,8,7,Travel_Frequently,Research & Development,Medical,Female,Healthcare Representative,Married,No,No
+34,1111,8,2,2,1,6500,3,3,2,Travel_Rarely,Sales,Life Sciences,Female,Sales Executive,Married,No,No
+42,570,8,3,5,4,18430,2,24,7,Travel_Frequently,Research & Development,Life Sciences,Male,Manager,Divorced,No,No
+23,1243,6,3,1,1,1601,3,0,0,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Married,Yes,Yes
+24,1092,9,3,1,2,2694,3,1,0,Non-Travel,Research & Development,Life Sciences,Male,Laboratory Technician,Divorced,No,No
+52,1325,11,4,2,3,3149,3,5,2,Travel_Rarely,Research & Development,Life Sciences,Female,Laboratory Technician,Married,No,No
+50,691,2,3,4,3,17639,3,4,3,Travel_Rarely,Research & Development,Medical,Male,Research Director,Married,No,No
+29,805,1,2,1,1,2319,3,1,0,Travel_Rarely,Research & Development,Life Sciences,Female,Laboratory Technician,Married,Yes,Yes
+33,213,7,3,3,3,11691,4,13,9,Travel_Rarely,Research & Development,Medical,Male,Research Director,Married,No,No
+33,118,16,3,2,1,5324,3,3,2,Travel_Rarely,Sales,Marketing,Female,Sales Executive,Single,No,Yes
+47,202,2,2,4,4,16752,2,26,14,Travel_Rarely,Research & Development,Other,Female,Manager,Married,Yes,No
+36,676,1,3,2,2,5228,3,9,7,Travel_Rarely,Research & Development,Other,Female,Manufacturing Director,Married,No,No
+29,1252,23,2,1,3,2700,3,10,7,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Married,No,No
+58,286,2,4,5,2,19246,3,31,15,Travel_Rarely,Research & Development,Life Sciences,Male,Research Director,Single,Yes,Yes
+35,1258,1,4,1,3,2506,3,2,2,Travel_Rarely,Research & Development,Life Sciences,Female,Research Scientist,Single,No,No
+42,932,1,2,2,4,6062,3,4,3,Travel_Rarely,Research & Development,Life Sciences,Female,Manufacturing Director,Married,Yes,No
+28,890,2,4,1,3,4382,2,2,2,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Single,No,Yes
+36,1041,13,3,1,2,2143,3,5,2,Travel_Rarely,Human Resources,Human Resources,Male,Human Resources,Married,No,No
+32,859,4,3,2,3,6162,3,14,13,Travel_Rarely,Research & Development,Life Sciences,Female,Manufacturing Director,Married,No,No
+40,720,16,4,2,3,5094,3,1,0,Travel_Frequently,Research & Development,Medical,Male,Laboratory Technician,Single,No,No
+30,946,2,3,2,4,6877,2,0,0,Travel_Rarely,Research & Development,Medical,Female,Manufacturing Director,Single,Yes,No
+45,252,2,3,1,3,2274,3,1,0,Travel_Rarely,Research & Development,Life Sciences,Female,Research Scientist,Single,No,No
+42,933,29,3,2,2,4434,2,9,8,Travel_Rarely,Research & Development,Life Sciences,Male,Manufacturing Director,Married,No,No
+38,471,12,3,2,1,6288,2,4,3,Travel_Frequently,Research & Development,Life Sciences,Male,Healthcare Representative,Divorced,No,No
+34,702,16,4,1,4,2553,3,5,2,Travel_Frequently,Research & Development,Life Sciences,Female,Research Scientist,Single,No,No
+49,1184,11,3,3,4,7654,4,9,8,Travel_Rarely,Sales,Marketing,Female,Sales Executive,Married,No,Yes
+55,436,2,1,2,4,5160,2,9,7,Travel_Rarely,Sales,Medical,Male,Sales Executive,Single,No,Yes
+43,589,14,2,4,1,17159,3,4,1,Travel_Rarely,Research & Development,Life Sciences,Male,Research Director,Married,No,No
+27,269,5,1,3,4,12808,3,9,8,Travel_Rarely,Research & Development,Technical Degree,Male,Research Director,Divorced,Yes,No
+35,950,7,3,3,3,10221,4,8,5,Travel_Rarely,Research & Development,Other,Male,Manufacturing Director,Single,No,No
+28,760,2,4,2,2,4779,3,8,7,Travel_Rarely,Sales,Marketing,Female,Sales Executive,Married,Yes,No
+34,829,3,2,1,4,3737,1,3,2,Travel_Rarely,Human Resources,Human Resources,Male,Human Resources,Married,No,No
+26,887,5,2,1,3,2366,3,8,7,Travel_Frequently,Research & Development,Medical,Female,Research Scientist,Married,Yes,Yes
+27,443,3,3,1,4,1706,2,0,0,Non-Travel,Research & Development,Medical,Male,Research Scientist,Married,No,No
+51,1318,26,4,4,3,16307,2,20,6,Travel_Rarely,Sales,Marketing,Female,Manager,Married,No,No
+44,625,4,3,2,2,5933,2,5,2,Travel_Rarely,Research & Development,Medical,Male,Healthcare Representative,Single,No,No
+25,180,2,1,1,1,3424,2,4,3,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Single,No,No
+33,586,1,3,2,1,4037,3,9,8,Travel_Rarely,Sales,Medical,Male,Sales Executive,Divorced,No,No
+35,1343,27,1,1,1,2559,2,6,5,Travel_Rarely,Research & Development,Medical,Female,Research Scientist,Single,No,No
+36,928,1,2,2,4,6201,2,18,14,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Married,Yes,No
+32,117,13,4,2,4,4403,2,5,2,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Divorced,No,No
+30,1012,5,4,1,4,3761,2,5,4,Travel_Frequently,Research & Development,Life Sciences,Male,Research Scientist,Divorced,No,No
+53,661,7,2,3,4,10934,3,5,2,Travel_Rarely,Sales,Marketing,Female,Sales Executive,Married,Yes,No
+45,930,9,3,3,1,10761,3,5,4,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Divorced,Yes,No
+32,638,8,2,2,3,5175,2,5,3,Travel_Rarely,Research & Development,Medical,Female,Research Scientist,Married,No,No
+52,890,25,4,4,4,13826,3,9,8,Travel_Frequently,Research & Development,Medical,Female,Manufacturing Director,Married,No,No
+37,342,16,4,2,3,6334,3,1,0,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Divorced,No,No
+28,1169,8,2,1,4,4936,3,5,1,Travel_Rarely,Human Resources,Medical,Male,Human Resources,Divorced,No,No
+22,1230,1,2,2,4,4775,1,2,2,Travel_Rarely,Research & Development,Life Sciences,Male,Manufacturing Director,Married,No,No
+44,986,8,4,1,4,2818,2,3,2,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Married,Yes,No
+42,1271,2,1,1,4,2515,3,2,1,Travel_Frequently,Research & Development,Medical,Male,Research Scientist,Single,Yes,No
+36,1278,8,3,1,1,2342,3,5,4,Travel_Rarely,Human Resources,Life Sciences,Male,Human Resources,Married,No,No
+25,141,3,1,2,1,4194,3,5,3,Travel_Rarely,Sales,Other,Male,Sales Executive,Married,Yes,No
+35,607,9,3,3,3,10685,3,17,14,Travel_Rarely,Research & Development,Life Sciences,Female,Manufacturing Director,Married,Yes,No
+35,130,25,4,1,2,2022,2,10,2,Travel_Frequently,Research & Development,Life Sciences,Female,Research Scientist,Divorced,Yes,Yes
+32,300,1,3,1,4,2314,3,3,0,Non-Travel,Research & Development,Life Sciences,Male,Laboratory Technician,Divorced,No,No
+25,583,4,1,2,1,4256,4,5,2,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Married,No,No
+49,1418,1,3,1,1,3580,3,4,2,Travel_Rarely,Research & Development,Technical Degree,Female,Research Scientist,Married,No,No
+24,1269,4,1,1,4,3162,2,5,2,Non-Travel,Research & Development,Life Sciences,Male,Laboratory Technician,Married,No,No
+32,379,5,2,2,2,6524,3,10,8,Travel_Frequently,Sales,Life Sciences,Male,Sales Executive,Married,No,No
+38,395,9,3,1,2,2899,3,2,2,Travel_Rarely,Sales,Marketing,Male,Sales Representative,Married,No,No
+42,1265,3,3,2,4,5231,2,5,3,Travel_Rarely,Research & Development,Life Sciences,Female,Laboratory Technician,Married,Yes,No
+31,1222,11,4,1,4,2356,3,6,4,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Married,Yes,No
+29,341,1,3,1,3,2800,3,3,2,Travel_Rarely,Sales,Medical,Female,Sales Representative,Divorced,Yes,Yes
+53,868,8,3,4,4,11836,3,2,0,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Married,No,No
+35,672,25,3,3,2,10903,3,13,10,Travel_Rarely,Research & Development,Technical Degree,Male,Manufacturing Director,Married,No,No
+37,1231,21,2,1,4,2973,3,5,4,Travel_Frequently,Sales,Medical,Female,Sales Representative,Married,No,No
+53,102,23,4,4,4,14275,3,12,9,Travel_Rarely,Research & Development,Life Sciences,Female,Research Director,Single,No,No
+43,422,1,3,2,4,5562,2,5,2,Travel_Frequently,Research & Development,Life Sciences,Female,Healthcare Representative,Married,No,No
+47,249,2,2,2,4,4537,3,7,6,Travel_Rarely,Sales,Marketing,Female,Sales Executive,Married,Yes,No
+37,1252,19,2,3,2,7642,3,10,0,Non-Travel,Sales,Medical,Male,Sales Executive,Single,Yes,No
+50,881,2,4,4,1,17924,3,31,6,Non-Travel,Research & Development,Life Sciences,Male,Manager,Divorced,No,No
+39,1383,2,3,2,4,5204,3,5,4,Travel_Rarely,Human Resources,Life Sciences,Female,Human Resources,Married,No,No
+33,1075,3,2,1,2,2277,4,4,3,Travel_Rarely,Human Resources,Human Resources,Male,Human Resources,Divorced,Yes,No
+32,374,25,4,1,4,2795,1,1,0,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Single,Yes,Yes
+29,1086,7,1,1,4,2532,3,4,3,Travel_Rarely,Research & Development,Medical,Female,Laboratory Technician,Divorced,No,No
+44,661,9,2,1,1,2559,3,8,7,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Married,Yes,No
+28,821,5,4,2,4,4908,3,4,2,Travel_Rarely,Sales,Medical,Male,Sales Executive,Single,No,No
+58,781,2,1,1,4,2380,2,1,0,Travel_Frequently,Research & Development,Life Sciences,Male,Laboratory Technician,Divorced,Yes,Yes
+43,177,8,3,2,2,4765,4,1,0,Travel_Rarely,Research & Development,Life Sciences,Female,Manufacturing Director,Divorced,No,No
+20,500,2,3,1,3,2044,2,2,2,Travel_Rarely,Sales,Medical,Female,Sales Representative,Single,No,Yes
+21,1427,18,1,1,4,2693,2,1,0,Travel_Rarely,Research & Development,Other,Female,Research Scientist,Single,No,Yes
+36,1425,14,1,2,4,6586,2,16,8,Travel_Rarely,Research & Development,Life Sciences,Male,Healthcare Representative,Married,Yes,No
+47,1454,2,4,1,4,3294,2,3,2,Travel_Rarely,Sales,Life Sciences,Female,Sales Representative,Single,Yes,No
+22,617,3,1,2,3,4171,4,3,2,Travel_Rarely,Research & Development,Life Sciences,Female,Manufacturing Director,Married,Yes,Yes
+41,1085,2,4,1,4,2778,2,7,7,Travel_Rarely,Research & Development,Life Sciences,Female,Laboratory Technician,Divorced,Yes,Yes
+28,995,9,3,1,3,2377,3,2,2,Travel_Rarely,Research & Development,Medical,Female,Research Scientist,Divorced,No,No
+39,1122,6,3,1,1,2404,1,2,2,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Married,Yes,Yes
+27,618,4,3,1,3,2318,3,1,1,Travel_Rarely,Research & Development,Life Sciences,Female,Research Scientist,Single,No,No
+34,546,10,3,1,2,2008,3,1,0,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Divorced,No,No
+42,462,14,2,2,3,6244,3,5,4,Travel_Rarely,Sales,Medical,Female,Sales Executive,Single,No,No
+33,1198,1,4,1,1,2799,3,3,2,Travel_Rarely,Research & Development,Other,Male,Research Scientist,Single,Yes,No
+58,1272,5,3,3,2,10552,3,6,0,Travel_Rarely,Research & Development,Technical Degree,Female,Healthcare Representative,Divorced,Yes,No
+31,154,7,4,1,3,2329,4,7,7,Travel_Rarely,Sales,Life Sciences,Male,Sales Representative,Married,No,No
+35,1137,21,1,2,4,4014,1,10,6,Travel_Rarely,Research & Development,Life Sciences,Female,Healthcare Representative,Married,Yes,No
+49,527,8,2,3,2,7403,2,26,9,Travel_Rarely,Research & Development,Other,Female,Laboratory Technician,Married,No,No
+48,1469,20,4,1,3,2259,2,0,0,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Married,No,No
+31,1188,20,2,2,3,6932,2,9,8,Non-Travel,Sales,Marketing,Female,Sales Executive,Married,No,No
+36,188,7,4,1,4,4678,3,6,2,Travel_Rarely,Research & Development,Other,Male,Research Scientist,Single,No,No
+38,1333,1,3,3,1,13582,3,15,12,Travel_Rarely,Research & Development,Technical Degree,Female,Research Director,Married,No,No
+32,1184,1,3,1,2,2332,3,3,0,Non-Travel,Research & Development,Life Sciences,Female,Laboratory Technician,Married,No,No
+25,867,19,2,1,2,2413,3,1,0,Travel_Rarely,Sales,Marketing,Male,Sales Representative,Married,Yes,Yes
+40,658,10,4,3,2,9705,2,1,0,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Divorced,No,No
+26,1283,1,3,2,1,4294,3,7,7,Travel_Frequently,Sales,Medical,Male,Sales Executive,Single,No,No
+41,263,6,3,1,1,4721,3,18,13,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Single,Yes,No
+36,938,2,4,1,3,2519,3,11,8,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Single,No,No
+19,419,21,3,1,2,2121,4,1,0,Travel_Rarely,Sales,Other,Male,Sales Representative,Single,Yes,Yes
+20,129,4,3,1,1,2973,3,1,0,Travel_Rarely,Research & Development,Technical Degree,Male,Laboratory Technician,Single,No,Yes
+31,616,12,3,2,4,5855,1,9,7,Travel_Rarely,Research & Development,Medical,Female,Healthcare Representative,Married,Yes,No
+40,1469,9,4,1,2,3617,3,1,1,Travel_Frequently,Research & Development,Medical,Male,Research Scientist,Divorced,Yes,No
+32,498,3,4,2,1,6725,4,8,7,Travel_Rarely,Research & Development,Medical,Female,Manufacturing Director,Married,No,No
+36,530,3,1,3,4,10325,3,16,7,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Married,Yes,Yes
+33,1069,1,3,2,4,6949,3,5,0,Travel_Rarely,Research & Development,Life Sciences,Female,Healthcare Representative,Single,No,No
+37,625,1,4,3,3,10609,1,14,1,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Married,No,Yes
+45,805,4,2,2,2,4447,2,9,7,Non-Travel,Research & Development,Life Sciences,Male,Laboratory Technician,Married,No,No
+29,1404,20,3,1,4,2157,3,3,1,Travel_Frequently,Sales,Technical Degree,Female,Sales Representative,Married,No,No
+35,1219,18,3,2,3,4601,3,5,2,Travel_Rarely,Sales,Medical,Female,Sales Executive,Married,No,No
+52,1053,1,2,4,4,17099,2,9,8,Travel_Rarely,Research & Development,Life Sciences,Male,Manager,Married,No,No
+58,289,2,3,1,3,2479,3,1,0,Travel_Rarely,Research & Development,Technical Degree,Male,Research Scientist,Single,No,Yes
+53,1376,2,2,4,3,14852,4,17,13,Travel_Rarely,Sales,Medical,Male,Manager,Divorced,No,No
+30,231,8,2,3,3,7264,4,8,4,Travel_Rarely,Sales,Other,Male,Sales Executive,Divorced,No,No
+38,152,10,3,2,4,5666,3,5,3,Non-Travel,Sales,Technical Degree,Female,Sales Executive,Single,Yes,No
+35,882,3,4,3,4,7823,3,10,9,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Divorced,No,No
+39,903,2,5,3,3,7880,3,8,7,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Single,No,No
+40,1479,24,3,4,2,13194,2,1,0,Non-Travel,Sales,Life Sciences,Female,Sales Executive,Single,Yes,Yes
+47,1379,16,4,2,3,5067,4,19,10,Travel_Frequently,Research & Development,Medical,Male,Manufacturing Director,Divorced,Yes,No
+36,1229,8,4,2,4,5079,3,7,7,Non-Travel,Sales,Technical Degree,Male,Sales Executive,Divorced,No,No
+31,335,9,2,1,1,2321,3,3,2,Non-Travel,Research & Development,Medical,Male,Research Scientist,Single,Yes,Yes
+33,722,17,3,4,3,17444,3,10,8,Non-Travel,Sales,Life Sciences,Male,Manager,Single,No,No
+29,906,10,3,1,1,2404,3,0,0,Travel_Rarely,Research & Development,Life Sciences,Female,Research Scientist,Single,Yes,Yes
+33,461,13,1,1,4,3452,3,3,2,Travel_Rarely,Research & Development,Life Sciences,Female,Research Scientist,Single,No,No
+45,974,1,4,1,4,2270,3,5,3,Travel_Rarely,Research & Development,Medical,Female,Laboratory Technician,Divorced,No,No
+50,1126,1,2,4,4,17399,2,5,4,Travel_Rarely,Research & Development,Medical,Male,Research Director,Divorced,No,No
+33,827,1,4,2,2,5488,3,6,5,Travel_Frequently,Research & Development,Other,Female,Healthcare Representative,Married,Yes,No
+41,840,9,3,5,3,19419,4,18,16,Travel_Frequently,Research & Development,Medical,Male,Research Director,Divorced,No,No
+27,1134,16,4,1,2,2811,3,2,2,Travel_Rarely,Research & Development,Technical Degree,Female,Laboratory Technician,Married,No,No
+45,248,23,2,2,1,3633,3,9,8,Non-Travel,Research & Development,Life Sciences,Male,Laboratory Technician,Married,Yes,No
+47,955,4,2,2,4,4163,3,9,0,Travel_Rarely,Sales,Life Sciences,Female,Sales Executive,Single,Yes,No
+30,138,22,3,1,3,2132,3,5,2,Travel_Rarely,Research & Development,Life Sciences,Female,Research Scientist,Married,Yes,Yes
+50,939,24,3,4,3,13973,3,12,11,Travel_Rarely,Research & Development,Life Sciences,Male,Manufacturing Director,Married,Yes,No
+38,1391,10,1,1,3,2684,2,2,1,Travel_Frequently,Research & Development,Medical,Male,Research Scientist,Married,No,No
+46,566,7,2,3,3,10845,3,8,7,Travel_Rarely,Research & Development,Medical,Male,Manufacturing Director,Divorced,No,No
+24,1206,17,1,2,3,4377,3,4,2,Travel_Rarely,Research & Development,Medical,Female,Manufacturing Director,Divorced,No,No
+35,622,14,4,1,2,3743,1,4,2,Travel_Rarely,Research & Development,Other,Male,Laboratory Technician,Divorced,Yes,Yes
+31,853,1,1,2,1,4148,3,4,3,Travel_Frequently,Research & Development,Life Sciences,Female,Manufacturing Director,Married,No,No
+18,287,5,2,1,4,1051,3,0,0,Non-Travel,Research & Development,Life Sciences,Male,Research Scientist,Single,No,No
+54,1441,17,3,3,3,10739,3,10,7,Travel_Rarely,Research & Development,Technical Degree,Female,Manufacturing Director,Married,No,No
+35,583,25,4,3,3,10388,2,16,10,Travel_Rarely,Research & Development,Medical,Female,Healthcare Representative,Divorced,Yes,No
+30,153,8,2,3,1,11416,2,8,7,Travel_Rarely,Research & Development,Life Sciences,Female,Research Director,Married,Yes,No
+20,1097,11,3,1,1,2600,3,1,0,Travel_Rarely,Research & Development,Medical,Female,Research Scientist,Single,Yes,Yes
+30,109,5,3,1,2,2422,3,3,2,Travel_Frequently,Research & Development,Medical,Female,Laboratory Technician,Single,No,Yes
+26,1066,2,2,2,4,5472,3,8,7,Travel_Rarely,Research & Development,Medical,Male,Manufacturing Director,Married,No,No
+22,217,8,1,1,1,2451,2,4,3,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Married,No,No
+48,277,6,3,2,3,4240,3,2,2,Travel_Rarely,Research & Development,Life Sciences,Male,Healthcare Representative,Single,No,No
+48,1355,4,4,3,3,10999,3,15,11,Travel_Rarely,Research & Development,Life Sciences,Male,Healthcare Representative,Single,No,No
+41,549,7,2,2,3,5003,3,2,2,Travel_Rarely,Research & Development,Medical,Female,Manufacturing Director,Single,No,No
+39,466,1,1,4,4,12742,3,21,6,Travel_Rarely,Research & Development,Life Sciences,Female,Manufacturing Director,Married,No,No
+27,1055,2,4,2,4,4227,3,3,2,Travel_Rarely,Research & Development,Life Sciences,Female,Manufacturing Director,Married,No,No
+35,802,10,3,1,4,3917,2,3,2,Travel_Rarely,Research & Development,Other,Male,Laboratory Technician,Divorced,No,No
+42,265,5,2,5,3,18303,4,1,0,Travel_Rarely,Sales,Marketing,Male,Manager,Married,No,No
+50,804,9,3,1,4,2380,3,1,0,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Married,No,No
+59,715,2,3,4,4,13726,3,5,3,Travel_Rarely,Research & Development,Life Sciences,Female,Manufacturing Director,Single,Yes,No
+37,1141,11,2,2,2,4777,1,1,0,Travel_Rarely,Research & Development,Medical,Female,Healthcare Representative,Married,No,Yes
+55,135,18,4,2,2,6385,3,8,7,Travel_Frequently,Research & Development,Medical,Male,Healthcare Representative,Married,Yes,No
+41,247,7,1,5,3,19973,3,21,16,Non-Travel,Research & Development,Life Sciences,Female,Research Director,Divorced,No,No
+38,1035,3,4,2,4,6861,3,1,0,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Single,Yes,No
+26,265,29,2,2,1,4969,3,2,2,Non-Travel,Sales,Medical,Male,Sales Executive,Single,No,Yes
+52,266,2,1,5,4,19845,3,32,14,Travel_Rarely,Sales,Marketing,Female,Manager,Married,No,Yes
+44,1448,28,3,4,4,13320,3,12,11,Travel_Rarely,Sales,Medical,Female,Sales Executive,Married,Yes,No
+50,145,1,3,2,3,6347,3,18,7,Non-Travel,Sales,Life Sciences,Female,Sales Executive,Married,No,No
+36,885,16,4,1,1,2743,3,17,13,Travel_Rarely,Research & Development,Life Sciences,Female,Laboratory Technician,Single,No,Yes
+39,945,22,3,3,1,10880,3,21,6,Travel_Frequently,Research & Development,Medical,Female,Manufacturing Director,Single,Yes,No
+33,1038,8,1,1,4,2342,2,2,2,Non-Travel,Sales,Life Sciences,Female,Sales Representative,Single,No,No
+45,1234,11,2,4,4,17650,4,9,3,Travel_Rarely,Sales,Life Sciences,Female,Manager,Married,No,No
+32,1109,29,4,1,3,4025,3,8,7,Non-Travel,Research & Development,Medical,Female,Laboratory Technician,Single,No,No
+34,216,1,4,2,4,9725,2,15,1,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Divorced,No,No
+59,1089,1,2,3,4,11904,1,6,4,Travel_Rarely,Sales,Technical Degree,Male,Manager,Married,Yes,No
+45,788,24,4,1,2,2177,3,6,3,Travel_Rarely,Human Resources,Medical,Male,Human Resources,Single,No,No
+53,124,2,3,3,2,7525,3,15,7,Travel_Frequently,Sales,Marketing,Female,Sales Executive,Married,No,No
+36,660,15,3,2,3,4834,2,1,0,Travel_Rarely,Research & Development,Other,Male,Laboratory Technician,Divorced,No,Yes
+26,342,2,3,1,1,2042,3,3,2,Travel_Frequently,Research & Development,Life Sciences,Male,Research Scientist,Married,Yes,Yes
+34,1333,10,4,1,3,2220,3,1,1,Travel_Rarely,Sales,Life Sciences,Female,Sales Representative,Married,Yes,No
+28,1144,10,1,1,2,1052,3,1,0,Travel_Rarely,Sales,Medical,Male,Sales Representative,Married,No,No
+38,1186,3,4,1,3,2821,3,2,2,Travel_Frequently,Research & Development,Other,Male,Research Scientist,Married,No,No
+50,1464,2,4,5,3,19237,2,8,1,Travel_Rarely,Research & Development,Medical,Male,Research Director,Married,Yes,No
+37,124,3,3,2,2,4107,2,4,3,Travel_Rarely,Research & Development,Other,Female,Healthcare Representative,Single,No,No
+40,300,26,3,2,1,8396,2,7,7,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Married,No,No
+26,921,1,1,1,3,2007,3,5,3,Travel_Frequently,Research & Development,Medical,Female,Research Scientist,Divorced,No,No
+46,430,1,4,5,4,19627,3,2,2,Travel_Rarely,Research & Development,Medical,Male,Research Director,Divorced,No,No
+54,1082,2,4,3,3,10686,3,9,4,Travel_Rarely,Sales,Life Sciences,Female,Sales Executive,Married,No,No
+56,1240,9,3,1,3,2942,3,5,4,Travel_Frequently,Research & Development,Medical,Female,Research Scientist,Married,No,No
+36,796,12,5,3,4,8858,2,14,8,Travel_Rarely,Research & Development,Medical,Female,Manufacturing Director,Single,No,No
+55,444,2,1,4,1,16756,4,9,7,Non-Travel,Research & Development,Medical,Male,Manager,Single,No,No
+43,415,25,3,3,4,10798,3,1,0,Travel_Rarely,Sales,Medical,Male,Sales Executive,Divorced,No,No
+20,769,9,3,1,4,2323,3,2,2,Travel_Frequently,Sales,Marketing,Female,Sales Representative,Single,Yes,Yes
+21,1334,10,3,1,1,1416,2,1,0,Travel_Rarely,Research & Development,Life Sciences,Female,Laboratory Technician,Single,No,Yes
+46,1003,8,4,2,1,4615,3,16,13,Travel_Rarely,Research & Development,Life Sciences,Female,Research Scientist,Divorced,Yes,No
+51,1323,4,4,1,3,2461,4,10,0,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Married,Yes,Yes
+28,1366,24,2,3,1,8722,2,10,7,Non-Travel,Research & Development,Technical Degree,Male,Healthcare Representative,Single,No,Yes
+26,192,1,2,1,1,3955,3,5,3,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Married,No,No
+30,1176,20,3,2,1,9957,2,6,2,Travel_Rarely,Research & Development,Other,Male,Manufacturing Director,Married,No,No
+41,509,7,2,1,3,3376,3,10,6,Travel_Rarely,Research & Development,Technical Degree,Female,Research Scientist,Married,No,No
+38,330,17,1,3,3,8823,2,19,9,Travel_Rarely,Research & Development,Life Sciences,Female,Healthcare Representative,Married,No,No
+40,1492,20,4,3,4,10322,3,11,10,Travel_Rarely,Research & Development,Technical Degree,Male,Healthcare Representative,Married,No,No
+27,1277,8,5,1,3,4621,3,3,2,Non-Travel,Research & Development,Life Sciences,Male,Laboratory Technician,Married,No,No
+55,1091,2,1,3,2,10976,3,3,2,Travel_Frequently,Research & Development,Life Sciences,Male,Manufacturing Director,Married,No,No
+28,857,10,3,2,3,3660,4,8,7,Travel_Rarely,Research & Development,Other,Female,Research Scientist,Single,No,No
+44,1376,1,2,3,1,10482,3,20,6,Travel_Rarely,Human Resources,Medical,Male,Human Resources,Married,No,Yes
+33,654,5,3,3,4,7119,3,3,2,Travel_Rarely,Research & Development,Life Sciences,Male,Healthcare Representative,Divorced,No,No
+35,1204,4,3,3,1,9582,3,8,7,Travel_Rarely,Sales,Technical Degree,Male,Sales Executive,Single,Yes,Yes
+33,827,29,4,2,3,4508,3,13,7,Travel_Frequently,Research & Development,Medical,Female,Research Scientist,Single,No,Yes
+28,895,15,2,1,3,2207,2,4,2,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Divorced,No,No
+34,618,3,1,2,4,7756,2,6,2,Travel_Frequently,Research & Development,Life Sciences,Male,Healthcare Representative,Single,No,No
+37,309,10,4,2,4,6694,3,1,0,Travel_Rarely,Sales,Life Sciences,Female,Sales Executive,Divorced,Yes,No
+25,1219,4,1,1,4,3691,4,7,7,Travel_Rarely,Research & Development,Technical Degree,Male,Laboratory Technician,Married,Yes,Yes
+26,1330,21,3,1,3,2377,2,1,1,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Divorced,No,Yes
+33,1017,25,3,1,2,2313,3,2,2,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Single,Yes,Yes
+42,469,2,2,4,1,17665,3,22,6,Travel_Rarely,Research & Development,Medical,Male,Manager,Married,No,No
+28,1009,1,3,1,2,2596,3,1,0,Travel_Frequently,Research & Development,Medical,Male,Laboratory Technician,Divorced,No,Yes
+50,959,1,4,2,3,4728,3,0,0,Travel_Frequently,Sales,Other,Male,Sales Executive,Single,Yes,Yes
+33,970,7,3,2,2,4302,3,3,2,Travel_Frequently,Sales,Life Sciences,Female,Sales Executive,Married,No,No
+34,697,3,4,1,4,2979,3,0,0,Non-Travel,Research & Development,Life Sciences,Male,Research Scientist,Married,No,No
+48,1262,1,4,4,4,16885,2,5,4,Non-Travel,Research & Development,Medical,Male,Manager,Single,No,No
+45,1050,9,4,2,3,5593,3,15,10,Non-Travel,Sales,Life Sciences,Female,Sales Executive,Married,No,No
+52,994,7,4,3,2,10445,3,8,6,Travel_Rarely,Research & Development,Life Sciences,Male,Healthcare Representative,Single,No,No
+38,770,10,4,3,3,8740,3,8,7,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Divorced,Yes,No
+29,1107,28,4,1,4,2514,3,7,5,Travel_Rarely,Research & Development,Life Sciences,Female,Research Scientist,Divorced,No,No
+28,950,3,3,3,2,7655,2,9,7,Travel_Rarely,Research & Development,Medical,Female,Manufacturing Director,Divorced,No,No
+46,406,3,1,4,3,17465,3,12,9,Travel_Rarely,Sales,Marketing,Male,Manager,Married,No,No
+38,130,2,2,3,2,7351,3,1,0,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Single,No,No
+43,1082,27,3,3,1,10820,3,8,7,Travel_Frequently,Research & Development,Life Sciences,Female,Manufacturing Director,Married,No,No
+39,203,2,3,4,4,12169,3,18,7,Travel_Frequently,Research & Development,Life Sciences,Male,Healthcare Representative,Divorced,No,Yes
+40,1308,14,3,5,3,19626,4,20,7,Travel_Rarely,Research & Development,Medical,Male,Research Director,Single,No,No
+21,984,1,1,1,2,2070,4,2,2,Travel_Rarely,Research & Development,Technical Degree,Female,Research Scientist,Single,Yes,No
+39,439,9,3,2,2,6782,2,5,4,Non-Travel,Research & Development,Life Sciences,Male,Laboratory Technician,Single,No,No
+36,217,18,4,2,4,7779,3,11,9,Non-Travel,Research & Development,Life Sciences,Male,Manufacturing Director,Single,No,No
+31,793,20,3,1,4,2791,3,2,2,Travel_Frequently,Sales,Life Sciences,Male,Sales Representative,Married,No,No
+28,1451,2,1,1,2,3201,1,5,3,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Married,No,No
+35,1182,11,2,2,4,4968,3,5,2,Travel_Frequently,Sales,Marketing,Male,Sales Executive,Divorced,No,No
+49,174,8,4,4,2,13120,3,9,8,Travel_Rarely,Sales,Technical Degree,Male,Sales Executive,Married,No,No
+34,1003,2,2,2,3,4033,2,3,2,Travel_Frequently,Research & Development,Life Sciences,Male,Manufacturing Director,Single,No,No
+29,490,10,3,1,2,3291,2,7,5,Travel_Frequently,Research & Development,Life Sciences,Female,Research Scientist,Divorced,No,No
+42,188,29,3,2,4,4272,3,1,0,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Single,No,No
+29,718,8,1,2,4,5056,2,10,7,Travel_Rarely,Research & Development,Medical,Male,Manufacturing Director,Married,Yes,No
+38,433,1,3,1,3,2844,4,7,6,Travel_Rarely,Human Resources,Human Resources,Male,Human Resources,Married,No,No
+28,773,6,3,1,3,2703,3,3,1,Travel_Frequently,Research & Development,Life Sciences,Male,Research Scientist,Divorced,Yes,No
+18,247,8,1,1,3,1904,3,0,0,Non-Travel,Research & Development,Medical,Male,Laboratory Technician,Single,No,Yes
+33,603,9,4,2,1,8224,3,5,2,Travel_Rarely,Sales,Marketing,Female,Sales Executive,Single,Yes,Yes
+41,167,12,4,1,4,4766,3,1,0,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Married,Yes,No
+31,874,15,3,1,3,2610,2,2,2,Travel_Frequently,Research & Development,Medical,Male,Laboratory Technician,Married,No,Yes
+37,367,25,2,2,4,5731,3,6,2,Travel_Rarely,Research & Development,Medical,Female,Healthcare Representative,Divorced,No,No
+27,199,6,3,1,3,2539,3,4,2,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Married,No,No
+34,1400,9,1,2,3,5714,2,6,5,Travel_Rarely,Sales,Life Sciences,Female,Sales Executive,Married,No,No
+35,528,8,4,1,3,4323,1,5,4,Travel_Rarely,Human Resources,Technical Degree,Male,Human Resources,Single,No,No
+29,408,23,1,3,1,7336,1,11,8,Travel_Rarely,Sales,Life Sciences,Female,Sales Executive,Married,No,Yes
+40,593,9,4,3,3,13499,2,18,7,Travel_Frequently,Research & Development,Medical,Female,Research Director,Single,No,No
+42,481,12,3,4,1,13758,2,21,9,Travel_Frequently,Sales,Life Sciences,Male,Sales Executive,Single,Yes,Yes
+42,647,4,4,2,1,5155,4,6,4,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Single,No,No
+35,982,1,4,1,3,2258,3,8,0,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Married,No,No
+24,477,24,3,1,2,3597,3,4,3,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Single,No,No
+28,1485,12,1,1,4,2515,2,1,1,Travel_Rarely,Research & Development,Life Sciences,Female,Laboratory Technician,Married,Yes,Yes
+26,1384,3,4,1,4,4420,3,8,7,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Married,No,No
+30,852,10,3,2,3,6578,3,10,3,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Married,No,No
+40,902,26,2,2,4,4422,1,1,1,Travel_Frequently,Research & Development,Medical,Female,Research Scientist,Married,Yes,No
+35,819,2,3,3,2,10274,4,7,7,Travel_Rarely,Research & Development,Life Sciences,Male,Manufacturing Director,Divorced,No,No
+34,669,1,3,2,1,5343,3,13,9,Travel_Frequently,Research & Development,Medical,Male,Healthcare Representative,Single,No,No
+35,636,4,4,1,4,2376,4,2,2,Travel_Frequently,Research & Development,Other,Male,Laboratory Technician,Married,No,No
+43,1372,9,3,2,3,5346,2,4,3,Travel_Rarely,Sales,Marketing,Female,Sales Executive,Single,No,Yes
+32,862,2,1,1,1,2827,3,1,0,Non-Travel,Sales,Life Sciences,Female,Sales Representative,Divorced,No,No
+56,718,4,4,5,1,19943,3,5,2,Travel_Rarely,Research & Development,Technical Degree,Female,Manager,Divorced,No,No
+29,1401,6,1,1,4,3131,3,10,8,Travel_Rarely,Research & Development,Medical,Female,Laboratory Technician,Married,No,No
+19,645,9,2,1,1,2552,3,1,1,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Single,No,No
+45,1457,7,3,1,3,4477,2,3,2,Travel_Rarely,Research & Development,Medical,Female,Research Scientist,Married,Yes,No
+37,977,1,3,2,4,6474,2,14,8,Travel_Rarely,Research & Development,Life Sciences,Female,Manufacturing Director,Married,No,No
+20,805,3,3,1,3,3033,2,2,2,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Single,No,No
+44,1097,10,4,1,3,2936,3,6,4,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Single,Yes,Yes
+53,1223,7,2,5,3,18606,3,7,7,Travel_Rarely,Research & Development,Medical,Female,Manager,Divorced,No,No
+29,942,15,1,1,4,2168,2,5,4,Travel_Rarely,Research & Development,Life Sciences,Female,Research Scientist,Married,Yes,No
+22,1256,3,4,1,4,2853,3,0,0,Travel_Frequently,Research & Development,Life Sciences,Male,Research Scientist,Married,Yes,Yes
+46,1402,2,3,4,1,17048,3,26,15,Travel_Rarely,Sales,Marketing,Female,Manager,Married,No,No
+44,111,17,3,1,3,2290,3,0,0,Non-Travel,Research & Development,Life Sciences,Male,Research Scientist,Single,No,No
+33,147,2,3,1,3,3600,3,5,4,Travel_Rarely,Human Resources,Human Resources,Male,Human Resources,Married,No,No
+41,906,5,2,1,1,2107,1,1,0,Non-Travel,Research & Development,Life Sciences,Male,Research Scientist,Divorced,No,Yes
+30,1329,29,4,2,1,4115,3,4,3,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Divorced,No,No
+40,1184,2,4,2,2,4327,3,0,0,Travel_Frequently,Sales,Medical,Male,Sales Executive,Married,No,No
+50,1421,2,3,4,1,17856,3,2,2,Travel_Frequently,Research & Development,Medical,Female,Manager,Married,No,No
+28,1179,19,4,1,1,3196,3,6,5,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Married,No,No
+46,1450,15,2,5,2,19081,3,4,2,Travel_Rarely,Research & Development,Life Sciences,Male,Research Director,Married,No,No
+35,1361,17,4,2,1,8966,3,7,7,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Married,Yes,No
+24,984,17,2,1,2,2210,1,1,0,Travel_Rarely,Research & Development,Life Sciences,Female,Laboratory Technician,Married,No,Yes
+33,1146,25,3,2,3,4539,2,10,7,Travel_Frequently,Sales,Medical,Female,Sales Executive,Married,No,No
+36,917,6,4,1,3,2741,3,7,7,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Divorced,No,No
+30,853,7,4,2,3,3491,2,10,7,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Divorced,No,No
+44,200,29,4,2,4,4541,3,20,11,Travel_Rarely,Research & Development,Other,Male,Research Scientist,Single,No,No
+20,654,21,3,1,4,2678,3,2,1,Travel_Rarely,Sales,Marketing,Male,Sales Representative,Single,No,No
+46,150,2,4,2,4,7379,2,6,3,Travel_Rarely,Research & Development,Technical Degree,Male,Manufacturing Director,Divorced,No,No
+42,179,2,5,2,1,6272,4,4,3,Non-Travel,Human Resources,Medical,Male,Human Resources,Married,No,No
+60,696,7,4,2,4,5220,3,11,7,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Divorced,Yes,No
+32,116,13,3,1,2,2743,3,2,2,Travel_Frequently,Research & Development,Other,Female,Laboratory Technician,Married,No,No
+32,1316,2,2,2,3,4998,3,8,7,Travel_Frequently,Research & Development,Life Sciences,Female,Research Scientist,Single,Yes,No
+36,363,1,3,3,1,10252,3,7,7,Travel_Rarely,Research & Development,Technical Degree,Female,Manufacturing Director,Divorced,Yes,No
+33,117,9,3,1,4,2781,3,14,10,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Married,No,No
+40,107,10,3,2,2,6852,4,5,1,Travel_Rarely,Sales,Technical Degree,Female,Sales Executive,Divorced,No,No
+25,1356,10,4,2,4,4950,3,4,3,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Single,No,No
+30,1465,1,3,1,2,3579,3,11,9,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Married,Yes,No
+42,458,26,5,3,1,13191,3,1,0,Travel_Frequently,Research & Development,Medical,Female,Research Director,Married,Yes,No
+35,1212,8,2,3,4,10377,2,13,2,Non-Travel,Sales,Marketing,Female,Sales Executive,Married,Yes,No
+27,1103,14,3,1,1,2235,2,9,7,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Married,Yes,No
+54,966,1,4,3,3,10502,1,5,4,Travel_Frequently,Research & Development,Life Sciences,Female,Manufacturing Director,Divorced,No,No
+44,1117,2,1,1,4,2011,3,10,5,Travel_Rarely,Research & Development,Life Sciences,Female,Research Scientist,Married,No,No
+19,504,10,3,1,2,1859,4,1,1,Non-Travel,Research & Development,Medical,Female,Research Scientist,Single,Yes,Yes
+29,1010,1,3,1,4,3760,3,3,2,Travel_Rarely,Research & Development,Life Sciences,Female,Research Scientist,Divorced,No,No
+54,685,3,3,4,4,17779,3,10,9,Travel_Rarely,Research & Development,Life Sciences,Male,Research Director,Married,No,No
+31,1332,11,2,2,1,6833,2,6,5,Travel_Rarely,Research & Development,Medical,Male,Healthcare Representative,Married,Yes,No
+31,1062,24,3,2,1,6812,3,10,9,Travel_Rarely,Research & Development,Medical,Female,Healthcare Representative,Single,No,No
+59,326,3,3,2,4,5171,3,6,1,Travel_Rarely,Sales,Life Sciences,Female,Sales Executive,Single,No,No
+43,920,3,3,5,4,19740,3,8,7,Travel_Rarely,Research & Development,Life Sciences,Male,Research Director,Married,No,No
+49,1098,4,2,5,3,18711,4,1,0,Travel_Rarely,Research & Development,Medical,Male,Manager,Married,No,No
+36,469,3,3,1,2,3692,2,11,10,Travel_Frequently,Research & Development,Technical Degree,Male,Research Scientist,Married,No,No
+48,969,2,2,1,2,2559,2,1,0,Travel_Rarely,Research & Development,Technical Degree,Male,Laboratory Technician,Single,No,No
+27,1167,4,2,1,3,2517,3,5,3,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Divorced,No,No
+29,1329,7,3,2,4,6623,3,6,0,Travel_Rarely,Research & Development,Life Sciences,Male,Healthcare Representative,Divorced,Yes,No
+48,715,1,3,5,4,18265,4,1,0,Travel_Rarely,Research & Development,Life Sciences,Male,Research Director,Single,No,No
+29,694,1,3,4,4,16124,2,7,7,Travel_Rarely,Research & Development,Life Sciences,Female,Research Director,Divorced,No,No
+34,1320,20,3,1,3,2585,2,1,0,Travel_Rarely,Research & Development,Technical Degree,Female,Research Scientist,Married,No,No
+44,1099,5,3,5,2,18213,3,22,9,Travel_Rarely,Sales,Marketing,Male,Manager,Married,No,No
+33,536,10,5,3,3,8380,3,9,8,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Divorced,Yes,No
+19,265,25,3,1,4,2994,3,1,0,Travel_Rarely,Research & Development,Life Sciences,Female,Research Scientist,Single,Yes,No
+23,373,1,2,1,3,1223,3,1,0,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Married,No,No
+25,599,24,1,1,4,1118,3,1,0,Travel_Frequently,Sales,Life Sciences,Male,Sales Representative,Single,Yes,Yes
+26,583,4,2,1,4,2875,2,8,5,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Single,Yes,No
+45,1449,2,3,5,2,18824,3,24,10,Travel_Rarely,Sales,Marketing,Female,Manager,Single,Yes,Yes
+55,177,8,1,4,2,13577,3,33,9,Non-Travel,Research & Development,Medical,Male,Healthcare Representative,Divorced,Yes,No
+21,251,10,2,1,3,2625,1,2,2,Travel_Frequently,Research & Development,Life Sciences,Female,Laboratory Technician,Single,No,Yes
+46,168,4,2,5,2,18789,3,11,4,Travel_Rarely,Sales,Marketing,Female,Manager,Married,No,No
+34,131,2,3,2,1,4538,3,3,2,Travel_Rarely,Sales,Marketing,Female,Sales Executive,Single,Yes,No
+51,237,9,3,5,2,19847,2,29,10,Travel_Frequently,Sales,Life Sciences,Male,Manager,Divorced,Yes,No
+59,1429,18,4,3,4,10512,2,9,7,Travel_Rarely,Research & Development,Medical,Male,Manufacturing Director,Single,No,No
+34,135,19,3,2,2,4444,4,11,8,Travel_Frequently,Research & Development,Medical,Female,Laboratory Technician,Divorced,No,No
+28,791,1,4,1,3,2154,2,4,2,Travel_Frequently,Research & Development,Medical,Male,Laboratory Technician,Single,Yes,No
+44,1199,4,2,5,1,19190,2,25,9,Travel_Rarely,Research & Development,Life Sciences,Male,Manager,Divorced,No,No
+34,648,11,3,2,2,4490,4,10,9,Travel_Frequently,Human Resources,Life Sciences,Male,Human Resources,Married,No,No
+35,735,6,1,1,3,3506,3,3,2,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Married,Yes,No
+42,603,7,4,2,2,2372,3,1,0,Travel_Rarely,Research & Development,Medical,Female,Research Scientist,Married,Yes,No
+43,531,4,4,3,4,10231,4,21,7,Travel_Rarely,Sales,Marketing,Female,Sales Executive,Single,No,No
+36,429,2,4,2,2,5410,3,16,14,Travel_Rarely,Research & Development,Life Sciences,Female,Manufacturing Director,Single,Yes,No
+44,621,15,3,3,4,7978,3,10,7,Travel_Rarely,Research & Development,Medical,Female,Healthcare Representative,Married,No,Yes
+28,193,2,3,1,4,3867,3,2,2,Travel_Frequently,Research & Development,Life Sciences,Male,Laboratory Technician,Married,Yes,No
+51,968,6,2,1,3,2838,2,7,0,Travel_Frequently,Research & Development,Medical,Female,Laboratory Technician,Single,No,No
+30,879,9,2,2,3,4695,3,8,4,Non-Travel,Research & Development,Medical,Female,Manufacturing Director,Single,Yes,No
+29,806,7,3,1,3,3339,3,7,7,Travel_Rarely,Research & Development,Technical Degree,Female,Laboratory Technician,Divorced,Yes,Yes
+28,640,1,3,1,1,2080,2,3,2,Travel_Rarely,Research & Development,Technical Degree,Male,Research Scientist,Single,No,No
+25,266,1,3,1,2,2096,2,2,2,Travel_Rarely,Research & Development,Medical,Female,Research Scientist,Single,No,No
+32,604,8,3,2,4,6209,4,10,7,Travel_Rarely,Sales,Medical,Male,Sales Executive,Married,No,No
+45,364,25,3,5,2,18061,3,0,0,Travel_Frequently,Research & Development,Medical,Female,Manager,Single,No,No
+39,412,13,4,4,2,17123,3,19,9,Travel_Rarely,Research & Development,Medical,Female,Manager,Divorced,Yes,No
+58,848,23,4,1,3,2372,3,2,2,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Divorced,No,No
+32,1089,7,2,2,3,4883,3,10,4,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Married,No,Yes
+39,360,23,3,1,1,3904,3,5,2,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Single,No,Yes
+30,1138,6,3,2,4,4627,3,9,2,Travel_Rarely,Research & Development,Technical Degree,Female,Laboratory Technician,Married,No,No
+36,325,10,4,3,3,7094,3,7,7,Travel_Rarely,Research & Development,Technical Degree,Female,Healthcare Representative,Married,No,No
+46,991,1,2,1,1,3423,4,7,6,Travel_Rarely,Human Resources,Life Sciences,Female,Human Resources,Single,No,No
+28,1476,1,3,2,4,6674,3,9,8,Non-Travel,Research & Development,Life Sciences,Female,Laboratory Technician,Married,No,No
+50,1322,28,3,4,1,16880,3,3,2,Travel_Rarely,Research & Development,Life Sciences,Female,Research Director,Married,Yes,No
+40,299,25,4,3,2,9094,3,5,4,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Single,Yes,Yes
+52,1030,5,3,3,2,8446,2,8,7,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Single,Yes,Yes
+30,634,17,4,3,1,11916,3,9,1,Travel_Rarely,Research & Development,Medical,Female,Manager,Married,Yes,No
+39,524,18,2,2,3,4534,3,8,7,Travel_Rarely,Research & Development,Life Sciences,Male,Manufacturing Director,Single,No,No
+31,587,2,4,3,3,9852,2,10,8,Non-Travel,Sales,Life Sciences,Female,Sales Executive,Divorced,Yes,No
+41,256,10,2,2,2,6151,3,19,2,Non-Travel,Sales,Medical,Male,Sales Executive,Single,No,No
+31,1060,1,3,1,2,2302,4,3,2,Travel_Frequently,Sales,Life Sciences,Female,Sales Representative,Single,Yes,Yes
+44,935,3,3,1,1,2362,4,3,2,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Married,No,Yes
+42,495,2,1,4,3,17861,2,20,8,Non-Travel,Research & Development,Life Sciences,Male,Manager,Married,Yes,No
+55,282,2,2,5,3,19187,3,19,9,Travel_Rarely,Research & Development,Medical,Female,Manager,Married,No,No
+56,206,8,4,5,2,19717,3,7,3,Travel_Rarely,Human Resources,Life Sciences,Male,Manager,Single,No,No
+40,458,16,2,1,3,3544,3,4,2,Non-Travel,Research & Development,Life Sciences,Male,Research Scientist,Divorced,No,No
+34,943,9,3,3,4,8500,2,9,7,Travel_Rarely,Research & Development,Life Sciences,Male,Healthcare Representative,Divorced,No,No
+40,523,2,3,2,4,4661,3,9,8,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Single,No,No
+41,1018,1,3,2,1,4103,3,9,3,Travel_Frequently,Sales,Marketing,Female,Sales Executive,Divorced,No,No
+35,482,4,4,2,3,4249,3,9,6,Travel_Frequently,Research & Development,Life Sciences,Male,Research Scientist,Single,Yes,No
+51,770,5,3,4,2,14026,3,33,9,Travel_Rarely,Human Resources,Life Sciences,Male,Manager,Divorced,Yes,No
+38,1009,2,2,2,1,6893,3,7,7,Travel_Rarely,Sales,Life Sciences,Female,Sales Executive,Divorced,No,No
+34,507,15,2,2,1,6125,4,10,8,Travel_Rarely,Sales,Medical,Female,Sales Executive,Single,No,No
+25,882,19,1,1,4,3669,2,3,2,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Married,No,No
+58,601,7,4,3,1,10008,2,10,9,Travel_Rarely,Research & Development,Medical,Female,Manufacturing Director,Married,Yes,Yes
+40,329,1,4,1,2,2387,3,4,2,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Married,No,No
+36,607,7,3,2,1,4639,2,15,7,Travel_Frequently,Sales,Marketing,Female,Sales Executive,Married,No,No
+48,855,4,3,3,4,7898,3,10,9,Travel_Rarely,Research & Development,Life Sciences,Male,Manufacturing Director,Single,No,No
+27,1291,11,3,1,4,2534,3,1,0,Travel_Rarely,Sales,Medical,Female,Sales Representative,Married,No,No
+51,1405,11,2,4,2,13142,2,5,2,Travel_Rarely,Research & Development,Technical Degree,Female,Manufacturing Director,Single,No,No
+18,1124,1,3,1,4,1611,4,0,0,Non-Travel,Research & Development,Life Sciences,Female,Laboratory Technician,Single,No,No
+35,817,1,3,2,4,5363,3,9,7,Travel_Rarely,Research & Development,Medical,Female,Laboratory Technician,Married,No,No
+27,793,2,1,2,4,5071,3,6,2,Travel_Frequently,Sales,Life Sciences,Male,Sales Executive,Single,No,No
+55,267,13,4,4,3,13695,2,19,7,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Single,Yes,Yes
+56,1369,23,3,4,2,13402,3,19,16,Travel_Rarely,Research & Development,Life Sciences,Male,Manufacturing Director,Married,Yes,No
+34,999,26,1,1,3,2029,3,5,4,Non-Travel,Research & Development,Technical Degree,Female,Research Scientist,Divorced,No,No
+40,1202,2,1,2,3,6377,3,12,11,Travel_Rarely,Research & Development,Medical,Female,Healthcare Representative,Divorced,No,No
+34,285,29,3,2,3,5429,3,8,7,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Married,No,No
+31,703,2,3,1,4,2785,4,1,0,Travel_Frequently,Sales,Life Sciences,Female,Sales Representative,Single,No,Yes
+35,662,18,4,2,3,4614,2,4,2,Travel_Frequently,Sales,Marketing,Female,Sales Executive,Married,Yes,Yes
+38,693,7,3,1,3,2610,3,4,2,Travel_Frequently,Research & Development,Life Sciences,Male,Research Scientist,Divorced,No,No
+34,404,2,4,2,4,6687,4,14,11,Travel_Rarely,Research & Development,Technical Degree,Female,Healthcare Representative,Single,No,No
+28,736,26,3,2,1,4724,3,5,3,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Married,No,No
+31,330,22,4,2,3,6179,2,10,2,Travel_Rarely,Research & Development,Medical,Male,Manufacturing Director,Married,Yes,Yes
+39,1498,21,4,2,4,6120,4,5,4,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Married,Yes,No
+51,541,2,3,3,2,10596,3,4,2,Travel_Frequently,Sales,Marketing,Male,Sales Executive,Married,No,No
+41,1200,22,3,2,4,5467,2,6,2,Travel_Frequently,Research & Development,Life Sciences,Female,Research Scientist,Divorced,Yes,No
+37,1439,4,1,1,3,2996,3,6,4,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Married,Yes,No
+33,1111,5,1,2,4,9998,4,5,4,Travel_Frequently,Sales,Life Sciences,Male,Sales Executive,Married,No,No
+32,499,2,1,2,2,4078,2,3,2,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Married,Yes,No
+39,1485,25,2,3,3,10920,3,6,4,Non-Travel,Research & Development,Life Sciences,Male,Healthcare Representative,Married,No,No
+25,1372,18,1,2,3,6232,2,3,2,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Married,No,No
+52,322,28,2,4,3,13247,2,5,3,Travel_Frequently,Research & Development,Medical,Female,Manufacturing Director,Married,Yes,No
+43,930,6,3,2,3,4081,1,20,7,Travel_Rarely,Research & Development,Medical,Female,Research Scientist,Single,Yes,No
+27,205,10,3,2,4,5769,3,6,2,Travel_Rarely,Sales,Marketing,Female,Sales Executive,Married,Yes,No
+27,135,17,4,1,3,2394,3,8,2,Travel_Rarely,Research & Development,Life Sciences,Female,Research Scientist,Single,Yes,Yes
+26,683,2,1,1,4,3904,3,4,3,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Single,No,No
+42,1147,10,3,4,1,16799,3,20,7,Travel_Rarely,Human Resources,Human Resources,Female,Manager,Married,No,No
+52,258,8,4,1,1,2950,1,5,4,Travel_Rarely,Research & Development,Other,Female,Laboratory Technician,Married,No,No
+37,1462,11,3,1,3,3629,3,3,2,Travel_Rarely,Research & Development,Medical,Female,Laboratory Technician,Single,No,No
+35,200,18,2,3,4,9362,3,2,2,Travel_Frequently,Research & Development,Life Sciences,Male,Manufacturing Director,Single,No,No
+25,949,1,3,1,4,3229,2,3,2,Travel_Rarely,Research & Development,Technical Degree,Male,Laboratory Technician,Married,No,No
+26,652,7,3,1,1,3578,3,7,7,Travel_Rarely,Research & Development,Other,Male,Laboratory Technician,Single,No,No
+29,332,17,3,3,1,7988,2,10,9,Travel_Rarely,Human Resources,Other,Male,Human Resources,Single,No,No
+49,1475,28,2,2,1,4284,3,4,3,Travel_Frequently,Research & Development,Life Sciences,Male,Laboratory Technician,Single,No,Yes
+29,337,14,1,3,4,7553,3,8,7,Travel_Frequently,Research & Development,Other,Female,Healthcare Representative,Single,Yes,Yes
+54,971,1,3,4,4,17328,2,20,7,Travel_Rarely,Research & Development,Medical,Female,Research Director,Single,No,No
+58,1055,1,3,5,1,19701,3,9,8,Travel_Rarely,Research & Development,Medical,Female,Research Director,Married,Yes,No
+55,1136,1,4,4,4,14732,4,7,7,Travel_Rarely,Research & Development,Medical,Male,Research Director,Divorced,No,No
+36,1174,3,4,2,2,9278,3,5,4,Travel_Rarely,Sales,Marketing,Female,Sales Executive,Single,Yes,No
+31,667,1,4,1,3,1359,3,1,0,Travel_Frequently,Sales,Life Sciences,Female,Sales Representative,Single,No,Yes
+30,855,7,4,2,1,4779,3,3,2,Travel_Rarely,Sales,Marketing,Female,Sales Executive,Divorced,No,No
+31,182,8,5,4,2,16422,4,3,2,Travel_Rarely,Research & Development,Life Sciences,Female,Research Director,Single,No,No
+34,560,1,4,1,1,2996,3,4,3,Travel_Frequently,Research & Development,Other,Male,Research Scientist,Divorced,No,No
+31,202,8,3,1,2,1261,4,1,0,Travel_Rarely,Research & Development,Life Sciences,Female,Research Scientist,Single,No,Yes
+27,1377,11,1,1,1,2099,4,5,0,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Married,No,No
+36,172,4,4,2,4,5810,2,10,4,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Single,No,No
+36,329,16,4,2,1,5647,2,3,2,Travel_Rarely,Sales,Marketing,Female,Sales Executive,Married,No,No
+47,465,1,3,1,4,3420,2,6,5,Travel_Rarely,Research & Development,Technical Degree,Male,Research Scientist,Married,No,No
+25,383,9,2,1,1,4400,3,3,2,Travel_Rarely,Sales,Life Sciences,Male,Sales Representative,Married,No,Yes
+37,1413,5,2,1,3,3500,1,6,5,Non-Travel,Research & Development,Technical Degree,Male,Laboratory Technician,Single,No,No
+56,1255,1,2,1,1,2066,4,3,2,Travel_Rarely,Research & Development,Life Sciences,Female,Research Scientist,Married,No,No
+47,359,2,4,4,3,17169,4,20,17,Travel_Rarely,Research & Development,Medical,Female,Research Director,Married,No,No
+24,1476,4,1,2,3,4162,3,5,4,Travel_Rarely,Sales,Medical,Female,Sales Executive,Married,Yes,No
+32,601,7,5,2,4,9204,2,4,3,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Married,No,No
+34,401,1,3,1,2,3294,2,5,4,Travel_Rarely,Research & Development,Life Sciences,Female,Laboratory Technician,Married,No,No
+41,1283,5,5,1,3,2127,2,4,2,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Married,Yes,No
+40,663,9,4,2,3,3975,4,8,7,Non-Travel,Research & Development,Other,Male,Laboratory Technician,Divorced,No,No
+31,326,8,2,3,4,10793,3,13,7,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Divorced,No,No
+46,377,9,3,3,4,10096,4,7,7,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Divorced,No,Yes
+39,592,2,3,1,1,3646,4,1,0,Non-Travel,Research & Development,Life Sciences,Female,Laboratory Technician,Single,Yes,Yes
+31,1445,1,5,3,2,7446,3,10,8,Travel_Frequently,Research & Development,Life Sciences,Female,Manufacturing Director,Single,No,Yes
+45,1038,20,3,3,1,10851,3,7,7,Travel_Rarely,Research & Development,Medical,Male,Healthcare Representative,Divorced,Yes,No
+31,1398,8,2,1,2,2109,3,3,2,Travel_Rarely,Human Resources,Medical,Female,Human Resources,Single,No,No
+31,523,2,3,1,4,3722,1,2,2,Travel_Frequently,Research & Development,Life Sciences,Male,Laboratory Technician,Married,Yes,Yes
+45,1448,29,3,3,4,9380,4,3,1,Travel_Rarely,Research & Development,Technical Degree,Male,Manufacturing Director,Married,Yes,No
+48,1221,7,3,2,1,5486,3,2,2,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Divorced,No,No
+34,1107,9,4,1,3,2742,3,2,2,Travel_Rarely,Human Resources,Technical Degree,Female,Human Resources,Married,No,Yes
+40,218,8,1,3,2,13757,3,9,8,Non-Travel,Research & Development,Medical,Male,Research Director,Divorced,No,No
+28,866,5,3,2,1,8463,3,5,4,Travel_Rarely,Sales,Medical,Male,Sales Executive,Single,No,No
+44,981,5,3,1,3,3162,3,5,2,Non-Travel,Research & Development,Life Sciences,Male,Laboratory Technician,Single,No,No
+53,447,2,3,4,2,16598,2,9,8,Travel_Rarely,Research & Development,Medical,Male,Research Director,Single,No,No
+49,1495,5,4,2,3,6651,2,3,2,Travel_Rarely,Research & Development,Technical Degree,Male,Healthcare Representative,Married,No,No
+40,896,2,3,1,3,2345,4,3,1,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Divorced,No,No
+44,1467,20,3,1,2,3420,2,5,2,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Single,No,No
+33,430,7,3,2,1,4373,3,4,3,Travel_Frequently,Sales,Medical,Male,Sales Executive,Married,No,No
+34,1326,3,3,2,1,4759,3,13,9,Travel_Rarely,Sales,Other,Male,Sales Executive,Single,No,No
+30,1358,16,1,2,3,5301,2,2,1,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Married,No,No
+42,748,9,2,1,4,3673,3,12,9,Travel_Frequently,Research & Development,Medical,Female,Laboratory Technician,Single,No,No
+44,383,1,5,2,3,4768,2,1,0,Travel_Frequently,Sales,Marketing,Female,Sales Executive,Married,No,No
+30,990,7,3,1,3,1274,2,1,0,Non-Travel,Research & Development,Technical Degree,Male,Research Scientist,Divorced,No,No
+57,405,1,2,2,3,4900,2,12,9,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Married,No,No
+49,1490,7,4,3,2,10466,3,8,7,Travel_Rarely,Research & Development,Life Sciences,Male,Healthcare Representative,Divorced,No,No
+34,829,15,3,4,1,17007,2,14,8,Travel_Frequently,Research & Development,Medical,Male,Research Director,Divorced,No,No
+28,1496,1,3,1,3,2909,4,3,2,Travel_Frequently,Sales,Technical Degree,Male,Sales Representative,Married,No,Yes
+29,115,13,3,2,2,5765,1,5,3,Travel_Frequently,Sales,Technical Degree,Female,Sales Executive,Single,No,Yes
+34,790,24,4,2,2,4599,4,15,9,Travel_Rarely,Sales,Medical,Female,Sales Executive,Single,Yes,Yes
+35,660,7,1,1,3,2404,3,1,0,Travel_Rarely,Sales,Life Sciences,Male,Sales Representative,Married,No,No
+24,381,9,3,1,1,3172,2,0,0,Travel_Frequently,Research & Development,Medical,Male,Laboratory Technician,Single,Yes,Yes
+24,830,13,2,1,2,2033,3,1,0,Non-Travel,Sales,Life Sciences,Female,Sales Representative,Married,No,No
+44,1193,2,1,3,3,10209,2,2,2,Travel_Frequently,Research & Development,Medical,Male,Manufacturing Director,Single,Yes,No
+29,1246,19,3,2,3,8620,3,10,7,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Divorced,No,No
+30,330,1,3,1,3,2064,4,5,3,Travel_Rarely,Human Resources,Life Sciences,Male,Human Resources,Divorced,No,No
+55,1229,4,4,2,3,4035,3,3,2,Travel_Rarely,Research & Development,Life Sciences,Male,Healthcare Representative,Married,Yes,No
+33,1099,4,4,1,2,3838,3,5,4,Travel_Rarely,Research & Development,Medical,Female,Laboratory Technician,Married,No,No
+47,571,14,3,2,3,4591,2,5,4,Travel_Rarely,Sales,Medical,Female,Sales Executive,Married,Yes,No
+28,289,2,2,1,1,2561,2,0,0,Travel_Frequently,Research & Development,Medical,Male,Laboratory Technician,Single,No,Yes
+28,1423,1,3,1,3,1563,1,1,0,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Divorced,No,No
+28,467,7,3,2,1,4898,3,4,2,Travel_Frequently,Sales,Life Sciences,Male,Sales Executive,Single,No,No
+49,271,3,2,2,1,4789,3,3,2,Travel_Rarely,Research & Development,Medical,Female,Laboratory Technician,Married,No,No
+29,410,2,1,1,2,3180,3,3,2,Travel_Frequently,Research & Development,Life Sciences,Female,Laboratory Technician,Married,No,No
+28,1083,29,1,2,2,6549,2,8,6,Travel_Rarely,Research & Development,Life Sciences,Male,Manufacturing Director,Married,No,No
+33,516,8,5,2,3,6388,3,0,0,Travel_Rarely,Research & Development,Life Sciences,Male,Healthcare Representative,Single,Yes,No
+32,495,10,3,3,4,11244,4,5,2,Travel_Rarely,Research & Development,Medical,Male,Manager,Single,No,No
+54,1050,11,4,4,4,16032,3,14,9,Travel_Frequently,Research & Development,Medical,Female,Manager,Divorced,No,No
+29,224,1,4,1,1,2362,1,9,7,Travel_Rarely,Research & Development,Technical Degree,Male,Research Scientist,Single,No,Yes
+44,136,28,3,4,1,16328,4,20,6,Travel_Rarely,Research & Development,Life Sciences,Male,Research Director,Married,No,No
+39,1089,6,3,3,2,8376,3,2,0,Travel_Rarely,Research & Development,Life Sciences,Female,Manufacturing Director,Single,No,No
+46,228,3,3,4,2,16606,4,13,12,Travel_Rarely,Sales,Life Sciences,Female,Manager,Married,No,No
+35,1029,16,3,3,2,8606,1,11,8,Travel_Rarely,Research & Development,Life Sciences,Female,Healthcare Representative,Single,No,No
+23,507,20,1,2,3,2272,3,4,3,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Single,No,No
+40,676,9,4,1,1,2018,1,5,4,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Single,No,Yes
+34,971,1,3,3,3,7083,3,10,9,Travel_Rarely,Sales,Technical Degree,Male,Sales Executive,Married,Yes,No
+31,561,3,3,1,3,4084,1,7,2,Travel_Frequently,Research & Development,Life Sciences,Female,Research Scientist,Single,No,Yes
+50,333,22,5,4,4,14411,3,32,6,Travel_Frequently,Research & Development,Medical,Male,Research Director,Single,Yes,No
+34,1440,7,2,1,3,2308,3,11,10,Travel_Rarely,Sales,Technical Degree,Male,Sales Representative,Married,Yes,No
+42,1210,2,3,1,2,4841,3,1,0,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Married,No,No
+37,674,13,3,2,4,4285,3,10,8,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Married,No,No
+29,441,8,1,2,1,9715,3,7,7,Travel_Rarely,Research & Development,Other,Female,Healthcare Representative,Married,No,No
+33,575,25,3,2,2,4320,3,5,3,Travel_Rarely,Research & Development,Life Sciences,Male,Manufacturing Director,Single,No,No
+45,950,28,3,1,4,2132,3,5,4,Travel_Rarely,Research & Development,Technical Degree,Male,Research Scientist,Married,No,No
+42,288,2,3,3,4,10124,1,20,8,Travel_Frequently,Research & Development,Life Sciences,Male,Healthcare Representative,Married,Yes,No
+40,1342,9,2,2,1,5473,4,8,4,Travel_Rarely,Sales,Medical,Male,Sales Executive,Married,No,No
+33,589,28,4,2,3,5207,3,15,14,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Married,Yes,No
+40,898,6,2,4,4,16437,3,21,7,Travel_Rarely,Human Resources,Medical,Male,Manager,Single,Yes,No
+24,350,21,2,1,1,2296,3,1,1,Travel_Rarely,Research & Development,Technical Degree,Male,Laboratory Technician,Divorced,No,No
+40,1142,8,2,2,4,4069,3,2,2,Non-Travel,Research & Development,Life Sciences,Male,Healthcare Representative,Divorced,Yes,No
+45,538,1,4,3,2,7441,3,10,8,Travel_Rarely,Research & Development,Technical Degree,Male,Healthcare Representative,Divorced,No,No
+35,1402,28,4,1,3,2430,3,5,3,Travel_Rarely,Sales,Life Sciences,Female,Sales Representative,Married,No,No
+32,824,5,2,2,2,5878,3,7,1,Travel_Rarely,Research & Development,Life Sciences,Female,Research Scientist,Married,No,No
+36,1157,2,4,1,4,2644,2,3,2,Travel_Rarely,Sales,Life Sciences,Male,Sales Representative,Single,Yes,No
+48,492,16,4,2,3,6439,3,8,7,Travel_Rarely,Sales,Life Sciences,Female,Sales Executive,Divorced,No,No
+29,598,9,3,1,3,2451,2,1,0,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Married,No,No
+33,1242,8,4,2,1,6392,1,2,2,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Married,No,No
+30,740,1,3,2,1,9714,3,10,8,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Married,No,Yes
+38,888,10,4,2,3,6077,3,6,3,Travel_Frequently,Human Resources,Human Resources,Male,Human Resources,Married,No,No
+35,992,1,3,1,1,2450,3,3,0,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Single,No,No
+30,1288,29,4,3,2,9250,3,4,2,Travel_Rarely,Sales,Technical Degree,Male,Sales Executive,Married,No,No
+35,104,2,3,1,1,2074,3,1,0,Travel_Rarely,Research & Development,Life Sciences,Female,Laboratory Technician,Divorced,Yes,Yes
+53,607,2,5,3,4,10169,3,33,7,Travel_Rarely,Research & Development,Technical Degree,Female,Manufacturing Director,Married,No,Yes
+38,903,2,3,2,2,4855,3,5,2,Travel_Rarely,Research & Development,Medical,Male,Manufacturing Director,Married,No,Yes
+32,1200,1,4,2,1,4087,2,6,5,Non-Travel,Research & Development,Technical Degree,Male,Research Scientist,Married,No,No
+48,1108,15,4,1,1,2367,2,8,2,Travel_Rarely,Research & Development,Other,Female,Research Scientist,Married,No,No
+34,479,7,4,1,4,2972,1,1,0,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Single,No,No
+55,685,26,5,5,4,19586,3,36,6,Travel_Rarely,Sales,Marketing,Male,Manager,Married,No,No
+34,1351,1,4,2,4,5484,2,2,2,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Married,No,No
+26,474,3,3,1,4,2061,3,1,0,Travel_Rarely,Research & Development,Life Sciences,Female,Research Scientist,Married,No,No
+38,1245,14,3,2,2,9924,3,9,8,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Married,No,No
+38,437,16,3,2,2,4198,4,3,2,Travel_Rarely,Sales,Life Sciences,Female,Sales Executive,Single,No,No
+36,884,1,4,2,3,6815,3,1,0,Travel_Rarely,Sales,Life Sciences,Female,Sales Executive,Single,No,No
+29,1370,3,1,1,1,4723,3,10,9,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Single,Yes,No
+35,670,10,4,2,3,6142,3,5,2,Travel_Rarely,Research & Development,Medical,Female,Healthcare Representative,Single,Yes,No
+39,1462,6,3,3,3,8237,3,7,6,Travel_Rarely,Sales,Medical,Male,Sales Executive,Married,No,No
+29,995,2,1,2,4,8853,4,6,4,Travel_Frequently,Research & Development,Life Sciences,Male,Healthcare Representative,Divorced,No,No
+50,264,9,3,5,3,19331,3,1,0,Travel_Rarely,Sales,Marketing,Male,Manager,Married,Yes,No
+23,977,10,3,1,3,2073,3,2,2,Travel_Rarely,Research & Development,Technical Degree,Male,Research Scientist,Married,No,No
+36,1302,6,4,2,1,5562,3,3,2,Travel_Frequently,Research & Development,Life Sciences,Male,Laboratory Technician,Married,Yes,No
+42,1059,9,2,5,4,19613,3,1,0,Travel_Rarely,Research & Development,Other,Male,Manager,Single,No,No
+35,750,28,3,2,3,3407,2,10,9,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Married,No,No
+34,653,10,4,2,3,5063,2,8,2,Travel_Frequently,Research & Development,Technical Degree,Male,Healthcare Representative,Married,No,No
+40,118,14,2,2,1,4639,3,5,4,Travel_Rarely,Sales,Life Sciences,Female,Sales Executive,Married,No,No
+43,990,27,3,1,2,4876,3,6,4,Travel_Rarely,Research & Development,Technical Degree,Male,Laboratory Technician,Divorced,No,No
+35,1349,7,2,1,4,2690,2,1,0,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Married,No,No
+46,563,1,4,4,1,17567,1,26,0,Travel_Rarely,Sales,Life Sciences,Male,Manager,Single,No,No
+28,329,24,3,1,2,2408,3,1,1,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Married,Yes,Yes
+22,457,26,2,1,3,2814,2,4,2,Non-Travel,Research & Development,Other,Female,Research Scientist,Married,Yes,No
+50,1234,20,5,4,3,11245,3,30,8,Travel_Frequently,Research & Development,Medical,Male,Healthcare Representative,Married,Yes,No
+32,634,5,4,1,4,3312,3,3,2,Travel_Rarely,Research & Development,Other,Female,Research Scientist,Married,No,No
+44,1313,7,3,5,4,19049,2,22,7,Travel_Rarely,Research & Development,Medical,Female,Research Director,Divorced,Yes,No
+30,241,7,3,1,2,2141,2,6,4,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Married,No,No
+45,1015,5,5,2,1,5769,3,10,7,Travel_Rarely,Research & Development,Medical,Female,Laboratory Technician,Single,Yes,No
+45,336,26,3,2,1,4385,3,10,7,Non-Travel,Sales,Marketing,Male,Sales Executive,Married,No,No
+31,715,2,4,2,1,5332,3,5,2,Travel_Frequently,Sales,Other,Male,Sales Executive,Single,No,No
+36,559,12,4,2,3,4663,3,3,2,Travel_Rarely,Research & Development,Life Sciences,Female,Manufacturing Director,Married,Yes,No
+34,426,10,4,2,4,4724,3,9,7,Travel_Frequently,Research & Development,Life Sciences,Male,Manufacturing Director,Divorced,No,No
+49,722,25,4,1,1,3211,2,9,6,Travel_Rarely,Research & Development,Life Sciences,Female,Laboratory Technician,Married,No,No
+39,1387,10,5,2,1,5377,3,7,7,Travel_Rarely,Research & Development,Medical,Male,Manufacturing Director,Married,No,No
+27,1302,19,3,1,1,4066,3,7,7,Travel_Rarely,Research & Development,Other,Male,Laboratory Technician,Divorced,No,No
+35,819,18,5,2,1,5208,3,16,15,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Married,No,No
+28,580,27,3,2,1,4877,2,5,3,Travel_Rarely,Research & Development,Medical,Female,Manufacturing Director,Divorced,No,No
+21,546,5,1,1,4,3117,3,2,2,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Single,No,No
+18,544,3,2,1,4,1569,4,0,0,Travel_Frequently,Sales,Medical,Female,Sales Representative,Single,Yes,Yes
+47,1176,26,4,5,3,19658,3,5,2,Travel_Rarely,Human Resources,Life Sciences,Female,Manager,Married,No,No
+39,170,3,2,2,3,3069,3,10,8,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Divorced,No,No
+40,884,15,3,3,3,10435,3,18,15,Travel_Rarely,Research & Development,Life Sciences,Female,Manufacturing Director,Married,No,No
+35,208,8,4,2,3,4148,3,14,11,Non-Travel,Research & Development,Life Sciences,Female,Healthcare Representative,Married,No,No
+37,671,19,3,2,3,5768,2,4,3,Travel_Rarely,Research & Development,Life Sciences,Male,Manufacturing Director,Married,No,No
+39,711,4,3,2,3,5042,1,9,2,Travel_Frequently,Research & Development,Medical,Female,Manufacturing Director,Single,No,No
+45,1329,2,2,2,4,5770,3,10,7,Travel_Rarely,Research & Development,Other,Female,Manufacturing Director,Divorced,No,No
+38,397,2,2,3,3,7756,4,5,4,Travel_Rarely,Research & Development,Medical,Female,Manufacturing Director,Married,Yes,No
+35,737,10,3,3,1,10306,3,13,12,Travel_Rarely,Sales,Medical,Male,Sales Executive,Married,No,Yes
+37,1470,10,3,1,2,3936,1,8,4,Travel_Rarely,Research & Development,Medical,Female,Research Scientist,Married,No,No
+40,448,16,3,3,4,7945,2,4,2,Travel_Rarely,Research & Development,Life Sciences,Female,Manufacturing Director,Single,Yes,No
+44,602,1,5,2,4,5743,3,10,7,Travel_Frequently,Human Resources,Human Resources,Male,Human Resources,Married,Yes,No
+48,365,4,5,4,4,15202,3,2,2,Travel_Frequently,Research & Development,Medical,Male,Manager,Married,No,No
+35,763,15,2,2,4,5440,2,2,2,Travel_Rarely,Sales,Medical,Male,Sales Executive,Divorced,Yes,Yes
+24,567,2,1,1,4,3760,3,6,3,Travel_Frequently,Research & Development,Technical Degree,Female,Research Scientist,Single,Yes,No
+27,486,8,3,1,3,3517,3,3,2,Travel_Rarely,Research & Development,Medical,Female,Research Scientist,Married,No,No
+27,591,2,3,1,4,2580,2,4,2,Travel_Frequently,Research & Development,Medical,Male,Research Scientist,Single,No,No
+40,1329,7,3,1,1,2166,1,4,2,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Single,Yes,Yes
+29,469,10,3,2,3,5869,3,5,2,Travel_Rarely,Sales,Medical,Male,Sales Executive,Single,No,No
+36,711,5,4,3,1,8008,3,3,2,Travel_Rarely,Research & Development,Life Sciences,Female,Healthcare Representative,Married,No,No
+25,772,2,1,2,3,5206,3,7,7,Travel_Frequently,Research & Development,Life Sciences,Male,Manufacturing Director,Divorced,No,No
+39,492,12,3,2,2,5295,3,5,4,Travel_Rarely,Research & Development,Medical,Male,Manufacturing Director,Married,No,No
+49,301,22,4,4,2,16413,3,4,2,Travel_Rarely,Research & Development,Other,Female,Research Director,Married,No,No
+50,813,17,5,3,1,13269,3,14,11,Travel_Rarely,Research & Development,Life Sciences,Female,Research Director,Divorced,No,No
+20,1141,2,3,1,3,2783,3,2,2,Travel_Rarely,Sales,Medical,Female,Sales Representative,Single,No,No
+34,1130,3,3,2,2,5433,3,11,8,Travel_Rarely,Research & Development,Life Sciences,Female,Research Scientist,Divorced,No,No
+36,311,7,3,1,2,2013,3,4,3,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Single,No,No
+49,465,6,1,4,3,13966,3,15,11,Travel_Rarely,Research & Development,Life Sciences,Female,Healthcare Representative,Married,Yes,No
+36,894,1,4,2,3,4374,3,3,2,Non-Travel,Research & Development,Medical,Female,Manufacturing Director,Married,No,No
+36,1040,3,2,2,1,6842,3,5,4,Travel_Rarely,Research & Development,Life Sciences,Male,Healthcare Representative,Divorced,No,No
+54,584,22,5,4,3,17426,3,10,8,Travel_Rarely,Research & Development,Medical,Female,Manager,Married,No,No
+43,1291,15,2,4,3,17603,3,14,10,Travel_Rarely,Research & Development,Life Sciences,Male,Research Director,Married,No,No
+35,880,12,4,2,4,4581,4,11,9,Travel_Frequently,Sales,Other,Male,Sales Executive,Single,Yes,Yes
+38,1189,1,3,2,4,4735,4,13,11,Travel_Frequently,Research & Development,Life Sciences,Male,Research Scientist,Married,No,No
+29,991,5,3,2,2,4187,2,10,0,Travel_Rarely,Sales,Medical,Male,Sales Executive,Divorced,Yes,No
+33,392,2,4,2,4,5505,3,6,2,Travel_Rarely,Sales,Medical,Male,Sales Executive,Divorced,No,No
+32,977,2,3,2,2,5470,2,9,5,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Divorced,No,No
+31,1112,5,4,2,4,5476,3,10,0,Travel_Rarely,Sales,Life Sciences,Female,Sales Executive,Married,No,No
+49,464,16,3,1,1,2587,2,2,2,Travel_Rarely,Research & Development,Medical,Female,Laboratory Technician,Divorced,Yes,No
+38,148,2,3,1,2,2440,3,4,3,Travel_Frequently,Research & Development,Medical,Female,Laboratory Technician,Single,No,No
+47,1225,2,4,4,2,15972,3,3,2,Travel_Rarely,Sales,Life Sciences,Female,Manager,Divorced,No,No
+49,809,1,3,4,3,15379,3,8,7,Travel_Rarely,Research & Development,Life Sciences,Male,Manager,Single,No,No
+41,1206,23,2,3,3,7082,3,2,0,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Single,Yes,No
+20,727,9,1,1,1,2728,3,2,2,Travel_Rarely,Sales,Life Sciences,Male,Sales Representative,Single,No,No
+33,530,16,3,2,4,5368,3,6,5,Non-Travel,Sales,Life Sciences,Female,Sales Executive,Divorced,Yes,No
+36,1351,26,4,2,3,5347,2,3,2,Travel_Rarely,Research & Development,Life Sciences,Male,Healthcare Representative,Married,No,No
+44,528,1,3,1,4,3195,3,2,2,Travel_Rarely,Human Resources,Life Sciences,Female,Human Resources,Divorced,Yes,No
+23,1320,8,1,1,3,3989,3,5,4,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Single,Yes,Yes
+38,1495,4,2,1,3,3306,2,0,0,Travel_Rarely,Research & Development,Medical,Female,Laboratory Technician,Married,No,No
+53,1395,24,4,3,4,7005,3,4,3,Travel_Rarely,Research & Development,Medical,Male,Healthcare Representative,Married,No,No
+48,708,7,2,1,3,2655,3,9,7,Travel_Frequently,Sales,Medical,Female,Sales Representative,Married,Yes,Yes
+32,1259,2,4,1,2,1393,3,1,0,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Single,No,Yes
+26,786,7,3,1,4,2570,3,7,7,Non-Travel,Research & Development,Medical,Male,Laboratory Technician,Single,No,No
+55,1441,22,3,1,2,3537,3,4,2,Travel_Rarely,Research & Development,Technical Degree,Male,Research Scientist,Divorced,No,No
+34,1157,5,2,2,4,3986,4,15,10,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Married,No,No
+60,370,1,4,3,4,10883,4,1,0,Travel_Rarely,Research & Development,Medical,Male,Healthcare Representative,Divorced,No,No
+33,267,21,3,1,2,2028,3,14,11,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Married,No,No
+37,1278,1,4,2,4,9525,2,6,3,Travel_Frequently,Sales,Medical,Male,Sales Executive,Divorced,No,No
+34,678,19,3,1,4,2929,3,10,9,Travel_Rarely,Research & Development,Life Sciences,Female,Research Scientist,Married,No,No
+23,427,7,3,1,4,2275,3,3,2,Travel_Rarely,Sales,Life Sciences,Male,Sales Representative,Divorced,Yes,Yes
+44,921,2,3,3,4,7879,3,8,7,Travel_Rarely,Research & Development,Life Sciences,Female,Healthcare Representative,Married,Yes,No
+35,146,2,4,1,4,4930,4,5,4,Travel_Frequently,Research & Development,Medical,Male,Research Scientist,Single,Yes,No
+43,1179,2,3,2,4,7847,3,10,9,Travel_Rarely,Sales,Medical,Male,Sales Executive,Married,Yes,No
+24,581,9,3,1,3,4401,3,5,3,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Married,No,No
+41,918,6,3,3,3,9241,3,10,8,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Single,No,No
+29,1082,9,4,1,3,2974,3,5,3,Travel_Rarely,Research & Development,Medical,Female,Laboratory Technician,Married,No,No
+36,530,2,4,2,4,4502,2,13,7,Travel_Rarely,Sales,Life Sciences,Female,Sales Representative,Single,No,No
+45,1238,1,1,3,3,10748,2,23,15,Non-Travel,Research & Development,Life Sciences,Male,Healthcare Representative,Married,No,No
+24,240,22,1,1,3,1555,3,1,0,Travel_Rarely,Human Resources,Human Resources,Male,Human Resources,Married,No,Yes
+47,1093,9,3,4,3,12936,1,23,5,Travel_Frequently,Sales,Life Sciences,Male,Sales Executive,Married,No,Yes
+26,390,17,4,1,3,2305,4,3,2,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Married,No,No
+45,1005,28,2,4,2,16704,3,21,6,Travel_Rarely,Research & Development,Technical Degree,Female,Research Director,Single,No,No
+32,585,10,3,1,3,3433,2,5,2,Travel_Frequently,Research & Development,Life Sciences,Male,Research Scientist,Married,No,No
+31,741,2,4,1,3,3477,4,5,2,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Married,No,No
+41,552,4,3,2,2,6430,3,3,2,Non-Travel,Human Resources,Human Resources,Male,Human Resources,Married,No,No
+40,369,8,2,2,1,6516,3,1,0,Travel_Rarely,Research & Development,Life Sciences,Female,Manufacturing Director,Married,Yes,No
+24,506,29,1,1,1,3907,4,6,2,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Divorced,No,No
+46,717,13,4,2,2,5562,3,10,7,Travel_Rarely,Research & Development,Life Sciences,Male,Healthcare Representative,Single,No,No
+35,1370,27,4,2,3,6883,3,7,7,Travel_Rarely,Research & Development,Life Sciences,Male,Manufacturing Director,Married,No,No
+30,793,16,1,1,4,2862,2,10,0,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Married,No,No
+47,543,2,4,2,2,4978,1,1,0,Non-Travel,Sales,Marketing,Male,Sales Executive,Married,No,No
+46,1277,2,3,3,4,10368,2,10,6,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Divorced,Yes,No
+36,1456,13,5,2,1,6134,3,2,2,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Divorced,Yes,Yes
+32,964,1,2,2,2,6735,3,0,0,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Single,No,Yes
+23,160,4,1,1,2,3295,1,3,2,Travel_Rarely,Research & Development,Medical,Female,Laboratory Technician,Single,No,No
+31,163,24,1,2,4,5238,2,5,4,Travel_Frequently,Research & Development,Technical Degree,Female,Manufacturing Director,Single,No,No
+39,792,1,3,2,4,6472,3,9,8,Non-Travel,Research & Development,Life Sciences,Male,Laboratory Technician,Married,Yes,No
+32,371,19,3,3,3,9610,1,4,3,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Married,No,No
+40,611,7,4,5,2,19833,2,21,8,Travel_Rarely,Sales,Medical,Male,Manager,Single,No,No
+45,176,4,3,3,3,9756,4,5,0,Travel_Rarely,Human Resources,Life Sciences,Female,Human Resources,Married,No,No
+30,1312,2,4,1,1,4968,3,9,7,Travel_Frequently,Research & Development,Technical Degree,Female,Research Scientist,Single,No,No
+24,897,10,3,1,4,2145,3,2,2,Travel_Frequently,Human Resources,Medical,Male,Human Resources,Married,No,No
+30,600,8,3,1,4,2180,2,4,2,Travel_Frequently,Human Resources,Human Resources,Female,Human Resources,Divorced,No,Yes
+31,1003,5,3,2,3,8346,3,5,2,Travel_Rarely,Sales,Technical Degree,Male,Sales Executive,Married,No,No
+27,1054,8,3,1,4,3445,2,6,2,Travel_Rarely,Research & Development,Medical,Female,Research Scientist,Single,No,No
+29,428,9,3,1,2,2760,3,2,2,Travel_Rarely,Sales,Marketing,Female,Sales Representative,Single,No,Yes
+29,461,1,3,2,3,6294,4,3,2,Travel_Frequently,Research & Development,Life Sciences,Male,Healthcare Representative,Single,Yes,No
+30,979,15,2,3,1,7140,3,7,7,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Divorced,No,No
+34,181,2,4,1,4,2932,3,5,0,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Married,Yes,No
+33,1283,2,3,2,2,5147,2,11,7,Non-Travel,Sales,Marketing,Female,Sales Executive,Single,No,No
+49,1313,11,4,2,4,4507,4,5,1,Travel_Rarely,Sales,Marketing,Female,Sales Executive,Single,No,No
+33,211,16,3,3,1,8564,2,0,0,Travel_Rarely,Sales,Life Sciences,Female,Sales Executive,Single,Yes,Yes
+38,594,2,2,1,2,2468,2,6,1,Travel_Frequently,Research & Development,Medical,Female,Laboratory Technician,Married,No,No
+31,1079,16,4,3,3,8161,3,1,0,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Married,No,Yes
+29,590,4,3,1,1,2109,3,1,0,Travel_Rarely,Research & Development,Technical Degree,Female,Research Scientist,Divorced,No,No
+30,305,16,3,2,3,5294,3,7,0,Travel_Rarely,Research & Development,Life Sciences,Male,Healthcare Representative,Married,No,No
+32,953,5,4,1,2,2718,3,7,7,Non-Travel,Research & Development,Technical Degree,Male,Research Scientist,Single,No,No
+38,833,18,3,2,4,5811,3,1,0,Travel_Rarely,Research & Development,Medical,Male,Healthcare Representative,Married,Yes,No
+43,807,17,3,1,3,2437,3,1,0,Travel_Frequently,Research & Development,Technical Degree,Male,Research Scientist,Married,Yes,Yes
+42,855,12,3,1,2,2766,2,5,3,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Divorced,No,No
+55,478,2,3,5,1,19038,3,1,0,Travel_Rarely,Research & Development,Medical,Male,Research Director,Married,No,No
+33,775,4,3,2,2,3055,2,9,8,Non-Travel,Research & Development,Technical Degree,Male,Research Scientist,Divorced,No,No
+41,548,9,4,1,1,2289,3,5,3,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Divorced,No,No
+34,1375,10,3,2,3,4001,3,15,14,Non-Travel,Sales,Life Sciences,Male,Sales Executive,Divorced,Yes,No
+53,661,1,4,4,3,12965,2,3,2,Non-Travel,Research & Development,Medical,Female,Manufacturing Director,Married,Yes,No
+43,244,2,3,1,4,3539,3,9,7,Travel_Rarely,Human Resources,Life Sciences,Male,Human Resources,Single,No,No
+34,511,3,2,2,4,6029,3,2,2,Travel_Rarely,Sales,Life Sciences,Female,Sales Executive,Single,No,No
+21,337,7,1,1,2,2679,3,1,0,Travel_Rarely,Sales,Marketing,Male,Sales Representative,Single,No,Yes
+38,1153,6,2,1,3,3702,3,5,4,Travel_Rarely,Research & Development,Other,Female,Laboratory Technician,Married,No,No
+22,1294,8,1,1,1,2398,3,1,0,Travel_Rarely,Research & Development,Medical,Female,Laboratory Technician,Married,Yes,Yes
+31,196,29,4,2,4,5468,3,12,7,Travel_Rarely,Sales,Marketing,Female,Sales Executive,Married,No,No
+51,942,3,3,3,3,13116,3,2,2,Travel_Rarely,Research & Development,Technical Degree,Female,Manager,Married,No,No
+37,589,9,2,2,2,4189,3,5,2,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Married,No,No
+46,734,2,4,5,4,19328,3,2,1,Travel_Rarely,Research & Development,Medical,Male,Research Director,Divorced,Yes,No
+36,1383,10,3,3,1,8321,3,12,8,Travel_Rarely,Research & Development,Life Sciences,Male,Healthcare Representative,Married,Yes,No
+44,429,1,2,1,2,2342,2,5,3,Travel_Frequently,Research & Development,Medical,Male,Research Scientist,Divorced,Yes,Yes
+37,1239,8,2,2,2,4071,2,10,0,Travel_Rarely,Human Resources,Other,Male,Human Resources,Divorced,No,No
+35,303,27,3,2,4,5813,3,10,7,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Single,Yes,Yes
+33,867,8,4,1,1,3143,3,10,8,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Married,No,No
+28,1181,1,3,1,4,2044,4,5,3,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Married,No,No
+39,1253,10,1,3,3,13464,3,4,3,Travel_Rarely,Research & Development,Medical,Male,Research Director,Single,No,No
+46,849,26,2,2,2,7991,3,2,2,Non-Travel,Sales,Life Sciences,Male,Sales Executive,Single,No,No
+40,616,2,2,1,1,3377,2,4,3,Travel_Rarely,Research & Development,Life Sciences,Female,Laboratory Technician,Married,No,No
+42,1128,13,3,2,1,5538,2,0,0,Travel_Rarely,Research & Development,Medical,Male,Healthcare Representative,Married,No,No
+35,1180,2,2,2,4,5762,3,7,7,Non-Travel,Research & Development,Medical,Male,Manufacturing Director,Divorced,No,No
+38,1336,2,3,1,2,2592,3,11,10,Non-Travel,Human Resources,Human Resources,Male,Human Resources,Divorced,No,No
+34,234,9,4,2,1,5346,2,7,1,Travel_Frequently,Research & Development,Life Sciences,Male,Laboratory Technician,Married,No,Yes
+37,370,10,4,2,1,4213,1,10,3,Travel_Rarely,Research & Development,Medical,Male,Manufacturing Director,Single,No,Yes
+39,766,20,3,2,4,4127,3,2,1,Travel_Frequently,Sales,Life Sciences,Male,Sales Executive,Divorced,No,No
+43,343,9,3,1,3,2438,2,3,2,Non-Travel,Research & Development,Life Sciences,Male,Research Scientist,Single,No,No
+41,447,5,3,2,2,6870,1,3,2,Travel_Rarely,Research & Development,Life Sciences,Male,Healthcare Representative,Single,No,No
+41,796,4,1,3,3,10447,4,22,14,Travel_Rarely,Sales,Marketing,Female,Sales Executive,Divorced,Yes,No
+30,1092,10,3,3,3,9667,3,7,7,Travel_Rarely,Research & Development,Medical,Female,Manufacturing Director,Single,No,No
+26,920,20,2,1,2,2148,3,5,1,Travel_Rarely,Human Resources,Medical,Female,Human Resources,Married,Yes,Yes
+46,261,21,2,2,2,8926,4,9,7,Travel_Rarely,Research & Development,Medical,Female,Healthcare Representative,Married,No,Yes
+40,1194,1,3,2,4,6513,3,5,3,Travel_Rarely,Research & Development,Life Sciences,Female,Healthcare Representative,Divorced,No,No
+34,810,8,2,2,3,6799,3,10,8,Travel_Rarely,Sales,Technical Degree,Male,Sales Executive,Married,No,No
+58,350,2,3,4,2,16291,2,16,9,Non-Travel,Sales,Medical,Male,Manager,Divorced,No,No
+35,185,23,4,1,3,2705,4,5,4,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Married,No,No
+47,1001,4,3,3,2,10333,3,22,11,Travel_Rarely,Research & Development,Life Sciences,Female,Manufacturing Director,Divorced,Yes,No
+40,750,12,3,2,1,4448,3,7,4,Travel_Rarely,Research & Development,Life Sciences,Female,Healthcare Representative,Divorced,No,No
+54,431,7,4,2,4,6854,2,7,1,Travel_Rarely,Research & Development,Medical,Female,Research Scientist,Married,No,No
+31,1125,7,4,3,1,9637,3,3,2,Travel_Frequently,Sales,Marketing,Female,Sales Executive,Married,No,No
+28,1217,1,3,1,1,3591,3,3,2,Travel_Rarely,Research & Development,Medical,Female,Research Scientist,Married,No,No
+38,723,2,4,2,4,5405,2,4,2,Travel_Rarely,Sales,Marketing,Female,Sales Representative,Married,Yes,No
+26,572,10,3,2,4,4684,3,5,3,Travel_Rarely,Sales,Medical,Male,Sales Executive,Single,No,No
+58,1216,15,4,4,3,15787,3,2,2,Travel_Frequently,Research & Development,Life Sciences,Male,Research Director,Married,Yes,No
+18,1431,14,3,1,3,1514,1,0,0,Non-Travel,Research & Development,Medical,Female,Research Scientist,Single,No,No
+31,359,18,5,1,1,2956,3,1,0,Travel_Rarely,Human Resources,Human Resources,Male,Human Resources,Married,No,Yes
+29,350,13,3,1,1,2335,3,2,2,Travel_Rarely,Human Resources,Human Resources,Male,Human Resources,Divorced,Yes,Yes
+45,589,2,4,2,3,5154,4,8,7,Non-Travel,Sales,Life Sciences,Female,Sales Executive,Married,No,No
+36,430,2,4,2,2,6962,3,1,0,Travel_Rarely,Research & Development,Other,Female,Research Scientist,Married,Yes,No
+43,1422,2,4,2,4,5675,3,7,7,Travel_Frequently,Sales,Life Sciences,Male,Sales Executive,Married,No,No
+27,1297,5,2,1,4,2379,2,5,4,Travel_Frequently,Research & Development,Life Sciences,Female,Laboratory Technician,Single,Yes,No
+29,574,20,1,1,4,3812,4,11,8,Travel_Frequently,Research & Development,Medical,Male,Laboratory Technician,Married,No,No
+32,1318,10,4,2,4,4648,4,0,0,Travel_Frequently,Sales,Marketing,Male,Sales Executive,Single,No,No
+42,355,10,4,1,3,2936,2,6,3,Non-Travel,Research & Development,Technical Degree,Male,Research Scientist,Married,No,No
+47,207,9,4,1,3,2105,3,2,2,Travel_Rarely,Research & Development,Life Sciences,Female,Laboratory Technician,Single,No,No
+46,706,2,2,3,4,8578,2,9,8,Travel_Rarely,Research & Development,Life Sciences,Male,Manufacturing Director,Divorced,No,No
+28,280,1,2,1,4,2706,3,3,2,Non-Travel,Human Resources,Life Sciences,Male,Human Resources,Divorced,No,No
+29,726,29,1,2,3,6384,3,7,0,Travel_Rarely,Research & Development,Life Sciences,Male,Healthcare Representative,Divorced,No,No
+42,1142,8,3,1,3,3968,3,0,0,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Single,No,No
+32,414,2,4,2,2,9907,2,2,2,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Single,Yes,Yes
+46,1319,3,3,4,1,13225,3,19,17,Travel_Rarely,Sales,Technical Degree,Female,Sales Executive,Divorced,No,No
+27,728,23,1,2,3,3540,3,9,8,Travel_Rarely,Sales,Medical,Female,Sales Representative,Married,No,No
+29,352,6,1,1,2,2804,3,1,0,Travel_Rarely,Human Resources,Medical,Male,Human Resources,Married,No,No
+43,823,6,3,5,3,19392,3,16,12,Travel_Rarely,Research & Development,Medical,Female,Manager,Married,No,No
+48,1224,10,3,5,2,19665,3,22,10,Travel_Rarely,Research & Development,Life Sciences,Male,Research Director,Married,No,No
+29,459,24,2,1,4,2439,2,1,0,Travel_Frequently,Research & Development,Life Sciences,Male,Research Scientist,Single,Yes,Yes
+46,1254,10,3,3,2,7314,3,8,7,Travel_Rarely,Sales,Life Sciences,Female,Sales Executive,Married,No,Yes
+27,1131,15,3,1,1,4774,2,7,6,Travel_Frequently,Research & Development,Life Sciences,Female,Research Scientist,Married,No,No
+39,835,19,4,2,4,3902,3,2,2,Travel_Rarely,Research & Development,Other,Male,Research Scientist,Divorced,No,No
+55,836,2,4,1,4,2662,4,5,2,Travel_Rarely,Research & Development,Technical Degree,Male,Research Scientist,Married,No,No
+28,1172,3,3,1,2,2856,3,1,0,Travel_Rarely,Sales,Medical,Female,Sales Representative,Married,No,No
+30,945,9,3,1,4,1081,2,1,0,Travel_Rarely,Sales,Medical,Male,Sales Representative,Single,No,Yes
+22,391,7,1,1,2,2472,3,1,0,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Single,Yes,Yes
+36,1266,10,4,2,3,5673,3,10,9,Travel_Rarely,Sales,Technical Degree,Female,Sales Executive,Married,Yes,No
+31,311,20,3,2,3,4197,3,10,8,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Divorced,No,No
+34,1480,4,3,3,4,9713,3,5,3,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Married,Yes,No
+29,592,7,3,1,1,2062,3,3,2,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Single,No,No
+37,783,7,4,2,1,4284,3,5,3,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Married,Yes,No
+35,219,16,2,2,2,4788,3,3,2,Travel_Rarely,Research & Development,Other,Female,Manufacturing Director,Married,Yes,No
+45,556,25,2,2,4,5906,2,9,8,Travel_Rarely,Research & Development,Life Sciences,Female,Manufacturing Director,Married,No,No
+36,1213,2,1,2,4,3886,2,10,1,Travel_Frequently,Human Resources,Human Resources,Male,Human Resources,Single,No,No
+40,1137,1,4,4,1,16823,3,19,7,Travel_Rarely,Research & Development,Life Sciences,Male,Manager,Divorced,No,No
+26,482,1,2,1,3,2933,2,1,0,Travel_Rarely,Research & Development,Life Sciences,Female,Research Scientist,Married,Yes,No
+27,511,2,2,2,3,6500,2,8,7,Travel_Rarely,Sales,Medical,Female,Sales Executive,Single,No,No
+48,117,22,3,4,4,17174,3,22,17,Travel_Frequently,Research & Development,Medical,Female,Manager,Divorced,No,No
+44,170,1,4,2,1,5033,3,2,0,Travel_Rarely,Research & Development,Life Sciences,Male,Healthcare Representative,Married,No,No
+34,967,16,4,1,1,2307,3,5,2,Non-Travel,Research & Development,Technical Degree,Male,Research Scientist,Married,Yes,Yes
+56,1162,24,2,1,4,2587,3,4,2,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Single,No,Yes
+36,335,17,2,2,2,5507,1,4,2,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Married,No,No
+41,337,8,3,2,2,4393,3,5,4,Travel_Rarely,Sales,Marketing,Female,Sales Executive,Married,No,No
+42,1396,6,3,3,1,13348,4,13,7,Travel_Rarely,Research & Development,Medical,Male,Research Director,Married,No,No
+31,1079,10,2,2,4,6583,3,5,2,Travel_Rarely,Sales,Medical,Female,Sales Executive,Divorced,Yes,No
+34,735,3,1,2,4,8103,2,4,2,Travel_Rarely,Sales,Medical,Female,Sales Executive,Married,Yes,No
+31,471,4,3,1,3,3978,2,2,2,Travel_Rarely,Research & Development,Medical,Female,Laboratory Technician,Divorced,No,No
+26,1096,6,3,1,4,2544,3,7,7,Travel_Frequently,Research & Development,Other,Male,Laboratory Technician,Married,No,No
+45,1297,1,4,2,3,5399,3,4,2,Travel_Frequently,Research & Development,Medical,Male,Healthcare Representative,Single,No,No
+33,217,10,4,2,3,5487,2,10,4,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Single,No,No
+28,783,1,2,2,4,6834,3,7,7,Travel_Frequently,Sales,Life Sciences,Male,Sales Executive,Married,Yes,No
+29,746,24,3,1,1,1091,3,1,0,Travel_Frequently,Sales,Technical Degree,Male,Sales Representative,Single,No,Yes
+39,1251,21,4,2,3,5736,3,3,2,Non-Travel,Sales,Life Sciences,Female,Sales Executive,Married,No,No
+27,1354,2,4,1,2,2226,2,5,3,Travel_Rarely,Research & Development,Technical Degree,Male,Research Scientist,Married,No,No
+34,735,22,4,2,4,5747,3,15,10,Travel_Frequently,Research & Development,Other,Male,Research Scientist,Married,Yes,No
+28,1475,13,2,2,3,9854,3,2,0,Travel_Rarely,Sales,Marketing,Female,Sales Executive,Single,Yes,Yes
+47,1169,14,4,2,2,5467,4,8,7,Non-Travel,Research & Development,Technical Degree,Male,Research Scientist,Married,No,No
+56,1443,11,5,2,1,5380,3,0,0,Travel_Rarely,Sales,Marketing,Female,Sales Executive,Married,No,No
+39,867,9,2,2,1,5151,3,10,0,Travel_Rarely,Research & Development,Medical,Male,Manufacturing Director,Married,No,No
+38,1394,8,3,2,2,2133,3,20,11,Travel_Frequently,Research & Development,Medical,Female,Research Scientist,Divorced,Yes,No
+58,605,21,3,4,4,17875,2,1,0,Travel_Rarely,Sales,Life Sciences,Female,Manager,Married,Yes,No
+32,238,5,2,1,3,2432,3,4,1,Travel_Frequently,Research & Development,Life Sciences,Female,Research Scientist,Single,Yes,Yes
+38,1206,9,2,1,4,4771,4,5,2,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Divorced,No,No
+49,1064,2,1,5,4,19161,3,5,4,Travel_Frequently,Research & Development,Life Sciences,Male,Research Director,Married,No,No
+42,419,12,4,2,4,5087,3,0,0,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Divorced,Yes,No
+27,1337,22,3,1,2,2863,3,1,0,Travel_Frequently,Human Resources,Human Resources,Female,Human Resources,Married,No,Yes
+35,682,18,4,2,1,5561,1,5,3,Travel_Rarely,Sales,Medical,Male,Sales Executive,Married,No,No
+28,1103,16,3,1,3,2144,2,5,3,Non-Travel,Research & Development,Medical,Male,Research Scientist,Single,No,No
+31,976,3,2,1,1,3065,4,4,2,Non-Travel,Research & Development,Medical,Male,Research Scientist,Divorced,Yes,No
+36,1351,9,4,1,2,2810,3,5,4,Non-Travel,Research & Development,Life Sciences,Male,Laboratory Technician,Married,No,No
+34,937,1,3,3,4,9888,2,14,8,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Single,No,No
+34,1239,13,4,3,3,8628,2,8,7,Travel_Rarely,Sales,Medical,Male,Sales Executive,Divorced,No,No
+26,157,1,3,1,1,2867,2,7,7,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Single,No,No
+29,136,1,3,2,1,5373,2,5,3,Travel_Rarely,Research & Development,Life Sciences,Male,Healthcare Representative,Married,No,No
+32,1146,15,4,2,4,6667,3,5,1,Non-Travel,Research & Development,Medical,Female,Healthcare Representative,Divorced,No,No
+31,1125,1,3,2,1,5003,3,10,8,Travel_Frequently,Research & Development,Life Sciences,Male,Research Scientist,Married,No,No
+28,1404,17,3,1,4,2367,2,4,1,Travel_Rarely,Research & Development,Technical Degree,Male,Laboratory Technician,Divorced,No,Yes
+38,1404,1,3,1,1,2858,2,1,0,Travel_Rarely,Sales,Life Sciences,Male,Sales Representative,Single,No,No
+35,1224,7,4,2,4,5204,3,10,8,Travel_Rarely,Sales,Life Sciences,Female,Sales Executive,Married,Yes,No
+27,954,9,3,2,4,4105,3,7,7,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Single,No,No
+32,1373,5,4,2,4,9679,3,1,0,Travel_Rarely,Research & Development,Life Sciences,Male,Manufacturing Director,Single,No,No
+31,754,26,4,2,4,5617,3,10,7,Travel_Frequently,Sales,Marketing,Male,Sales Executive,Married,Yes,Yes
+53,1168,24,4,3,1,10448,2,2,2,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Single,Yes,Yes
+54,155,9,2,2,3,2897,2,4,3,Travel_Rarely,Research & Development,Life Sciences,Female,Research Scientist,Married,No,No
+33,1303,7,2,2,3,5968,3,9,7,Travel_Frequently,Research & Development,Life Sciences,Male,Healthcare Representative,Divorced,No,No
+43,574,11,3,3,3,7510,3,10,9,Travel_Rarely,Research & Development,Life Sciences,Male,Healthcare Representative,Married,No,No
+38,1444,1,4,1,2,2991,3,6,2,Travel_Frequently,Human Resources,Other,Male,Human Resources,Married,Yes,No
+55,189,26,4,5,2,19636,3,10,9,Travel_Rarely,Human Resources,Human Resources,Male,Manager,Married,Yes,No
+31,1276,2,1,1,4,1129,3,1,0,Travel_Rarely,Research & Development,Medical,Female,Laboratory Technician,Divorced,Yes,No
+39,119,15,4,4,1,13341,3,20,8,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Single,No,No
+42,335,23,2,2,3,4332,3,20,9,Non-Travel,Research & Development,Life Sciences,Male,Research Scientist,Single,No,No
+31,697,10,3,3,3,11031,4,11,7,Non-Travel,Research & Development,Medical,Female,Research Director,Married,No,No
+54,157,10,3,2,1,4440,3,5,2,Travel_Rarely,Research & Development,Medical,Female,Manufacturing Director,Single,Yes,No
+24,771,1,2,2,3,4617,2,4,3,Travel_Rarely,Research & Development,Life Sciences,Male,Healthcare Representative,Single,No,No
+23,571,12,2,1,4,2647,4,5,2,Travel_Rarely,Research & Development,Other,Male,Laboratory Technician,Single,No,No
+40,692,11,3,2,3,6323,4,10,9,Travel_Frequently,Research & Development,Technical Degree,Female,Laboratory Technician,Married,No,No
+40,444,2,2,2,2,5677,3,11,8,Travel_Rarely,Sales,Marketing,Female,Sales Executive,Married,No,No
+25,309,2,3,1,2,2187,3,2,0,Travel_Rarely,Human Resources,Human Resources,Female,Human Resources,Married,No,No
+30,911,1,2,1,2,3748,2,12,8,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Married,No,No
+25,977,2,1,1,3,3977,2,2,2,Travel_Rarely,Research & Development,Other,Male,Laboratory Technician,Divorced,Yes,No
+47,1180,25,3,3,3,8633,3,17,14,Travel_Rarely,Research & Development,Medical,Male,Healthcare Representative,Single,No,No
+33,1313,1,2,1,3,2008,2,1,1,Non-Travel,Research & Development,Medical,Male,Laboratory Technician,Divorced,No,No
+38,1321,1,4,2,2,4440,3,15,13,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Married,No,No
+31,1154,2,2,1,3,3067,3,2,2,Travel_Rarely,Sales,Life Sciences,Male,Sales Representative,Married,No,No
+38,508,6,4,2,3,5321,3,8,3,Travel_Frequently,Research & Development,Life Sciences,Male,Manufacturing Director,Married,No,No
+42,557,18,4,2,1,5410,2,4,3,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Divorced,Yes,No
+41,642,1,3,1,4,2782,3,5,3,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Married,No,No
+47,1162,1,1,3,2,11957,1,13,8,Non-Travel,Research & Development,Medical,Female,Research Director,Married,No,No
+35,1490,11,4,1,3,2660,3,2,2,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Married,Yes,No
+22,581,1,2,1,3,3375,4,3,2,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Single,No,No
+35,1395,9,4,2,3,5098,3,10,7,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Single,No,No
+33,501,15,2,2,4,4878,3,9,7,Travel_Rarely,Research & Development,Medical,Female,Healthcare Representative,Married,Yes,No
+32,267,29,4,1,2,2837,3,6,2,Travel_Rarely,Research & Development,Life Sciences,Female,Laboratory Technician,Single,No,No
+40,543,1,4,1,4,2406,2,1,0,Travel_Rarely,Research & Development,Life Sciences,Male,Laboratory Technician,Married,No,No
+32,234,1,4,1,2,2269,3,2,2,Travel_Rarely,Sales,Medical,Male,Sales Representative,Married,No,No
+39,116,24,1,2,4,4108,3,7,7,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Single,No,No
+38,201,10,3,3,3,13206,3,18,16,Travel_Rarely,Research & Development,Medical,Female,Research Director,Married,No,No
+32,801,1,4,3,4,10422,3,14,10,Travel_Rarely,Sales,Marketing,Female,Sales Executive,Married,No,No
+37,161,10,3,3,4,13744,3,16,11,Travel_Rarely,Research & Development,Life Sciences,Female,Research Director,Married,Yes,No
+25,1382,8,2,2,3,4907,2,5,3,Travel_Rarely,Sales,Other,Female,Sales Executive,Divorced,Yes,No
+52,585,29,4,1,4,3482,2,9,8,Non-Travel,Sales,Life Sciences,Male,Sales Representative,Divorced,No,No
+44,1037,1,3,1,4,2436,3,4,3,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Single,Yes,No
+21,501,5,1,1,1,2380,3,2,2,Travel_Rarely,Sales,Medical,Male,Sales Representative,Single,Yes,No
+39,105,9,3,5,4,19431,2,6,0,Non-Travel,Research & Development,Life Sciences,Male,Manager,Single,No,No
+23,638,9,3,1,1,1790,2,1,0,Travel_Frequently,Sales,Marketing,Male,Sales Representative,Married,No,Yes
+36,557,3,3,3,4,7644,3,9,7,Travel_Rarely,Sales,Medical,Female,Sales Executive,Married,No,No
+36,688,4,2,2,2,5131,3,4,2,Travel_Frequently,Research & Development,Life Sciences,Female,Manufacturing Director,Divorced,No,No
+56,667,1,4,2,3,6306,2,13,12,Non-Travel,Research & Development,Life Sciences,Male,Healthcare Representative,Divorced,No,No
+29,1092,1,4,1,4,4787,4,2,2,Travel_Rarely,Research & Development,Medical,Male,Research Scientist,Married,Yes,Yes
+42,300,2,3,5,3,18880,2,22,6,Travel_Rarely,Research & Development,Life Sciences,Male,Manager,Married,No,No
+56,310,7,2,1,3,2339,1,10,9,Travel_Rarely,Research & Development,Technical Degree,Male,Laboratory Technician,Married,No,Yes
+41,582,28,4,4,2,13570,3,20,7,Travel_Rarely,Research & Development,Life Sciences,Female,Manufacturing Director,Married,No,No
+34,704,28,3,2,3,6712,3,8,7,Travel_Rarely,Sales,Marketing,Female,Sales Executive,Married,No,No
+36,301,15,4,2,4,5406,2,15,12,Non-Travel,Sales,Marketing,Male,Sales Executive,Divorced,No,No
+41,930,3,3,2,2,8938,3,5,4,Travel_Rarely,Sales,Life Sciences,Male,Sales Executive,Divorced,No,No
+32,529,2,3,1,1,2439,3,4,2,Travel_Rarely,Research & Development,Technical Degree,Male,Research Scientist,Single,No,No
+35,1146,26,4,3,4,8837,3,9,0,Travel_Rarely,Human Resources,Life Sciences,Female,Human Resources,Single,Yes,No
+38,345,10,2,2,4,5343,3,10,7,Travel_Rarely,Sales,Life Sciences,Female,Sales Executive,Married,No,No
+50,878,1,4,2,3,6728,3,6,3,Travel_Frequently,Sales,Life Sciences,Male,Sales Executive,Divorced,No,Yes
+36,1120,11,4,2,4,6652,2,6,3,Travel_Rarely,Sales,Marketing,Female,Sales Executive,Married,No,No
+45,374,20,3,2,3,4850,3,5,3,Travel_Rarely,Sales,Life Sciences,Female,Sales Executive,Single,No,No
+40,1322,2,4,1,3,2809,3,2,2,Travel_Rarely,Research & Development,Life Sciences,Male,Research Scientist,Single,No,No
+35,1199,18,4,2,3,5689,4,10,2,Travel_Frequently,Research & Development,Life Sciences,Male,Healthcare Representative,Married,Yes,No
+40,1194,2,4,1,3,2001,3,5,3,Travel_Rarely,Research & Development,Medical,Female,Research Scientist,Married,No,No
+35,287,1,4,1,4,2977,3,4,3,Travel_Rarely,Research & Development,Life Sciences,Female,Research Scientist,Married,No,No
+29,1378,13,2,2,2,4025,3,4,3,Travel_Rarely,Research & Development,Other,Male,Laboratory Technician,Married,Yes,No
+29,468,28,4,1,1,3785,1,5,4,Travel_Rarely,Research & Development,Medical,Female,Research Scientist,Single,No,No
+50,410,28,3,3,1,10854,3,3,2,Travel_Rarely,Sales,Marketing,Male,Sales Executive,Divorced,Yes,Yes
+39,722,24,1,4,4,12031,2,20,9,Travel_Rarely,Sales,Marketing,Female,Sales Executive,Married,No,No
+31,325,5,3,2,1,9936,3,9,4,Non-Travel,Research & Development,Medical,Male,Manufacturing Director,Single,No,No
+26,1167,5,3,1,3,2966,3,4,2,Travel_Rarely,Sales,Other,Female,Sales Representative,Single,No,No
+36,884,23,2,2,4,2571,3,5,2,Travel_Frequently,Research & Development,Medical,Male,Laboratory Technician,Married,No,No
+39,613,6,1,3,1,9991,3,7,7,Travel_Rarely,Research & Development,Medical,Male,Healthcare Representative,Married,No,No
+27,155,4,3,2,2,6142,3,6,2,Travel_Rarely,Research & Development,Life Sciences,Male,Manufacturing Director,Married,Yes,No
+49,1023,2,3,2,2,5390,2,9,6,Travel_Frequently,Sales,Medical,Male,Sales Executive,Married,No,No
+34,628,8,3,2,3,4404,4,4,3,Travel_Rarely,Research & Development,Medical,Male,Laboratory Technician,Married,No,No
